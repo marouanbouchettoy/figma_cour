@@ -1,0 +1,274 @@
+WEBVTT
+
+00:01.700 --> 00:06.050
+Let's talk in more detail about color and to start off with this video I want to show you something
+
+00:06.050 --> 00:07.670
+really cool.
+
+00:07.670 --> 00:13.340
+Now over the course of these videos we've been using the same color red here throughout a lot of our
+
+00:13.340 --> 00:14.190
+art boards.
+
+00:14.330 --> 00:17.880
+So what happens when the primary colors need to change mid design.
+
+00:18.080 --> 00:23.720
+Well we can click on this icon here because we know that we use the same red as we've used across the
+
+00:23.720 --> 00:25.070
+rest of this project.
+
+00:25.400 --> 00:27.740
+And it's as easy as clicking this edit button right here.
+
+00:27.740 --> 00:33.740
+We can choose to select every object in this file that has the same feel.
+
+00:33.800 --> 00:40.280
+So now all of this is selected and I can choose to change this field to blue and automatically our entire
+
+00:40.280 --> 00:45.080
+project now has this blue style guide incorporated.
+
+00:45.080 --> 00:51.470
+So that's one really quick way to test out new colors and new styles across many our boards in your
+
+00:51.470 --> 00:52.370
+project.
+
+00:52.400 --> 00:58.310
+Was going to click this go back to select all with the same fill and I'll choose to change this back
+
+00:58.310 --> 00:59.200
+to read here.
+
+00:59.330 --> 01:01.780
+And you can really change it to any color that you want.
+
+01:02.030 --> 01:05.930
+So that's just one powerful way of using some of these filters to select things.
+
+01:05.930 --> 01:10.670
+It's the same thing with stroke or different shadow effects if you want to change the shadow effects
+
+01:10.670 --> 01:12.060
+across the project.
+
+01:12.170 --> 01:14.160
+That all works the same way.
+
+01:14.570 --> 01:19.580
+And now with this background color here that we created for the splash screen that's this rectangle
+
+01:19.580 --> 01:26.210
+right here we can see that we already added a color feel over top of an image file but we can add multiple
+
+01:26.210 --> 01:31.970
+color fills so I can click on the plus icon click on this little color thumbnail and we have a number
+
+01:31.970 --> 01:40.190
+of options to add more color to the design so I'm going to click on radial here and we can see that
+
+01:40.190 --> 01:46.970
+we have a nice radial image with some anchor handles here to control the width of this radial and also
+
+01:46.970 --> 01:47.630
+the height.
+
+01:47.630 --> 01:52.100
+Here are the size and we can change the opacity here.
+
+01:52.140 --> 01:54.490
+I'm going to change this to 30 percent.
+
+01:55.160 --> 01:58.990
+Let's try 60 percent here just to make it a little bit brighter.
+
+01:59.000 --> 02:03.620
+And again if I click in here I can decide where the Beginning and End Point is of this.
+
+02:03.620 --> 02:10.580
+So maybe if I want to start inside this hand here and then I can have the endpoint something like this
+
+02:11.540 --> 02:16.380
+and the width I want it to be a little bit wider.
+
+02:16.780 --> 02:22.600
+And you can really just play around with this and you can have a combination of different effects here.
+
+02:22.650 --> 02:29.640
+Now inside of the color panel itself if we click on this fill for example we have a number of ways we
+
+02:29.640 --> 02:31.310
+can control the color.
+
+02:31.560 --> 02:37.410
+We have the color controls down here and the saturation controls in here.
+
+02:37.410 --> 02:39.420
+We also have the hex value.
+
+02:39.410 --> 02:44.070
+So if you have any other colors that you want to copy from any other program like Adobe Illustrator
+
+02:44.460 --> 02:51.490
+or anywhere else you can paste them as a hex value or if there are G-B you can paste those in here.
+
+02:51.540 --> 02:57.540
+You also have CSSA values so if you have CSSA properties do you want to copy and paste in here to copy
+
+02:57.540 --> 02:58.200
+those colors.
+
+02:58.200 --> 02:59.250
+You can do that.
+
+02:59.670 --> 03:02.760
+And then the HSP values.
+
+03:02.790 --> 03:08.310
+So there are a number of ways that you can add copy and paste colors or paste them outside of here into
+
+03:08.310 --> 03:09.870
+other projects.
+
+03:09.870 --> 03:11.220
+Another way we can use colors.
+
+03:11.220 --> 03:15.710
+Let's go into this recipe details frame here.
+
+03:15.990 --> 03:18.810
+And let's look at just this prime rib roast title here.
+
+03:18.810 --> 03:25.500
+So I'm just going to zoom in and let's say we spend a little bit trying to find a good color for these
+
+03:25.500 --> 03:26.200
+headers.
+
+03:27.110 --> 03:32.360
+I'm going to start out with this blue color here and that looks decent but it's not dark enough for
+
+03:32.360 --> 03:37.160
+me so I'm just going to pull this down just a little bit and we can see that looks like a really good
+
+03:37.160 --> 03:44.990
+color and contrast with this red and we have the hex value here so we could copy this hex value and
+
+03:44.990 --> 03:49.710
+we can paste this anywhere else we want to copy that same color.
+
+03:49.730 --> 03:56.730
+So I can click inside of here and just do a quick command B and enter and we can paste it that way.
+
+03:56.750 --> 04:00.490
+But we know that we're going to reuse this throughout our project quite a bit.
+
+04:01.780 --> 04:07.990
+So if I want I can scroll down here and you can see that I have a few color choices.
+
+04:07.990 --> 04:09.810
+This is the document colors.
+
+04:09.910 --> 04:15.400
+So these are all the colors that have been used in the document and I can just click here to copy that
+
+04:15.400 --> 04:16.530
+same color.
+
+04:17.080 --> 04:19.030
+Or I can choose personal colors.
+
+04:19.030 --> 04:20.860
+These are in my personal collection.
+
+04:20.860 --> 04:25.920
+Every time I open figment this is going to be the same palette of colors.
+
+04:26.840 --> 04:28.550
+And then I have a chef team colors.
+
+04:28.580 --> 04:33.380
+Now you remember in a previous video we created a new team for this recipe's app.
+
+04:33.650 --> 04:39.400
+So by doing that we can save this color inside of the color palette anywhere that we want.
+
+04:39.410 --> 04:43.470
+I'm going to save this inside of my personal colors as well because I really like this color.
+
+04:43.730 --> 04:44.300
+So now.
+
+04:44.330 --> 04:48.450
+Because it's in my personal colors I can create a new file here.
+
+04:48.680 --> 04:52.990
+This file is completely separate from the other file we were working on.
+
+04:53.210 --> 04:59.690
+And if I just draw a rectangle for demo purposes I can click on fill go into my personal colors and
+
+04:59.690 --> 05:03.060
+I still have that same color that I can reuse throughout multiple files.
+
+05:03.060 --> 05:09.700
+Now you may also notice that we have an opacity control here and when we dial this left and right we
+
+05:09.700 --> 05:11.610
+can see that that changes here.
+
+05:11.620 --> 05:15.780
+So you have quick access to change the opacity here or down here.
+
+05:15.790 --> 05:18.870
+So I someone to leave this at the dark blue.
+
+05:18.940 --> 05:24.640
+And one final way to grab and reuse color is if we have a color inside of an image for example that
+
+05:24.640 --> 05:29.720
+we want to reuse we can't just double click in here and find out what the field color is for an image
+
+05:30.250 --> 05:34.730
+but let's say there's some green inside of here that we want to reuse inside of our project.
+
+05:35.200 --> 05:41.980
+Well we can click on any piece of text and I can hold down control C and get this little eyedropper
+
+05:42.430 --> 05:47.860
+and it'll show you the hex value here on the top right as you're moving along your mouse to the different
+
+05:47.860 --> 05:48.710
+colors.
+
+05:49.030 --> 05:55.210
+Or if you click on this color thumbnail you can see that same control here this eyedropper control.
+
+05:55.270 --> 06:01.660
+So I'm going to click on this eyedropper tool and I'm going to choose to select a color somewhere around
+
+06:02.620 --> 06:03.870
+this area here.
+
+06:04.180 --> 06:08.650
+And so very quickly you can grab a color like that and you can save that in your palette for later if
+
+06:08.650 --> 06:10.760
+you want to use it.
+
+06:10.770 --> 06:15.610
+I actually really like this blue color so I'm going to click back in this color palette and you can
+
+06:15.610 --> 06:16.410
+see when I clicked on.
+
+06:16.450 --> 06:21.430
+I'm actually using the eyedropper tool still but it gives me the same hex value.
+
+06:21.880 --> 06:26.680
+So those are a few ways you can use the color panel inside of your file or inside of your stroke.

@@ -1,0 +1,40 @@
+﻿1
+00:00:00,540 --> 00:00:03,090
+This course has broken down into multiple sections.
+
+2
+00:00:03,300 --> 00:00:07,350
+We'll first learn how to navigate around the interface and in the next section will begin setting up
+
+3
+00:00:07,350 --> 00:00:08,730
+our project.
+
+4
+00:00:08,730 --> 00:00:13,230
+Next we will be adding content into our artworks and then we'll complete the design using the skills
+
+5
+00:00:13,230 --> 00:00:16,680
+that we've learned in previous sections after the design is complete.
+
+6
+00:00:16,680 --> 00:00:21,030
+We'll move on to prototyping and sharing our design and I'll lead off with some resources that you can
+
+7
+00:00:21,030 --> 00:00:24,020
+use to continue learning and designing with Figma.
+
+8
+00:00:24,180 --> 00:00:27,850
+This course is designed to walk you through designing your recipe from scratch.
+
+9
+00:00:27,940 --> 00:00:32,430
+But if you ever want to jump into future videos and of course there are exercise files included to start
+
+10
+00:00:32,430 --> 00:00:33,330
+wherever you'd like.
+

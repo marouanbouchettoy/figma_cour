@@ -1,0 +1,250 @@
+WEBVTT
+
+00:00.090 --> 00:06.870
+Finally we are ready to prototype our design now prototyping is really easy and you can find the prototyping
+
+00:06.870 --> 00:09.170
+tab here next to the Design tab.
+
+00:09.420 --> 00:14.670
+And once you click on this prototyping tab then you get this circle here to the right of every object
+
+00:14.670 --> 00:18.740
+that you select that you can click and drag to link your boards up.
+
+00:19.140 --> 00:25.620
+So if we're starting off with the splash screen you want to go from the splash screen to the home entrées
+
+00:25.740 --> 00:32.410
+screen here and I'm going to zoom in here so we can see just in a little bit more detail what I'm doing.
+
+00:32.490 --> 00:38.850
+And as you can see with these three screens we want to link these up by clicking on appetisers to jump
+
+00:38.850 --> 00:39.850
+to this page.
+
+00:40.050 --> 00:41.880
+And entrées to jump to this page.
+
+00:41.880 --> 00:43.610
+But they're all inside one group.
+
+00:43.710 --> 00:49.110
+Well that's OK we could link the group to other art boards but that's not going to work in our case
+
+00:49.110 --> 00:56.010
+so we can double click to drill into just this desert text here and we can drag this over to desert's
+
+00:57.150 --> 01:02.280
+and we don't need to link up entrées because we're on the entrées page we can link up appetisers and
+
+01:02.280 --> 01:04.590
+same thing here on trees goes here.
+
+01:04.770 --> 01:11.040
+Desert's goes here and same thing here on trees.
+
+01:11.730 --> 01:15.970
+Appetisers So we already have those links up.
+
+01:16.020 --> 01:20.320
+Now we can select these menu items and link these up here.
+
+01:25.720 --> 01:27.900
+And looks like those are all correct.
+
+01:30.420 --> 01:32.880
+And now we're going to run into a bit of a problem here.
+
+01:32.880 --> 01:40.620
+We have these hyperlinks here I created this all in one text box and this works OK and most design cases.
+
+01:40.620 --> 01:43.840
+But if you want to prototype this you can only prototype this one box.
+
+01:43.860 --> 01:45.760
+So it's not going to work for us.
+
+01:45.930 --> 01:48.000
+So we can jump back into design here.
+
+01:48.330 --> 01:54.600
+And I'm just going to select this text here and do a command X to cut it.
+
+01:55.290 --> 01:59.630
+And now we'll just copy these elements down here.
+
+01:59.700 --> 02:02.190
+I'll paste this in to the same thing.
+
+02:02.190 --> 02:03.670
+Cut down here.
+
+02:06.070 --> 02:13.290
+Paste this and cut this last text and paste again.
+
+02:13.330 --> 02:18.180
+These have to be individual text boxes just for the sake of prototyping.
+
+02:18.790 --> 02:23.360
+So now I want these to be 30 pixels apart.
+
+02:25.000 --> 02:26.510
+And that looks good now.
+
+02:26.650 --> 02:29.370
+So we can jump back into prototype mode.
+
+02:31.540 --> 02:35.610
+And now I can jump into popular recipes is going to be this page here.
+
+02:35.620 --> 02:40.050
+And we didn't design a saved recipes shopping list or setting screen.
+
+02:40.330 --> 02:46.660
+But if you wanted to design some screens to kind of mock up this interaction you can do that and then
+
+02:46.660 --> 02:51.970
+just link to your saved recipes after you design something like that.
+
+02:52.060 --> 02:55.420
+So this will work for what we have so far.
+
+02:55.750 --> 03:01.360
+And so this menu actually we want this to link back to the popular recipes as well kind of a slide back
+
+03:01.360 --> 03:03.280
+and forth type of thing.
+
+03:03.970 --> 03:11.590
+Now if the user clicks on this image we want that to link to the recipe details screen and maybe this
+
+03:11.590 --> 03:14.950
+title to sort and link this to the recipe details as well.
+
+03:15.370 --> 03:22.600
+And then as we're going down this list if the user clicks on this last step checking it off they're
+
+03:22.600 --> 03:28.540
+going to get this screen saying you did it share with your friends and they can click on this x here
+
+03:28.540 --> 03:29.680
+to jump back.
+
+03:29.830 --> 03:35.010
+Or maybe this background image they can click on here and jump back as well.
+
+03:39.070 --> 03:44.260
+So I think we have everything linked up and we can test it very quickly just to make sure.
+
+03:44.260 --> 03:46.280
+So we have the start screen right here.
+
+03:46.280 --> 03:51.760
+We can move it anywhere we want but we're going to leave this at the splash screen here and we'll just
+
+03:51.760 --> 03:56.500
+go into present mode and let's see how well we've done.
+
+03:57.820 --> 03:59.920
+We have the design chefe screen.
+
+04:00.010 --> 04:03.330
+You can click anywhere to jump into our popular recipes.
+
+04:03.370 --> 04:09.560
+And let's just see how this menu works here so we can click there or click back that toggle works great.
+
+04:09.640 --> 04:16.850
+Or we can click on popular recipes here and we can toggle between appetizers entrees and desserts here.
+
+04:17.050 --> 04:18.800
+So that's looking really good.
+
+04:19.420 --> 04:24.010
+And I probably should have changed the timing because it doesn't take five hours for strawberry shortcake
+
+04:24.040 --> 04:26.200
+but you can change that if you want.
+
+04:26.920 --> 04:31.900
+Now we have that all set up and you can see if I click here nothing happens because we don't have a
+
+04:31.900 --> 04:34.410
+strawberry shortcake recipe.
+
+04:34.450 --> 04:39.460
+We don't have a breadsticks recipe but we do have this prime rib roast so that's going to jump us into
+
+04:39.460 --> 04:40.130
+this.
+
+04:40.210 --> 04:43.900
+And you see how this is zoomed out to show us the entire board.
+
+04:44.080 --> 04:50.680
+Well what we want to do is change this feel area to display it 100 percent always.
+
+04:50.680 --> 04:54.820
+So now this behaves a little bit more like what you would see on the iPhone.
+
+04:54.820 --> 04:58.390
+Now one thing I've noticed while prototyping and this is why prototyping is so helpful.
+
+04:58.390 --> 05:06.790
+I don't have a way to jump back into that home screen so very quickly I can still jump into my prototyping
+
+05:06.790 --> 05:11.840
+file and we can see down here we need an x icon.
+
+05:12.070 --> 05:15.220
+So we're just going to zoom into these two boards.
+
+05:15.620 --> 05:18.950
+I'll go back into design and I already have an X-ray here that I can use.
+
+05:18.950 --> 05:24.490
+I'll just hold down option and bring this over here and just lay this in the center somewhere and I'm
+
+05:24.490 --> 05:29.300
+going to make the field white and I probably want to make this a little bit bigger.
+
+05:29.740 --> 05:34.390
+So 20 pixels by 20 pixels and that's looking good.
+
+05:34.390 --> 05:37.080
+I think that'll be a nice X screen.
+
+05:37.120 --> 05:46.840
+The last thing I'm going to do is just add a subtle drop shadow here of 50 pixel opacity and zero pixels
+
+05:47.320 --> 05:48.080
+vertically.
+
+05:48.100 --> 05:50.000
+So we have that nice x.
+
+05:50.170 --> 05:55.840
+We can still jump into our prototyping present mode and we can see that we have that X now but if we
+
+05:55.840 --> 06:05.500
+go back into our design and go into prototype you now I can choose to have this x come back over to
+
+06:05.500 --> 06:15.450
+entrées jump back into my prototyping and now I can toggle back and forth between these.
+
+06:15.480 --> 06:20.750
+So again as you prototype you'll see things like this where you may get stuck in the prototyping or
+
+06:20.760 --> 06:27.030
+the interaction and you'll have to go back into your design add some buttons and then test again to
+
+06:27.030 --> 06:31.830
+make sure that somebody can go through your design.
+
+06:31.830 --> 06:38.280
+The last screen we have right here is we can check off this last step and we have this congratulations
+
+06:38.290 --> 06:42.880
+you did it screen and we can click X to jump back into our prime rib roast.

@@ -1,0 +1,118 @@
+WEBVTT
+
+00:00.430 --> 00:05.850
+In the last video we created a brand new project and a new file the chef underscore recipe underscore
+
+00:05.910 --> 00:06.690
+app.
+
+00:06.930 --> 00:12.150
+But what if you've started your project already inside of a program like sketch or what if you want
+
+00:12.150 --> 00:16.330
+to start with a template and build your designs out from there.
+
+00:16.500 --> 00:21.360
+He does really good with importing sketch files and maintains the quality in the layering scheme that
+
+00:21.360 --> 00:24.570
+you would expect to give you an example of this.
+
+00:24.570 --> 00:30.950
+I'm going to go into our exercise files under the assets folder and you can see we have a recipe app
+
+00:30.960 --> 00:33.680
+template sketch file here that we can import.
+
+00:33.720 --> 00:38.910
+Now you can drag and drop in a sketch file directly into this project or you can browse the way that
+
+00:38.910 --> 00:41.520
+I did and click open.
+
+00:41.640 --> 00:46.980
+And while this is loading this happens to be a template that I found on a Web site called Sketch app
+
+00:46.980 --> 00:54.210
+sources now Sketchup sources have tons of templates whether it's the IRS template guidelines material
+
+00:54.210 --> 01:01.110
+design you can see some Tesla dashboards here so feel free to go onto this Web site and browse these
+
+01:01.110 --> 01:05.430
+thousands of templates and if there's something that you like with a certain flavor that matches where
+
+01:05.430 --> 01:11.590
+you'd like to start you can click download resource here and then import it later here into Sigma.
+
+01:11.610 --> 01:12.690
+Now this is important.
+
+01:12.690 --> 01:13.940
+We'll click dumb.
+
+01:14.250 --> 01:16.410
+And now you can see this template here.
+
+01:16.590 --> 01:20.270
+And if we double click inside of here we can see how this looks.
+
+01:20.280 --> 01:26.320
+Now one of the first things that we can see is we may not have the fonts that were used in this template
+
+01:26.760 --> 01:33.000
+so you can go online and find these or use type kits to find certain fonts and load them before you
+
+01:33.000 --> 01:34.410
+get started with your design.
+
+01:34.620 --> 01:39.130
+Or you can just dismiss this and update your fonts later.
+
+01:39.210 --> 01:44.460
+We can see that this sketch template had two pages if we click on here we can see a symbol's page and
+
+01:44.460 --> 01:45.300
+then a page one.
+
+01:45.300 --> 01:50.340
+So this is where they retained all of their symbols inside sketch and these symbols are converted into
+
+01:50.340 --> 01:56.870
+Master components which is really great to go back to PAGE ONE here and we can see these different frames
+
+01:57.420 --> 01:59.910
+and we see that the background is gray.
+
+01:59.910 --> 02:04.390
+So we have a hard time distinguishing the boundaries between some of these frames.
+
+02:04.440 --> 02:10.410
+So all we have to do is go to this background area and change this to be like gray and we can kind of
+
+02:10.410 --> 02:13.570
+see the contrast there between the frames and the background here.
+
+02:14.320 --> 02:19.990
+And another thing that you notice is although it retains a lot of the layering schemes and some of this
+
+02:19.990 --> 02:24.520
+font here there are times where some layers may not import correctly.
+
+02:24.520 --> 02:29.590
+So if we go to this log in and sign up for example there are some missing text here between the log
+
+02:29.590 --> 02:31.780
+in and sign up by him and things like that.
+
+02:31.780 --> 02:37.690
+So it may be worth your while to open up the sketch program and find the few layers that may be missing
+
+02:37.690 --> 02:39.450
+and add those in manually.
+
+02:39.670 --> 02:42.790
+But you can see how much time this will save you getting started with Fig.
+
+02:42.850 --> 02:44.460
+If you're starting with a sketch file.

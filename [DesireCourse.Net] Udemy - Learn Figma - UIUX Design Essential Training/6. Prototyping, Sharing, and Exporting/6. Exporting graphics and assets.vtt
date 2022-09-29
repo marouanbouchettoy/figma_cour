@@ -1,0 +1,145 @@
+WEBVTT
+
+00:00.750 --> 00:05.100
+After you've finished with your design and you're testing out the prototype and everything looks really
+
+00:05.100 --> 00:10.300
+good you probably want to export some of these assets for your developers to use.
+
+00:10.800 --> 00:13.460
+A good way to do this is to look at each screen.
+
+00:13.710 --> 00:19.280
+So we have this screen right here with the chef's icon and then some custom text here.
+
+00:19.320 --> 00:22.070
+So I'm going to just group all of this text.
+
+00:22.290 --> 00:37.980
+I'm going to name this title chef's recipe and here I'm just going to name this icon chef's hat.
+
+00:38.410 --> 00:42.700
+And you just want to make sure that all of your graphics are named correctly the name that you want
+
+00:42.700 --> 00:44.320
+the file to export as.
+
+00:44.380 --> 00:50.200
+And now if you click on this export button here we can see that there 0 0 0 selected designs.
+
+00:50.200 --> 00:54.730
+That's because if we want to use this we want to make these graphics exportable so we can click on this
+
+00:54.760 --> 01:00.910
+plus icon here and we can choose to export this as PMG JPAC or SPG.
+
+01:00.910 --> 01:05.830
+Now if we choose g we can export this at its exact pixel size.
+
+01:06.130 --> 01:12.400
+Or if we want to add a two times or three times you can just keep on hitting this plus icon and it will
+
+01:12.400 --> 01:15.230
+create some multiple sizes here.
+
+01:15.280 --> 01:20.180
+So we have a 2 x 3 x and if we want text appended to the filename.
+
+01:20.320 --> 01:28.600
+That's what this is doing here so it's going to say Icahn's chef's hat at 2 x at 3 x so very quickly.
+
+01:28.660 --> 01:33.640
+I'm enabling these two to be exported one time to time three times.
+
+01:33.640 --> 01:35.460
+And let's go over here.
+
+01:35.710 --> 01:42.010
+The same thing we want to make sure that these are named correctly so we can just name this timer name
+
+01:42.010 --> 01:42.650
+this hard.
+
+01:42.670 --> 01:45.730
+Just really quickly you probably have different naming conventions.
+
+01:46.160 --> 01:52.750
+But just make it really simple for your developers to find what they want and you want to do this throughout
+
+01:52.840 --> 01:54.360
+all of the designs here.
+
+01:54.370 --> 01:59.970
+But let's just use these three so I can select all three of these and come down here I'm going to hit.
+
+01:59.980 --> 02:06.010
+Plus it's exploiting those as one time two times three times right here.
+
+02:06.010 --> 02:12.370
+So now I don't have to have anything selected because I've preset those to be exportable.
+
+02:12.550 --> 02:18.820
+I can click on this export now and it will tell me there's 15 graphics that are going to be exported.
+
+02:18.850 --> 02:21.640
+And you see this is one time two times three times.
+
+02:21.820 --> 02:29.510
+And this is giving me an error that the origin is not aligned to pixels but we can quickly click export.
+
+02:29.960 --> 02:37.170
+I'm going to just export this to my desktop and I'll create a new folder called assets
+
+02:40.100 --> 02:41.540
+and hit save.
+
+02:42.050 --> 02:48.560
+And now when I go into my assets folder under my desktop when I created these you can see the names
+
+02:48.560 --> 02:55.790
+of these comments at 2 x at 3 x and so very easily I can see what these look like.
+
+02:55.790 --> 03:02.090
+So this is three times two times in one time they are different sizes and you can pass these off to
+
+03:02.090 --> 03:06.320
+your developer to use while they're developing the front end of this design.
+
+03:06.320 --> 03:10.940
+Another thing you can do to export assets for your developers is just share this fig file with them
+
+03:11.300 --> 03:13.610
+and they don't have to know how to design.
+
+03:13.670 --> 03:18.560
+They just have to know how to grab these elements and even Mark some of these elements themselves as
+
+03:18.570 --> 03:20.120
+exportable.
+
+03:20.120 --> 03:25.910
+So for example if we click on this home on trace here and we go to the code section your developer can
+
+03:25.910 --> 03:31.970
+still click on these icons they can name them whatever they want here and they can choose to export
+
+03:31.970 --> 03:37.280
+these however they want to export these whatever is going to be the best format for them and they can
+
+03:37.280 --> 03:42.140
+export these individually so if they click export button menu for example they can go into the same
+
+03:42.140 --> 03:44.170
+folder and click save.
+
+03:44.270 --> 03:48.230
+And if we jump back in to here we can see that those are also saved here.
+
+03:48.380 --> 03:51.180
+So it's very easy to export these things out.
+
+03:51.200 --> 03:57.710
+And in fact once you preset these elements if you ever change them in the future and click to re-export
+
+03:57.740 --> 04:03.860
+it'll just overwrite over those existing images and create new fresh versions automatically.

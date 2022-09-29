@@ -1,0 +1,433 @@
+WEBVTT
+
+00:00.360 --> 00:06.630
+To show you the design panel I have a simple art board here with a few elements on them and this design
+
+00:06.630 --> 00:10.370
+panel will change depending on what you have clicked on.
+
+00:10.380 --> 00:14.030
+So here we have a basic home screen for our recipe Web site.
+
+00:14.190 --> 00:19.530
+And when we don't have anything selected this design panel reflects the canvas or the background that
+
+00:19.530 --> 00:21.240
+the frames are sitting on.
+
+00:21.240 --> 00:28.230
+So here we can change the color of this background if we want it to be more dark for example or if we
+
+00:28.230 --> 00:35.460
+want the background to show in some exports and we can also change the transparency and choose to enable
+
+00:35.460 --> 00:40.290
+pixel preview or pixel grid preview right here.
+
+00:40.470 --> 00:46.870
+So all of our design properties are around the background here because we don't have anything selected.
+
+00:47.070 --> 00:53.760
+So when we select this chef's hat we can see the properties changed to reflect this hat so we can still
+
+00:53.760 --> 00:57.660
+move this around and we can move the x and y coordinates here.
+
+00:57.810 --> 01:00.220
+And you see the properties panel is changing.
+
+01:00.690 --> 01:05.900
+And we can also resize the width and the height and we can lock the proportions.
+
+01:06.060 --> 01:14.320
+So if I want to change the height here to be 30 then the width is going to change to reflect that ratio.
+
+01:15.210 --> 01:19.160
+You can also quickly change the rotation by 15 degrees.
+
+01:19.320 --> 01:25.440
+And also if you hold down command while you're hovering over these anchor points you can rotate them
+
+01:25.440 --> 01:26.790
+with your mouse as well.
+
+01:27.620 --> 01:33.980
+Now one really nice feature and Figment are the constraints tools with these tools we can constrain
+
+01:33.980 --> 01:43.850
+any objects to the left on top of this our border frame or we can pin it to the right or the center.
+
+01:44.030 --> 01:49.040
+So we have all of these controls to constrain our objects for responsive design.
+
+01:49.740 --> 01:58.340
+For example this one if I choose to scale this I'm going to click on this desktop frame now and I'm
+
+01:58.340 --> 02:03.150
+just going to resize this and you can see that both of these items scale here.
+
+02:03.200 --> 02:05.970
+Now I'm going to hold down Kamensky and undo that.
+
+02:06.020 --> 02:11.550
+We don't want this to scale what we wanted to do is pinned to the top left here.
+
+02:11.660 --> 02:16.450
+This one compared to the top left and maybe these guys here can pinned to the top right.
+
+02:16.940 --> 02:21.020
+So we have those set up and now and we rescale this.
+
+02:21.020 --> 02:24.540
+You can see up the top here that behaves how it's supposed to.
+
+02:24.710 --> 02:28.250
+So as you can see there's very nice controls here for constraints.
+
+02:28.250 --> 02:33.200
+And then we have a layer section and this is where we can get some overlay settings if we want something
+
+02:33.200 --> 02:34.320
+to multiply.
+
+02:34.610 --> 02:41.310
+So why it multiplied by anything is that color changes to red you can kind of see how it's transparent.
+
+02:41.360 --> 02:44.800
+I'm going to hold out command here and zoom in so you can kind of see what that's doing.
+
+02:44.990 --> 02:50.110
+But you can play with some different overlay effects here and get a nice style that you want.
+
+02:50.120 --> 02:54.140
+I'm just going to change this back to white and just normal is fine.
+
+02:54.440 --> 03:00.560
+So you have some nice opacity effects here you can increase the transparency here or just simply hide
+
+03:00.560 --> 03:02.070
+the layer if you want to.
+
+03:02.420 --> 03:07.250
+And then you have full control so this is where you'll change the actual color and we saw that as I
+
+03:07.250 --> 03:13.310
+was changing this around so you can change this to blue and we can create a feel on top of a feel which
+
+03:13.310 --> 03:14.390
+is really great.
+
+03:14.420 --> 03:21.860
+So if I click on the plus icon here you can see that I have a linear feel on top of a solid feel so
+
+03:21.860 --> 03:28.960
+that gives us this nice white on top of blue and I can change the angle of these pretty quickly.
+
+03:30.340 --> 03:34.590
+And just get a nice effect if I want something like that looks good.
+
+03:35.870 --> 03:38.390
+And so multiple fill options.
+
+03:38.600 --> 03:47.000
+And within this fill color you can fill with the solid color a linear color radial angular diamond or
+
+03:47.000 --> 03:48.290
+an actual image.
+
+03:48.290 --> 03:52.400
+So if you click on image here that's going to ask you to choose an image and you can find one in your
+
+03:52.400 --> 03:55.000
+file and fill that image.
+
+03:55.040 --> 04:01.160
+If I ever want to delete a feel I can just click on the file here and just click this subtract button
+
+04:01.190 --> 04:02.530
+and then I'll remove that.
+
+04:02.720 --> 04:04.710
+And now I'll turn this back to white.
+
+04:05.980 --> 04:07.430
+And we have stroke.
+
+04:07.720 --> 04:10.280
+And again we can create multiple stroke colors.
+
+04:11.340 --> 04:18.990
+I'll just create this as blue and I want this to be on the outside of the icon and you can change the
+
+04:19.000 --> 04:25.680
+weight you have some nice dash settings if you want that stroke to be dashed if you want the dashes
+
+04:25.680 --> 04:27.710
+to be kept things like that.
+
+04:29.210 --> 04:35.000
+Now we also have some effects settings and I'm going to show you if I hold down a command and just scroll
+
+04:35.000 --> 04:39.600
+down or zoom out here and you can see this background here.
+
+04:39.650 --> 04:42.050
+We actually have two effects here.
+
+04:42.110 --> 04:45.600
+So when you click on the plus icon it adds a new effect.
+
+04:45.600 --> 04:51.200
+And here I'm going to just delete this one and then you can choose between an inner shadow drop shadow
+
+04:51.290 --> 04:53.610
+layer Blar or background blur.
+
+04:53.780 --> 05:02.000
+Now this background blur is really nice because you have the ability to turn down the opacity and when
+
+05:02.040 --> 05:05.820
+to turn this to 70 here so we can kind of see what's going on in the background.
+
+05:05.930 --> 05:11.720
+And you can see this layer is blurred the background and these settings can be changed right here.
+
+05:11.720 --> 05:17.920
+So I can decide I want this to be a 30 pixel Blar and you can see it's becoming more blurred.
+
+05:18.170 --> 05:23.500
+And then just turn the opacity however you want to see that blur in the background.
+
+05:24.670 --> 05:29.010
+Maybe I'll turn this to 90 and same thing with drop shadow.
+
+05:29.010 --> 05:34.720
+Just click this icon to see the blur settings and if you want a y coordinate here if you want to draw
+
+05:34.770 --> 05:37.990
+the shutter down to pixels that will happen here.
+
+05:38.790 --> 05:45.980
+And you can change the opacity here and also some overlay effects for that shadow itself.
+
+05:46.140 --> 05:52.180
+So very powerful controls just for basic shapes like these icons or these rectangles.
+
+05:52.230 --> 05:54.450
+You can also see this rectangle shape.
+
+05:54.480 --> 05:56.330
+I've actually removed the feel.
+
+05:56.430 --> 06:01.540
+So if it starts out with the feel you can just click over here and click the subtract icon and I'll
+
+06:01.590 --> 06:02.630
+remove that fill.
+
+06:02.640 --> 06:08.820
+And now I only have a stroke and with this stroke I've actually created a dashed line here so you can
+
+06:08.820 --> 06:13.860
+see that here there's a two pixel dash and a 2 pixel gap.
+
+06:14.520 --> 06:18.950
+And if I click away you can kind of see that Dashon gap here.
+
+06:18.970 --> 06:25.780
+So with the chef's icon with this rectangle and these icons we get the same kind of design panel here
+
+06:26.100 --> 06:31.690
+that's meant for vector shapes but now when I click on this background here and we can see although
+
+06:31.690 --> 06:35.840
+this looks like an image it's actually a rectangle with an image feel applied.
+
+06:36.220 --> 06:44.580
+So we have this image fill here and then we have a black 20 percent opacity layer feel on top of that.
+
+06:44.920 --> 06:48.580
+And then we have a linear feel just for the top.
+
+06:48.580 --> 06:53.380
+Just to give a little black transition down so this text is easier to read here.
+
+06:53.410 --> 06:59.710
+So this is all one object and it has three different layers and makes it very nice to quickly go in
+
+06:59.710 --> 07:01.870
+and change some of these.
+
+07:01.870 --> 07:07.930
+So let's say maybe I only want a 5 percent opacity here we can change that very easily.
+
+07:08.530 --> 07:14.740
+And if I want to edit this image at all I can click on this little thumbnail and I have some nice exposure
+
+07:14.740 --> 07:21.710
+controls if I want to change the exposure some contrast change that here and we can change the temperature
+
+07:21.710 --> 07:23.860
+if we want it to be warmer colder.
+
+07:24.660 --> 07:31.890
+You can do that very easily and then we have other controls like tint highlights and shadows now one
+
+07:31.890 --> 07:36.180
+thing I haven't shown you yet are the alignments and the distribution tools.
+
+07:36.180 --> 07:41.220
+So if I click on this like on here and let's just mess this up a little bit just drag these around here
+
+07:41.640 --> 07:46.870
+if I want these to be aligned I can hold down shift and just select the multiple items here.
+
+07:47.340 --> 07:52.920
+And I have some alignment controls up here to align things to the top line into the bottom.
+
+07:52.920 --> 07:58.770
+Now these are the same height so top and bottom are both aligned or aligned center.
+
+07:58.770 --> 08:04.830
+And then we also have distribute a horizontal spacing which will make sure that this has the same spacing
+
+08:04.830 --> 08:06.330
+between each icon.
+
+08:06.330 --> 08:11.140
+So if I want it I can click on these icons just align them to this text here.
+
+08:14.030 --> 08:20.990
+And do that to start out with and then hold down shift and select these different objects and will distribute
+
+08:20.990 --> 08:23.440
+these evenly will align them evenly.
+
+08:23.600 --> 08:28.320
+And now we can move this text to be aligned with this object itself.
+
+08:29.980 --> 08:33.000
+So very nice to just have a clean design here.
+
+08:34.500 --> 08:40.870
+And now with different text layers you can see we have some of the similar properties like constraints.
+
+08:40.920 --> 08:47.100
+We can resize here very easily but now we have a text section and this is where you going to change
+
+08:47.100 --> 08:51.180
+your font styles your weights and the sizes.
+
+08:51.180 --> 08:57.260
+And if it's multiple lines of text like we see here down below we can change things like the line spacing.
+
+08:57.260 --> 09:01.910
+I'm going to change this to 120 percent and you can see how that spacing increases here.
+
+09:02.220 --> 09:08.070
+Also the spacing between characters so if you want to increase that by 15 percent we can do that and
+
+09:08.070 --> 09:13.920
+maybe I'll just do 5 percent because that was a bit dramatic and also paragraph spacing so if you want
+
+09:13.920 --> 09:20.310
+to change this to 20 you can see only the paragraph was spaced.
+
+09:20.370 --> 09:25.350
+Now we can align this text to the top of the bounding box the center of the bounding box or the bottom
+
+09:25.350 --> 09:27.390
+of the bounding box.
+
+09:27.390 --> 09:35.030
+So now if we change this bounding box to be taller we can change where that lives inside of this box.
+
+09:37.260 --> 09:43.640
+We also have paragraph indentation and some alignment tools that you find in common text editors.
+
+09:43.800 --> 09:46.140
+But there are some hidden effects here as well.
+
+09:46.170 --> 09:53.280
+So if we drag this down here and we click on this advanced menu we have things like auto resize the
+
+09:53.280 --> 09:57.990
+width and you can see what that did here it made it as wide as the text allows.
+
+09:57.990 --> 10:06.020
+I'm going to hit undo and we have some other objects like transform this to all upper case or lower
+
+10:06.020 --> 10:09.740
+case or just correct capitalization.
+
+10:10.100 --> 10:13.040
+And then we have some underline or strikethrough effects here.
+
+10:13.250 --> 10:14.230
+Makes it very handy.
+
+10:14.240 --> 10:21.470
+And then we have some more advanced font features like Fraction's all smallcaps superscript or subscript.
+
+10:21.470 --> 10:27.890
+And then we can change the way fonts are lined by proportional alignments tabular proportional style
+
+10:27.890 --> 10:34.490
+or tapping their old style so a lot of great advanced features for fonts as well as the normal stroke
+
+10:34.580 --> 10:41.510
+effects layers and constraints sections that you get with other objects.
+
+10:41.510 --> 10:45.980
+Now there's one more section we haven't talked about here and that's the export section and this is
+
+10:45.980 --> 10:47.590
+with every object that you select.
+
+10:47.600 --> 10:50.250
+You have the ability to export that object.
+
+10:50.330 --> 10:56.240
+So we have three icons here and let's say you want to export this out as we develop for the iPhone.
+
+10:56.480 --> 11:03.340
+Well we can click on this plus export and we can see that this is going to export as a one time PMG
+
+11:03.980 --> 11:06.990
+and we can change this to JPEG or SPG.
+
+11:07.280 --> 11:14.540
+But if we only want peahen G We can click plus a few times to even export this out as two times resolution
+
+11:14.690 --> 11:22.200
+three times resolution and get multiple file sizes with just one export of this spoon.
+
+11:22.220 --> 11:23.450
+Same thing with this fork.
+
+11:23.450 --> 11:28.790
+Just click this one to three and you have three different sizes that are going to be exported and this
+
+11:28.790 --> 11:29.110
+knife.
+
+11:29.120 --> 11:30.530
+One two three.
+
+11:30.530 --> 11:38.730
+So with this we can quickly quick preview and see how this is going to look in the preview and then
+
+11:38.760 --> 11:41.730
+export this file into any folder that you want.
+
+11:41.940 --> 11:47.220
+Now because I set these to be exportable if I ever change them and then export it'll actually export
+
+11:47.220 --> 11:54.840
+the changes and I can click on this tool here to export in bulk all of the items I've already set previously
+
+11:55.230 --> 11:56.670
+to be exportable.
+
+11:56.670 --> 12:00.960
+They'll all be here so I can do a one time export of everything in my project.

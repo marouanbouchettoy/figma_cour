@@ -1,0 +1,364 @@
+﻿1
+00:00:00,300 --> 00:00:05,460
+If you're following along from the previous video Feel free to use the same file as we continue designing.
+
+2
+00:00:05,580 --> 00:00:11,570
+If you're just starting with this video you can open up the drawing icons using the pen tool thick file.
+
+3
+00:00:11,610 --> 00:00:15,750
+So now we're going to show you how to create icons using the pen tool and we'll do this under the recipe
+
+4
+00:00:15,750 --> 00:00:17,640
+details frame.
+
+5
+00:00:17,640 --> 00:00:26,040
+So before we do that I'm just going to hold down option and copy some of these items here and this heart.
+
+6
+00:00:26,070 --> 00:00:29,740
+We're also going to reuse this over here on the top right.
+
+7
+00:00:29,850 --> 00:00:32,010
+So I'm going to nudge this over.
+
+8
+00:00:32,010 --> 00:00:33,500
+Make it 10 pixels.
+
+9
+00:00:35,940 --> 00:00:40,520
+By 10 pixels by using the arrow key and shift to nudge this over.
+
+10
+00:00:40,800 --> 00:00:46,640
+So we have a nice starting and now there are two icons down below here that we want to create.
+
+11
+00:00:46,680 --> 00:00:54,000
+So I'm going to zoom into this area and if I click on this recipe details frame I'm going to just hide
+
+12
+00:00:54,000 --> 00:00:58,100
+this layout grid for now as we design these icons.
+
+13
+00:00:58,170 --> 00:01:03,000
+So these icons that we create are going to live inside of a circle and these circles are each going
+
+14
+00:01:03,000 --> 00:01:06,280
+to be 36 pixels.
+
+15
+00:01:06,390 --> 00:01:08,610
+So we'll just create a 36 pixel circle.
+
+16
+00:01:08,820 --> 00:01:10,300
+We'll fill this with red.
+
+17
+00:01:10,800 --> 00:01:16,800
+And let's zoom in and let's create our first icon inside of here so we can use this pen tool and this
+
+18
+00:01:16,800 --> 00:01:23,400
+pen tool we can just click certain areas to create straight lines and if we want to close the shape
+
+19
+00:01:23,430 --> 00:01:28,160
+we just click on this last note here and I'll close the shape for us.
+
+20
+00:01:28,200 --> 00:01:32,280
+So it's very simple to create straight shaped objects.
+
+21
+00:01:32,580 --> 00:01:36,890
+And if I hit escape it will get me out of edit mode and I can delete this.
+
+22
+00:01:37,110 --> 00:01:44,360
+But there are also times where we want to click and drag to create a curve.
+
+23
+00:01:44,640 --> 00:01:47,760
+So I'll show you how this works here.
+
+24
+00:01:48,150 --> 00:01:49,870
+That's create a shopping bag.
+
+25
+00:01:50,070 --> 00:01:51,920
+We'll do that by clicking the pen tool.
+
+26
+00:01:52,050 --> 00:01:57,470
+And I'm just going to click and drag certain areas here
+
+27
+00:02:02,530 --> 00:02:10,450
+and we have a bag shape and I can click on this anchor here and just nudge this to make things even
+
+28
+00:02:10,990 --> 00:02:15,340
+click this one and that looks good.
+
+29
+00:02:16,750 --> 00:02:25,420
+So now that I've done that I also want to create a handle here so I can click and here I'll just click
+
+30
+00:02:25,420 --> 00:02:29,210
+and drag and it'll introduce us to some drag handles here.
+
+31
+00:02:29,260 --> 00:02:33,150
+You can see here this drag handle is pushing this curve to the left.
+
+32
+00:02:33,160 --> 00:02:34,910
+This is pushing out to the right.
+
+33
+00:02:35,180 --> 00:02:42,560
+And now I can click in and this and if we ever want to change that we can use this select tool right
+
+34
+00:02:42,560 --> 00:02:44,160
+here select this note.
+
+35
+00:02:44,180 --> 00:02:48,930
+You can see these drag handles and we can move these and change each one.
+
+36
+00:02:49,070 --> 00:02:53,010
+You can see how these are locked with the left and right handle.
+
+37
+00:02:53,120 --> 00:02:59,930
+If I hold down option it'll break that length here so that I can drag this independently of the other
+
+38
+00:02:59,930 --> 00:03:00,150
+one
+
+39
+00:03:06,560 --> 00:03:13,520
+so we can easily move these drag handles around and get the shape exactly how we want it.
+
+40
+00:03:16,550 --> 00:03:23,840
+And once we're done using the pen tool we've created a nice shopping bag I can now because I use strokes
+
+41
+00:03:23,840 --> 00:03:29,930
+using the pen tool if I decided to add a field to this it wouldn't look very good because you don't
+
+42
+00:03:29,930 --> 00:03:32,990
+want the field to be where the handle area is.
+
+43
+00:03:32,990 --> 00:03:38,480
+So I'm going to hit command Z or controls the on the windows and I can still double click inside of
+
+44
+00:03:38,480 --> 00:03:46,770
+here and using this paint bucket tool I can decide I want this area to be filled and not this area.
+
+45
+00:03:46,940 --> 00:03:55,280
+So now that area is filled I'm going to make this film Black and I will hit done here and we have our
+
+46
+00:03:55,280 --> 00:03:56,380
+shopping bag.
+
+47
+00:03:56,570 --> 00:04:00,470
+Last thing we need to do is put it inside of the circle and it looks a little bit too big inside of
+
+48
+00:04:00,470 --> 00:04:03,940
+the circle someone going to constrain the proportions.
+
+49
+00:04:04,190 --> 00:04:06,400
+And I'll just make this 16 pixels here.
+
+50
+00:04:07,480 --> 00:04:09,290
+And that looks like a nice size.
+
+51
+00:04:09,550 --> 00:04:12,880
+And now I want to make everything white so I'm going to change this field to be white.
+
+52
+00:04:12,940 --> 00:04:14,640
+I'll change the stroke to be white.
+
+53
+00:04:14,830 --> 00:04:17,470
+And the last thing I want to do is double click instead of here.
+
+54
+00:04:17,470 --> 00:04:22,630
+I can still select these notes that I used in the pen tool a hold down shift to select just the four
+
+55
+00:04:22,630 --> 00:04:29,830
+corners here and I'm going to add just a one pixel radius to make those corners curved inside of there.
+
+56
+00:04:29,830 --> 00:04:35,530
+Now if we hold down option and we copy this circle there's one more icon we're going to create with
+
+57
+00:04:35,530 --> 00:04:36,520
+the pen tool.
+
+58
+00:04:36,820 --> 00:04:40,380
+And that's the chef's icon has the same icon that we created on the splash screen.
+
+59
+00:04:40,390 --> 00:04:43,780
+But I just want to show you how to create this using the pen tool.
+
+60
+00:04:44,170 --> 00:04:46,630
+So I like to create it outside of this box.
+
+61
+00:04:46,630 --> 00:04:48,700
+First of all we can fit it in later.
+
+62
+00:04:49,030 --> 00:04:51,840
+So I'm just going to create the bottom of the hat here.
+
+63
+00:04:52,710 --> 00:04:54,230
+Do something like this.
+
+64
+00:04:54,480 --> 00:05:00,400
+And then we can just play around with these kind of Bolger's on the chef's hat.
+
+65
+00:05:01,590 --> 00:05:06,960
+And right here you can see that I have a left drag handle on a right drag handle so if I let go and
+
+66
+00:05:06,960 --> 00:05:16,150
+I want a shape to come around here now I actually can't do that unless I hold down option and select
+
+67
+00:05:16,200 --> 00:05:23,550
+this to break the symmetry between these drag handles so I can say I want this curve to start out here
+
+68
+00:05:23,900 --> 00:05:27,750
+and you can see it's giving me a little preview of what's that's going to look like.
+
+69
+00:05:28,530 --> 00:05:30,780
+So here I can say I'll start here.
+
+70
+00:05:30,780 --> 00:05:39,850
+And let's just click and drag will hold down option to break that symmetry again and let's click and
+
+71
+00:05:39,850 --> 00:05:44,710
+drag somewhere here and here.
+
+72
+00:05:44,710 --> 00:05:50,470
+So you can see this is looking a little bit funky but that's one really nice feature with this pen tool
+
+73
+00:05:50,770 --> 00:05:57,940
+as we can click on this new tool inside of our edit mode and very easily we can just adjust these and
+
+74
+00:05:57,940 --> 00:06:01,940
+make the curves really nice and maybe this.
+
+75
+00:06:02,140 --> 00:06:03,990
+We want to move over here.
+
+76
+00:06:04,930 --> 00:06:09,210
+And so within just a few seconds we can kind of clean up those curves here
+
+77
+00:06:12,060 --> 00:06:17,500
+and it really doesn't matter if it has a huge amount of symmetry because this looks more organic if
+
+78
+00:06:18,190 --> 00:06:21,030
+you just played around with different shapes here.
+
+79
+00:06:22,560 --> 00:06:23,960
+Move this down here.
+
+80
+00:06:25,540 --> 00:06:29,330
+Bring this down starting to look pretty good.
+
+81
+00:06:29,330 --> 00:06:33,690
+This looks a little bit flat will decrease these a little bit.
+
+82
+00:06:35,020 --> 00:06:42,590
+And then we want to select just these two notes at the bottom at a two pixel radius bring the same
+
+83
+00:06:48,490 --> 00:06:50,340
+something like that looks decent.
+
+84
+00:06:52,120 --> 00:06:56,600
+So we have our chef's hat and by double click on this again to jump into edit mode.
+
+85
+00:06:56,770 --> 00:07:03,820
+I'm just going to use the pen tool to create two more lines here could escape to and that and one more
+
+86
+00:07:03,820 --> 00:07:08,430
+right here and again hit escape will double click to end it.
+
+87
+00:07:09,250 --> 00:07:16,270
+And we also want to jump into the advanced menus and cap this as rounded for these edges here and we
+
+88
+00:07:16,270 --> 00:07:28,710
+can now resize this to whatever size that we want and fit this side up here will make the stroke quite.
+
+89
+00:07:28,770 --> 00:07:33,420
+And now if you want to double click inside of this to go into attack mode again the last thing we want
+
+90
+00:07:33,420 --> 00:07:39,840
+to do is use this paint bucket tool to feel the inside of this with the color white.
+
+91
+00:07:40,710 --> 00:07:47,540
+So now zooming out we have a shopping icon and a preparation icon so as movies down here.
+

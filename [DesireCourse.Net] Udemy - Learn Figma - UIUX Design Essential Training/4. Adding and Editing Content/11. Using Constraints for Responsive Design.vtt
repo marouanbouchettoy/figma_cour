@@ -1,0 +1,364 @@
+WEBVTT
+
+00:00.810 --> 00:05.250
+In most cases nowadays we're designing for multiple device screens.
+
+00:05.430 --> 00:10.770
+And this starts to become a challenge translating how the paddings and margins and layout will look
+
+00:10.770 --> 00:15.150
+to the developers as they're developing these screens for the different device sizes.
+
+00:15.300 --> 00:21.990
+Well Fishman has a really nice tool to help this become much easier to export multiple screen sizes
+
+00:22.140 --> 00:28.080
+and not having to design for multiple screens but using constraints so you can stretch this frame and
+
+00:28.080 --> 00:30.610
+see exactly what it's going to look like at that size.
+
+00:30.870 --> 00:35.370
+And you'll notice when I stretch this right now things look a little bit broken and they're not exactly
+
+00:35.370 --> 00:38.370
+resizing the right way or the way that you would intend.
+
+00:39.120 --> 00:44.070
+So I'm going to click command Z and that's what we're going to do as we're going to set up this frame
+
+00:44.070 --> 00:45.450
+here to be responsive.
+
+00:45.450 --> 00:48.870
+We're going to set up a constraints for all of these elements.
+
+00:49.320 --> 00:54.150
+Now before we do that I'm going to just zoom into these two art boards here and I want to just hold
+
+00:54.150 --> 01:04.150
+down option and copy some elements over here to kind of complete this design and move this down here
+
+01:04.580 --> 01:06.410
+and I have this centered.
+
+01:07.140 --> 01:12.580
+And if we were really focusing on this design I would get the padding exactly right and the spacing.
+
+01:12.720 --> 01:19.870
+But just to save some time I'm just going to eyeball this and we can work on that a little bit later.
+
+01:20.100 --> 01:22.130
+Now I'm going to add just a few more elements here.
+
+01:22.130 --> 01:27.760
+I'm going to hold down option and copy this up here to be aligned with the center of these icons.
+
+01:27.810 --> 01:40.030
+I'm going to call this popular recipes and make this the same red color here and go down once more.
+
+01:40.440 --> 01:45.530
+We call this entrees over here.
+
+01:45.990 --> 01:51.660
+Appetisers hold down option once more and call this dessert.
+
+01:52.920 --> 02:03.810
+And I want these to be subtle gray here and will probably make this thirteen point and regular
+
+02:08.050 --> 02:16.000
+and because this is the one that is selected right now I'm going to make this black and medium and using
+
+02:16.000 --> 02:24.370
+the L key I'm going to draw a line just below this and let's make this two pixels and let's cap off
+
+02:24.370 --> 02:26.220
+the ends with a rounded.
+
+02:26.740 --> 02:34.510
+And here I'm just going to give this going to center this command g to group it and center it with the
+
+02:34.660 --> 02:37.010
+board and then all ungroup here.
+
+02:37.120 --> 02:45.310
+Shift command G and I'll give these 30 pixels in between each mesh just nudging the U.S. holding down
+
+02:45.310 --> 02:47.850
+the shift and the arrow keys.
+
+02:47.860 --> 02:51.210
+So now if I hold down option you can see that there's 30 pixels in between.
+
+02:51.400 --> 02:57.400
+And we can easily see the entrées are selected as change in the sizing and the padding here.
+
+02:57.520 --> 03:01.270
+It really doesn't matter too much you can move this around however you want.
+
+03:01.470 --> 03:08.290
+And I think the last thing I want to do is hold down command G and center this with the board shift
+
+03:08.290 --> 03:09.580
+command to ungroup.
+
+03:09.580 --> 03:15.330
+So now we have this design near completed and we want to make this responsive.
+
+03:15.340 --> 03:17.040
+So the first thing we do is test this out.
+
+03:17.050 --> 03:19.320
+We can see that things are broken here.
+
+03:19.840 --> 03:23.980
+So going down one by one let's just fix this top area right here.
+
+03:24.190 --> 03:29.670
+So we know we want this icon to be constrained to the top left of this frame.
+
+03:30.010 --> 03:36.220
+So now when we try this we can see that's exactly what we want it to do here.
+
+03:36.370 --> 03:40.300
+We're going to hit command Z to resize this back to where it was.
+
+03:40.300 --> 03:48.430
+And now this popular recipes we want to center this with the frame and instead of the left top we want
+
+03:48.430 --> 03:55.570
+this to just be centered and we want it to sit at the top and sitting at the top means if I scale this
+
+03:55.570 --> 03:58.030
+down it's just going to stay there.
+
+03:58.600 --> 04:06.430
+If I change this to sit at the center what is going to do is center this where it's at here between
+
+04:06.430 --> 04:08.040
+the top and the bottom.
+
+04:08.070 --> 04:11.150
+So change back to top center.
+
+04:11.410 --> 04:15.320
+And then this guy right here is going to be right top.
+
+04:15.700 --> 04:20.750
+So now we have our Hetter area behave exactly how it should.
+
+04:21.580 --> 04:24.790
+And now we have to deal with these guys.
+
+04:24.790 --> 04:32.310
+So if I want to apply a constraint to everything I can select all of these layers and click command
+
+04:32.310 --> 04:38.400
+G or control G on the windows and I'm going to name this categories.
+
+04:39.850 --> 04:44.670
+And now I want this also to be centered and sit at the top.
+
+04:44.830 --> 04:47.400
+So now we have this group as centered.
+
+04:47.590 --> 04:53.500
+And we can resize this and we can see that it is centering each element on the artwork but that's not
+
+04:53.500 --> 04:55.240
+exactly what we want.
+
+04:55.450 --> 04:58.030
+It's centering relative to this frame.
+
+04:58.150 --> 05:05.700
+But if you want to create a new frame around this we chose to group this and we named this group category.
+
+05:06.040 --> 05:08.740
+But let's convert this group to its own frame.
+
+05:08.740 --> 05:14.290
+And this is what we call a frame within a frame so that we can set the constraints only within this
+
+05:14.290 --> 05:18.070
+frame and is independent of what we said in this frame.
+
+05:18.220 --> 05:24.130
+So I'm going to click on this group and you can see that it's a group here but I can change this to
+
+05:24.130 --> 05:27.790
+a frame instantly by clicking on frame right here.
+
+05:27.790 --> 05:30.440
+And so now this has its own frame.
+
+05:30.730 --> 05:36.810
+And these objects are going to be centered within this frame itself not within this frame.
+
+05:37.090 --> 05:40.690
+So now we have a left top constraint here.
+
+05:40.780 --> 05:44.240
+We're going to center this frame for the top and center.
+
+05:44.650 --> 05:50.630
+And now when we stretch this we can see that's precisely what we want to have happen there.
+
+05:51.040 --> 05:56.080
+Command Z and now we're working our way up to these images here.
+
+05:56.140 --> 06:05.440
+So I can group these items command G because they want these to stay within each other and I want this
+
+06:05.740 --> 06:12.480
+to be center top when we can see that that behaves correctly.
+
+06:12.670 --> 06:16.340
+And now let's move these images inside of that same group.
+
+06:16.480 --> 06:19.740
+So we have this group up here.
+
+06:19.990 --> 06:24.790
+I'm going to select both of these with Option Command and right bracket I'm going to move these to the
+
+06:24.790 --> 06:29.280
+top near this other one.
+
+06:29.400 --> 06:34.660
+So now we have these two mass groups and this group I'm going to move to the top as well.
+
+06:37.080 --> 06:44.080
+And holding down command and selecting both of these I mean just to move them inside of this group here.
+
+06:44.220 --> 06:46.750
+So now we have all of these grouped.
+
+06:48.270 --> 06:50.580
+And same thing center top
+
+06:55.330 --> 07:06.740
+and again we have to convert this into its own frame.
+
+07:07.010 --> 07:09.400
+So now that's working correctly.
+
+07:12.250 --> 07:18.160
+And we have this component works the same way as a frame where we can just choose to create this at
+
+07:18.160 --> 07:22.760
+the top center and it's not going to stretch like a group does.
+
+07:23.950 --> 07:29.050
+Now I can resize this that always stays centered on the same thing over here so you can select multiple
+
+07:29.050 --> 07:34.750
+things at once if you know they're going to have the same alignment properties and just going to make
+
+07:34.750 --> 07:36.910
+sure that this is already centered on the board.
+
+07:36.910 --> 07:40.900
+Here we go.
+
+07:40.900 --> 07:47.220
+And again the center top and these are the last things here.
+
+07:48.220 --> 07:54.250
+So first of all just making sure that it has the right spacing that you want initially
+
+07:58.460 --> 08:00.890
+that's probably pretty good.
+
+08:03.070 --> 08:05.750
+Move these down just a tiny bit.
+
+08:05.790 --> 08:13.950
+And now I can select all of these commands read a group change this group into a frame and let's center
+
+08:13.950 --> 08:15.960
+this last thing.
+
+08:15.960 --> 08:22.440
+But this text we actually want this to be pinned to the left and right.
+
+08:22.530 --> 08:28.910
+So we wanted to always be 20 pixels on the left 20 pixels on the right and same thing here.
+
+08:28.920 --> 08:35.020
+We can actually stretch this here depending on if the text increases or decreases.
+
+08:35.160 --> 08:37.540
+We still want to have 20 pixels on the left and right.
+
+08:37.890 --> 08:43.020
+So we're going to choose left and right here and now check this out.
+
+08:43.080 --> 08:44.900
+This is for the iPhone 8.
+
+08:44.940 --> 08:48.380
+If you want to look at the eight plus we can look at that very easily.
+
+08:48.540 --> 08:57.180
+Look at the iPhone 5 s or if we have the galaxy note or whatever we can change the size and very easily
+
+08:57.480 --> 09:04.290
+your developers can see exactly what you intend this to look like during development for multiple screen
+
+09:04.290 --> 09:06.680
+sizes.
+
+09:06.810 --> 09:12.940
+You can also change the width here so 375 and you have the option here because it's turned into a frame.
+
+09:13.200 --> 09:19.190
+I can decide I want to see what it looks like on the Galaxy S8 that changes proportionately.
+
+09:19.290 --> 09:23.560
+And the same thing I can choose maybe a 7 inch tablet What does that look like here.
+
+09:23.760 --> 09:27.550
+So you can see that you have that nice web for the 7 inch tablet.
+
+09:27.780 --> 09:34.230
+We're going to change this back to the iPhone 8.
+
+09:34.280 --> 09:39.830
+So once you get the hang of setting up constraints it's just a matter of testing things once you set
+
+09:39.830 --> 09:45.320
+them up making sure that things are flowing correctly and once you really do get the hang of this it
+
+09:45.320 --> 09:50.780
+takes probably two minutes to convert something like this into a responsive design.
+
+09:51.080 --> 09:55.280
+So before we move into the next video I would like you to go through this our board here.
+
+09:55.280 --> 09:58.390
+This may be a little bit simpler to set some things like this up.
+
+09:58.400 --> 10:04.720
+I'm going to just Center this but just go through here and just set the constraints here for this frame.
+
+10:04.820 --> 10:08.450
+And again you can always test it out by just stretching things you can already see that some things
+
+10:08.450 --> 10:10.980
+are broken like this image here.
+
+10:11.000 --> 10:18.240
+So if I hit undo this image would just be pinned left to right or left and right.
+
+10:18.590 --> 10:19.550
+And we can see that.
+
+10:19.550 --> 10:20.930
+Now that's fixed.
+
+10:20.930 --> 10:27.080
+So just go through and change some of those things on your own and see if you can get this to behave
+
+10:27.080 --> 10:28.930
+and perform the way that you'd like.

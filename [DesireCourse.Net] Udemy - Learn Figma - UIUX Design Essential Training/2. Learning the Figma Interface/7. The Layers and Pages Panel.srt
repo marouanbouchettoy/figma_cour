@@ -1,0 +1,296 @@
+﻿1
+00:00:01,920 --> 00:00:07,140
+Talk you through the pages and layers panel let's open up this pages layer's file that you can find
+
+2
+00:00:07,140 --> 00:00:10,260
+in the exercise folder under Chapter 2.
+
+3
+00:00:10,440 --> 00:00:15,960
+And first off if you don't see this layer's panel it may be hidden so you can go in the View menu and
+
+4
+00:00:15,960 --> 00:00:21,490
+show layer's panel right here and this will toggle the layers panel on and off.
+
+5
+00:00:21,540 --> 00:00:25,740
+Now to show you this layer's panel I just want to hold down the Zeek and I'll draw a rectangle under
+
+6
+00:00:25,740 --> 00:00:29,160
+this log in page here just to zoom in a little bit.
+
+7
+00:00:30,500 --> 00:00:36,110
+And you can see first of all if you hover over different layers you can see that those layers are shown
+
+8
+00:00:36,260 --> 00:00:38,650
+in the canvas as well in blue.
+
+9
+00:00:38,780 --> 00:00:43,340
+And each layer has an icon here to the left of it to indicate what this layer is for.
+
+10
+00:00:43,550 --> 00:00:49,790
+So for example this text layer is a group of all of these text objects here and that's indicated by
+
+11
+00:00:49,790 --> 00:00:52,040
+a dashed line.
+
+12
+00:00:52,230 --> 00:00:53,600
+And then we also have frames.
+
+13
+00:00:53,610 --> 00:00:56,680
+So the log in page home page menu.
+
+14
+00:00:56,820 --> 00:01:02,040
+These are all frames that group the objects inside of this device preview.
+
+15
+00:01:02,190 --> 00:01:05,050
+Now frames can also be inside of frames.
+
+16
+00:01:05,280 --> 00:01:11,610
+For example if you click on this your art museum frame here we can see that this is app info that's
+
+17
+00:01:11,610 --> 00:01:13,930
+inside of the log in page frame.
+
+18
+00:01:14,160 --> 00:01:19,890
+And one nice thing with working with Sigma is for example by click outside of this frame here and I
+
+19
+00:01:19,890 --> 00:01:26,520
+go into this home frame let's scroll over and I can click on Masters old and new as soon as I do that
+
+20
+00:01:26,610 --> 00:01:32,860
+then everything drops down and expands to show me these objects within this frame itself.
+
+21
+00:01:33,270 --> 00:01:38,790
+Now if you want to keep things clean after you're done working with for example the home frame you can
+
+22
+00:01:38,790 --> 00:01:44,200
+click on this little arrow and it'll collapse all of the layers underneath this home frame.
+
+23
+00:01:44,550 --> 00:01:49,100
+And so you can collapse and expand anything that's grouped like frames.
+
+24
+00:01:49,110 --> 00:01:50,700
+This is a component here.
+
+25
+00:01:51,090 --> 00:01:59,430
+And groups now Master components are what you can use to create a design and reuse it throughout your
+
+26
+00:01:59,430 --> 00:02:00,370
+project.
+
+27
+00:02:00,600 --> 00:02:02,970
+And we'll talk about that more in a future video.
+
+28
+00:02:03,120 --> 00:02:09,120
+But this behaves much like a group as well where you'll have objects underneath this master component.
+
+29
+00:02:10,890 --> 00:02:17,160
+Now within any of these layers like this app info layer you can click and drag this down throughout
+
+30
+00:02:17,160 --> 00:02:20,500
+the hierarchy to move this down in the layers panel.
+
+31
+00:02:20,520 --> 00:02:24,920
+So right now this is behind the background image.
+
+32
+00:02:25,170 --> 00:02:29,830
+And so I can move this down or move this back up where it belongs where you can see this.
+
+33
+00:02:29,880 --> 00:02:36,480
+You can also move layers onto different art boards or frames by clicking and holding if you hold then
+
+34
+00:02:36,480 --> 00:02:41,590
+it'll expand the layers underneath this frame and I can click and let go.
+
+35
+00:02:41,790 --> 00:02:43,970
+And now this is inside of another layer.
+
+36
+00:02:45,190 --> 00:02:52,170
+I'm going to click command z a few times to undo this and now another thing that you get with layers
+
+37
+00:02:52,170 --> 00:02:58,080
+if you write clicks you have a number of different menu items to manipulate these layers so you can
+
+38
+00:02:58,080 --> 00:03:00,300
+send them forward and back in the later scheme.
+
+39
+00:03:01,590 --> 00:03:06,820
+You can group certain selections if you select multiple layers you have the option to show and hide
+
+40
+00:03:06,820 --> 00:03:12,150
+a layer or lock and unlock where you can flip them or copy and paste certain styles.
+
+41
+00:03:12,220 --> 00:03:18,670
+Now to show and hide or lock and unlock layers you also have some icons here if you hover over any layer
+
+42
+00:03:19,150 --> 00:03:21,710
+you can quickly click this lock icon.
+
+43
+00:03:21,820 --> 00:03:26,520
+And now if I click anywhere within this area I'm not able to select this.
+
+44
+00:03:26,530 --> 00:03:31,070
+Your art museum layer but I can select any layers underneath this.
+
+45
+00:03:31,300 --> 00:03:35,980
+So it's a great feature if you still want to see the objects in front of other objects but you want
+
+46
+00:03:35,980 --> 00:03:39,550
+to reach out to the elements behind to interact with them.
+
+47
+00:03:39,550 --> 00:03:47,740
+You can also toggle this icon to hide your layers and if you do hide this layer you can still expand
+
+48
+00:03:47,770 --> 00:03:52,990
+this layer and you can see that there are some nested layers here that are also hidden and that's indicated
+
+49
+00:03:52,990 --> 00:04:00,040
+by this door saying I'm adopting the same hidden property that you have applied to the parent layer
+
+50
+00:04:01,040 --> 00:04:03,710
+so working with layers is really great.
+
+51
+00:04:03,710 --> 00:04:08,810
+But what happens when you have a lot of frames and a lot of layers within one page.
+
+52
+00:04:08,810 --> 00:04:15,590
+Well we have the pages panel as well this shows page one here and there's only one page right now in
+
+53
+00:04:15,590 --> 00:04:17,010
+this project.
+
+54
+00:04:17,360 --> 00:04:19,760
+And I can show you how pages works.
+
+55
+00:04:19,760 --> 00:04:24,950
+If I hit the one key I'm going to zoom out here to show all of these art boards and let's say I want
+
+56
+00:04:24,950 --> 00:04:28,130
+to organize some of these boards in different pages.
+
+57
+00:04:28,340 --> 00:04:33,530
+So if I want to do that I can click on this page one here and you can see that I get a little dropdown
+
+58
+00:04:33,650 --> 00:04:35,430
+to create a new page.
+
+59
+00:04:35,630 --> 00:04:39,210
+So I'm going to create a page called collections.
+
+60
+00:04:39,830 --> 00:04:45,800
+And now to go back to page 1 I can select any frame that I want or any objects that I want and if I
+
+61
+00:04:45,800 --> 00:04:49,750
+right click I can move this to the page collections.
+
+62
+00:04:49,790 --> 00:04:56,900
+I can also just command X here and go into the collections page and command V for a quick cut and paste
+
+63
+00:04:56,900 --> 00:04:59,150
+or copy and paste in between pages.
+
+64
+00:04:59,150 --> 00:05:06,110
+Now one really nice way that I like to use pages is I always create a page within my project called
+
+65
+00:05:06,110 --> 00:05:15,760
+archive land and I use this archive land page for different designs that I might want to archive but
+
+66
+00:05:15,760 --> 00:05:18,170
+aren't necessarily a part of the current design.
+
+67
+00:05:18,920 --> 00:05:25,370
+For example if I hold the key and zoom into this home frame here and I'll hold down a command and just
+
+68
+00:05:25,370 --> 00:05:31,190
+scroll down just so I can see a little bit above here too I can click on this home frame and hold down
+
+69
+00:05:31,190 --> 00:05:36,800
+option and if I hold down option I can drag this up to create a copy.
+
+70
+00:05:36,800 --> 00:05:41,780
+And now I can make a number of changes to this and if I like this change I want to commit to this I
+
+71
+00:05:41,780 --> 00:05:46,970
+can save this in my current design but to keep this page clean I can just right click here and move
+
+72
+00:05:46,970 --> 00:05:48,500
+this to archive land.
+
+73
+00:05:48,500 --> 00:05:53,600
+And I know that I have access if I want to refer to that later but I can commit this frame to my current
+
+74
+00:05:53,600 --> 00:05:54,130
+design.
+

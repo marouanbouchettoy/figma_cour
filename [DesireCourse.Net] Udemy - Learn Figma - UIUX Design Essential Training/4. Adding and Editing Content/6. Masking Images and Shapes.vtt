@@ -1,0 +1,241 @@
+WEBVTT
+
+00:00.320 --> 00:03.110
+A recipe design it's finally starting to come to life.
+
+00:03.210 --> 00:09.150
+And to help this along let's add some images here in the homescreen and the recipe Detail Screen to
+
+00:09.150 --> 00:11.040
+find the images we want to import here.
+
+00:11.040 --> 00:15.610
+Let's go to the shape tools and go to place image.
+
+00:15.770 --> 00:21.440
+And here we can find our assets folder and inside the assets folder there are a few entrée images.
+
+00:21.680 --> 00:26.310
+So the first one I'm going to import is this prime rib a j peg.
+
+00:26.630 --> 00:32.870
+So I can click open here and now if I hover over any of these boxes I can place this inside of that
+
+00:32.870 --> 00:33.550
+boxed area.
+
+00:33.550 --> 00:35.080
+So I want to place it right here.
+
+00:35.210 --> 00:38.150
+But I also want to place that same image right here.
+
+00:38.420 --> 00:44.270
+So set of going into the shapes tools again and going to place image I can right click on this and go
+
+00:44.270 --> 00:45.920
+to copy style.
+
+00:46.010 --> 00:48.740
+Right click on this area and paste style.
+
+00:48.740 --> 00:55.380
+And the reason why that works is because this is a feel style where the image was placed as a fill.
+
+00:55.380 --> 00:58.870
+Now there may be times you want to adjust the image within this square.
+
+00:58.890 --> 01:05.420
+For example if I click on this square here you can see how things resize and it kind of fits to feel.
+
+01:05.610 --> 01:11.550
+But if I double click inside of here what I want to have happen is I want to move this image actually
+
+01:11.550 --> 01:13.280
+inside of this rectangle.
+
+01:13.650 --> 01:18.580
+Well I can't do that because this is an image feel and not an image mask.
+
+01:18.630 --> 01:22.450
+But there are a number of ways I can get around this.
+
+01:22.550 --> 01:33.140
+So if I move this over here and this is 220 pixels Let's put 220 pixels tall and I can go to my rectangle
+
+01:33.140 --> 01:33.680
+tool.
+
+01:33.680 --> 01:42.490
+I'm going to create a rectangle again here that's 220 pixels and all fine tune this here to 20.
+
+01:43.500 --> 01:45.650
+And just snap this to the edge here.
+
+01:46.110 --> 01:54.390
+So I've recreated this and if I hold down option command and the left bracket here I can move this clear
+
+01:54.390 --> 01:56.340
+down in the léa schemes.
+
+01:56.340 --> 02:01.740
+That's just a quick shortcut option command right bracket to bring to the top or left bracket to bring
+
+02:01.740 --> 02:02.650
+it to the bottom.
+
+02:02.730 --> 02:05.090
+That's the same as just dragging this around.
+
+02:05.900 --> 02:12.260
+Now I can click on this image and if I click on this hold down shift and click on the image behind it
+
+02:12.740 --> 02:16.840
+I can use this use as mask option here.
+
+02:17.150 --> 02:22.420
+And what that does is it sets this back rectangle here as just a mask.
+
+02:22.510 --> 02:25.660
+And so I can still click on this image and I can drag it around.
+
+02:25.850 --> 02:32.780
+I can resize it and manually place this exactly how I want it inside of this area.
+
+02:32.810 --> 02:37.670
+It's maybe nice if you place in the image and things are cropped out that you want to appear in the
+
+02:37.670 --> 02:41.240
+image you want to slide something down or place it just right.
+
+02:41.300 --> 02:42.800
+You can do it this way.
+
+02:42.920 --> 02:44.810
+But there's also another option.
+
+02:45.110 --> 02:52.070
+So I'm going to hit command z a few times and just to get rid of this rectangle here.
+
+02:54.350 --> 03:01.060
+And now we're back to just this image again if I double quick I can't really move this around within
+
+03:01.070 --> 03:06.640
+the cropped area but a quicker way of doing this is actually going into this image menu here.
+
+03:09.080 --> 03:15.680
+And choosing crop and now that I have crop enabled I can still click on this image here and maneuver
+
+03:15.680 --> 03:20.780
+it and even resize this.
+
+03:20.890 --> 03:27.850
+So those are just two ways of masking the image either using a crop or masking that image with another
+
+03:27.850 --> 03:28.720
+shape.
+
+03:28.990 --> 03:33.760
+For the most part you're probably just going to want to go in here and choose Krok but some areas where
+
+03:33.760 --> 03:38.100
+you may want to use the mask for example is if you have a circle.
+
+03:38.440 --> 03:45.190
+And I'm just going to tap the O keyboard shortcut and draw a circle right here and I'm going to hold
+
+03:45.190 --> 03:50.750
+down option and copy this image and with Option Command right bracket I can bring this to the top.
+
+03:51.010 --> 03:53.780
+So things like this you can't use that crop setting.
+
+03:53.950 --> 04:01.010
+So I can still shift click to select this circle with this image and if I click on use as mask.
+
+04:01.180 --> 04:04.930
+Now I have things masked within this circle or this shape.
+
+04:04.960 --> 04:10.300
+So there are multiple ways to do this and some have better results than others in the application that
+
+04:10.300 --> 04:11.340
+you're using it.
+
+04:11.500 --> 04:19.720
+So I would just keep that in mind while you're using the crop or just the use as a mask feature.
+
+04:19.720 --> 04:22.590
+Lastly we have two other images here that we need to import.
+
+04:22.600 --> 04:28.420
+So I'm just going to go to my assets folder here and we'll import these two entry images.
+
+04:28.630 --> 04:34.710
+And you notice when I just drag them in from the Finder window then they show up is really large.
+
+04:34.780 --> 04:44.960
+So I can just resize this down and I can just shift select this image here use as mask.
+
+04:45.130 --> 04:52.020
+New this around how I want it to look and notice when I drag this image out side of the frame.
+
+04:52.030 --> 04:57.200
+It kind of places this in the background so it need to be a little bit careful of that.
+
+04:57.230 --> 04:59.040
+Let's move this up here.
+
+04:59.690 --> 05:09.690
+And same thing here I'm going to resize this little bit in porches rather really large OK.
+
+05:10.260 --> 05:13.370
+And we'll slip these two and use as mask
+
+05:15.880 --> 05:16.450
+and
+
+05:22.280 --> 05:25.450
+bring this over here.
+
+05:26.900 --> 05:33.320
+And you can see this one outside of the frame so I can just command X quick on the frame command.
+
+05:34.010 --> 05:36.370
+Make sure it's pasted back in the frame here.
+
+05:38.460 --> 05:43.980
+Now that we have these images all mask the last thing to do is add a drop shadow and a corner radius.
+
+05:43.980 --> 05:50.640
+So here I'm just going to have a radius of five pixels and we'll do the same thing on these images here
+
+05:50.730 --> 05:51.510
+five pixels
+
+05:54.730 --> 05:57.940
+and less quick on effects drop shadow.
+
+05:58.320 --> 06:05.400
+And we're going to just turn this down to maybe two pixels here and then here we're going to add another
+
+06:05.400 --> 06:06.240
+drop shadow
+
+06:11.190 --> 06:16.080
+and we'll add one more drop shuttle so we're adding to drop shadows here one of them is a really sharp
+
+06:16.650 --> 06:25.590
+drop shadow one and this one I want maybe 10 pixels in a Blair to be 20 pixels something like this and
+
+06:25.590 --> 06:29.370
+the shading to be 10 percent.
+
+06:29.410 --> 06:32.450
+So now we have all of our image masked.
+
+06:32.500 --> 06:35.540
+We have some nice shadow effects on those massive images.
+
+06:35.800 --> 06:37.410
+And everything's looking good.

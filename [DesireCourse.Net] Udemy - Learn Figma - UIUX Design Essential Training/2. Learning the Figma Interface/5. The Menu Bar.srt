@@ -1,0 +1,952 @@
+﻿1
+00:00:00,810 --> 00:00:06,030
+Let's talk about what you can find inside the Sigma menu bar to the right I have Sigma open in a web
+
+2
+00:00:06,030 --> 00:00:12,660
+browser and to the left I have the open inside of the fig my desktop app and there are many benefits
+
+3
+00:00:12,660 --> 00:00:17,010
+to running this inside of the app and that starts with the menu screen and in both of these windows
+
+4
+00:00:17,010 --> 00:00:18,800
+I'm going to open up a new file.
+
+5
+00:00:18,900 --> 00:00:22,500
+And if you don't have any existing files you can just click on new file.
+
+6
+00:00:22,500 --> 00:00:26,140
+It doesn't matter what file you open up I'm just going to show you the menu bar.
+
+7
+00:00:26,460 --> 00:00:29,440
+So I'm going to click on both of these to open them up.
+
+8
+00:00:29,940 --> 00:00:35,460
+And first off with the menu bar as you can see we have File Edit View history bookmarks people window
+
+9
+00:00:35,460 --> 00:00:35,990
+help.
+
+10
+00:00:36,030 --> 00:00:37,900
+And this is the Chrome browser.
+
+11
+00:00:37,920 --> 00:00:44,620
+But if I click on Fig MMA now you have things that are associated with the Enigma object vector text.
+
+12
+00:00:44,970 --> 00:00:48,080
+And these tools come in really handy when you're designing with stigma.
+
+13
+00:00:48,150 --> 00:00:52,890
+You can find these same menu options inside of the Chrome browser if you click in Chrome click on this
+
+14
+00:00:52,890 --> 00:00:56,420
+hamburger menu and you have some of these same things.
+
+15
+00:00:56,610 --> 00:01:01,320
+I'm going to discuss the menu items inside the app but if you are using Chrome or in other web browser
+
+16
+00:01:01,320 --> 00:01:06,830
+you can follow along in this hamburger menu going from left to right here we have file.
+
+17
+00:01:06,900 --> 00:01:12,540
+And this is where you can start new projects or files you can close and open tabs and you can also save
+
+18
+00:01:12,540 --> 00:01:14,820
+your projects as a dot Fig.
+
+19
+00:01:14,820 --> 00:01:18,530
+Now when you're usually editing projects you don't have to save as you're editing because everything
+
+20
+00:01:18,530 --> 00:01:19,070
+is a lie.
+
+21
+00:01:19,070 --> 00:01:20,160
+And on the browser.
+
+22
+00:01:20,370 --> 00:01:26,550
+But if you want to save an off line instance to store or archive you can click on the Save as fig or
+
+23
+00:01:26,550 --> 00:01:32,610
+you can export different files in your project here within the Edit menu we have a typical undo redo
+
+24
+00:01:32,610 --> 00:01:34,140
+cut copy and paste.
+
+25
+00:01:34,140 --> 00:01:39,920
+And we also have paste in place and then some great tools that we have our pick color.
+
+26
+00:01:40,080 --> 00:01:44,760
+So if there's already a color that you like inside of your project you can choose this pick color and
+
+27
+00:01:44,760 --> 00:01:50,190
+click anywhere within this canvas to choose that color and any objects that you have selected will adopt
+
+28
+00:01:50,190 --> 00:01:51,300
+that color.
+
+29
+00:01:51,300 --> 00:01:54,540
+You can also set default styles for shapes that you're creating.
+
+30
+00:01:54,720 --> 00:02:00,900
+So when I click on this rectangle tool and I just draw a rectangle here the default style is this gray
+
+31
+00:02:00,900 --> 00:02:07,650
+color if I choose to have this black and I have a purple stroke for example and I choose the weight
+
+32
+00:02:07,650 --> 00:02:11,010
+of the stroke to be 10 pixels.
+
+33
+00:02:11,010 --> 00:02:15,690
+Now I can click on this object I can go to Edit and set default style.
+
+34
+00:02:15,930 --> 00:02:20,550
+And now when I click on this rectangle again and draw a new rectangle it's always going to adopt that
+
+35
+00:02:20,550 --> 00:02:22,760
+same style about I set.
+
+36
+00:02:22,770 --> 00:02:25,660
+Now there's also copy style and paste style.
+
+37
+00:02:25,680 --> 00:02:30,980
+So again if I draw these two rectangles here I can set a style here.
+
+38
+00:02:31,050 --> 00:02:37,000
+Let's change this back to white and instead of changing this one back to White I can click here.
+
+39
+00:02:37,020 --> 00:02:42,240
+Copy this style and then click onto this object and paste the style here and it will adopt the same
+
+40
+00:02:42,240 --> 00:02:44,110
+styles that I have set.
+
+41
+00:02:44,130 --> 00:02:48,570
+You can also choose to select all and that select everything within the canvas which are just these
+
+42
+00:02:48,570 --> 00:02:51,770
+two objects right now you can select none.
+
+43
+00:02:51,960 --> 00:02:58,170
+Or if I select this guy and go into edit and select Inv. this will select everything besides what I
+
+44
+00:02:58,170 --> 00:03:01,010
+already have selected which is this object here.
+
+45
+00:03:01,020 --> 00:03:06,570
+Now there are also some great selection filters that are very powerful so to illustrate this I'm going
+
+46
+00:03:06,570 --> 00:03:12,320
+to copy these two objects here and I'm going to hold down option and drag to duplicate these.
+
+47
+00:03:12,570 --> 00:03:14,910
+And with these two objects I'm going to change the fill.
+
+48
+00:03:14,910 --> 00:03:16,970
+Let's change it to black again.
+
+49
+00:03:17,220 --> 00:03:21,930
+And now with these objects if I click one of these and go into edit I can select everything that has
+
+50
+00:03:21,930 --> 00:03:23,270
+the same style.
+
+51
+00:03:23,280 --> 00:03:28,830
+So if I click on this it's going to select only these two objects or I can choose to select all just
+
+52
+00:03:28,830 --> 00:03:30,090
+with the same fill.
+
+53
+00:03:30,240 --> 00:03:32,910
+And that's also again going to be these two objects.
+
+54
+00:03:32,910 --> 00:03:35,310
+And so you can see kind of what this is doing.
+
+55
+00:03:35,460 --> 00:03:39,720
+You can select every element within your project that has the same text and then you can quickly change
+
+56
+00:03:39,720 --> 00:03:44,390
+that text throughout your project even if it's through 100 art boards or frames.
+
+57
+00:03:44,670 --> 00:03:47,360
+You can change that text within seconds.
+
+58
+00:03:47,370 --> 00:03:51,920
+These may sound like very simple options but allows for powerful editing techniques.
+
+59
+00:03:52,050 --> 00:03:57,510
+And lastly if you want to add any emoji or symbols into your design you can find those here now to show
+
+60
+00:03:57,510 --> 00:03:59,100
+you things inside of the view menu.
+
+61
+00:03:59,100 --> 00:04:03,360
+First I have to create a frame and we'll talk more about this later but I just want to create one real
+
+62
+00:04:03,360 --> 00:04:11,520
+quick to illustrate how the view menu works show pixel grid works if you enable this it will show you
+
+63
+00:04:11,520 --> 00:04:12,660
+the pixels themselves.
+
+64
+00:04:12,660 --> 00:04:17,600
+If I zoom in holding down command you can see this little grid showing each individual pixel.
+
+65
+00:04:17,670 --> 00:04:21,370
+So that comes in handy when you're trying to place your design on pixels.
+
+66
+00:04:21,400 --> 00:04:23,300
+You can also show layout grids.
+
+67
+00:04:23,640 --> 00:04:28,080
+So it's enabled right now but we don't have a layout so I'm going to just click plus and you can see
+
+68
+00:04:28,080 --> 00:04:29,650
+that that shows the grid.
+
+69
+00:04:30,030 --> 00:04:31,890
+Or you can hide this.
+
+70
+00:04:32,010 --> 00:04:36,360
+There are other view options like shole mask outlines of your masking some objects together you can
+
+71
+00:04:36,360 --> 00:04:39,420
+kind of show where those outline are bounding boxes are.
+
+72
+00:04:39,690 --> 00:04:45,030
+You can show the rollers here height and show you can show different panels so you can toggle the layers
+
+73
+00:04:45,030 --> 00:04:51,110
+panel on and off here and you can toggle the entire user interface to show or hide.
+
+74
+00:04:51,110 --> 00:04:54,420
+So everything's hidden in kind of a full screen view here.
+
+75
+00:04:54,510 --> 00:04:58,770
+And then if you want to show just the outlines of your design you can click on this and it hides everything
+
+76
+00:04:58,770 --> 00:04:59,040
+else.
+
+77
+00:04:59,040 --> 00:05:02,820
+The styling shows you where the outlines are for your project.
+
+78
+00:05:05,730 --> 00:05:10,980
+And now the pixel preview option if you click on that I'm going to zoom in to illustrate this.
+
+79
+00:05:10,980 --> 00:05:14,660
+You can kind of see that everything looks sharp right here because it's vector.
+
+80
+00:05:14,790 --> 00:05:19,710
+But if I rotate this for example you can see that it starts to get blurry and that's because it's showing
+
+81
+00:05:19,710 --> 00:05:26,460
+us a preview of what it will look like if this vector was displayed on these pixels on a device.
+
+82
+00:05:27,520 --> 00:05:32,640
+You can also choose to show a transparency checkerboard and pretty much what this does is if there's
+
+83
+00:05:32,680 --> 00:05:37,510
+anything transparent inside of this frame or canvas it'll create a checkerboard showing you that it's
+
+84
+00:05:37,510 --> 00:05:38,520
+see through.
+
+85
+00:05:38,710 --> 00:05:41,150
+When you export it it's going to be transparent.
+
+86
+00:05:41,480 --> 00:05:43,820
+In this section we have a few zoom controls.
+
+87
+00:05:43,960 --> 00:05:49,120
+And next we can find the next art board and it'll switch over to the right or previous our board will
+
+88
+00:05:49,120 --> 00:05:51,190
+switch to the art board over to the left.
+
+89
+00:05:51,190 --> 00:05:57,820
+So if I click on this frame for example and I hold down option to duplicate it I have this frame selected
+
+90
+00:05:58,120 --> 00:06:02,890
+I can go into view and I can say I want to find the previous art board was going to jump to this one
+
+91
+00:06:02,890 --> 00:06:04,350
+on the left.
+
+92
+00:06:04,390 --> 00:06:09,710
+Next we can just enter full screen and I'll just zoom everything up to be front and center.
+
+93
+00:06:09,850 --> 00:06:12,010
+And now we have the object menu.
+
+94
+00:06:12,430 --> 00:06:17,140
+So let's zoom out here so we can see both of these boards I can click on object and this is where you
+
+95
+00:06:17,140 --> 00:06:21,330
+can group different selections or ungroup you can frame a selection.
+
+96
+00:06:21,340 --> 00:06:27,160
+So if I click on these two objects and choose frame selection you will wrap your objects around a frame
+
+97
+00:06:27,340 --> 00:06:31,060
+and this is a little bit different than grouping and I'll show you why in a future video.
+
+98
+00:06:31,060 --> 00:06:35,650
+Now we have a few component options and the great thing about component's is that it allows you to reuse
+
+99
+00:06:36,070 --> 00:06:42,370
+a symbol or a design throughout your entire project and to make quick changes very easily.
+
+100
+00:06:42,370 --> 00:06:46,630
+I'm going to cover this in a lot more detail in a future video but these options here will allow you
+
+101
+00:06:46,630 --> 00:06:51,140
+to create a component so it converts this frame into a component as you can see here.
+
+102
+00:06:51,310 --> 00:06:53,620
+And then here you can go to master component.
+
+103
+00:06:53,800 --> 00:07:00,880
+Now because we only have one master component here if I copy this 500 times let's say I can select one
+
+104
+00:07:00,880 --> 00:07:06,160
+of these copies I can jump in here and select go to master component and it'll just jump to that master
+
+105
+00:07:06,160 --> 00:07:08,760
+component so I can make those quick changes.
+
+106
+00:07:08,890 --> 00:07:14,980
+Also if I click on one of the child components and thereby change the color or the stroke to be different
+
+107
+00:07:14,980 --> 00:07:21,040
+than that Master component I can always click on this reset instance and it'll reset the style to what
+
+108
+00:07:21,040 --> 00:07:22,660
+the master component is.
+
+109
+00:07:22,870 --> 00:07:28,720
+Next let's say you have a master component and a few child components and one of the child components
+
+110
+00:07:28,720 --> 00:07:33,940
+you want to be able to edit the size in the stroke and everything and you don't want it to be affected
+
+111
+00:07:33,940 --> 00:07:35,430
+by the master component.
+
+112
+00:07:35,710 --> 00:07:41,200
+You can always detach this and convert it back into a frame where it's not a component by detaching
+
+113
+00:07:41,200 --> 00:07:43,000
+this from the master component.
+
+114
+00:07:43,000 --> 00:07:47,050
+Now I know this all probably sounds really confusing right now but don't worry because I'm going to
+
+115
+00:07:47,050 --> 00:07:48,870
+cover this in a future video.
+
+116
+00:07:48,870 --> 00:07:54,970
+This is the power of Sigma with components and collaborative editing and it's going to take a dedicated
+
+117
+00:07:54,970 --> 00:07:58,690
+video in itself to really explain how this works.
+
+118
+00:07:58,690 --> 00:08:04,570
+Now you have some other object settings so you can resize an object to fit inside of a frame and you
+
+119
+00:08:04,570 --> 00:08:10,570
+can toggle some object clipping to clip and be masked behind another object or not.
+
+120
+00:08:10,600 --> 00:08:15,640
+These options here allow you to bring objects back and forth in the layering scheme and to show you
+
+121
+00:08:15,640 --> 00:08:20,740
+that here I'm just going to click on this object I'm going to hold down option I'm going to drag this
+
+122
+00:08:20,740 --> 00:08:25,690
+to create a copy and you can obviously see this layer is on top of this layer here.
+
+123
+00:08:25,900 --> 00:08:31,960
+And so if I want to move this around in the layers panel I can click on send it back and I'll send this
+
+124
+00:08:31,960 --> 00:08:37,840
+to the very back or I can go to object and bring forward bring forward bring forward it'll bring that
+
+125
+00:08:37,840 --> 00:08:40,450
+forward three times and the layering scheme.
+
+126
+00:08:40,540 --> 00:08:44,590
+You have some quick flip options if you want to flip this horizontal you're vertically.
+
+127
+00:08:44,590 --> 00:08:47,040
+Some quick rotation options.
+
+128
+00:08:47,160 --> 00:08:51,750
+You can also flatten selection so you can see the selection also shows that it's rotated here.
+
+129
+00:08:51,760 --> 00:08:57,400
+But if I click on Flaten selection for example it's going to flatten this and now I have selection handles
+
+130
+00:08:57,400 --> 00:09:00,010
+that are parallel to my art board.
+
+131
+00:09:00,010 --> 00:09:05,470
+So the difference here if I click on this other object you can see the width is 150 pixels.
+
+132
+00:09:05,620 --> 00:09:11,890
+And now because the selection handle is contained perpendicular to my frame it shows that with as 175
+
+133
+00:09:11,890 --> 00:09:17,320
+pixels and there are some great reasons why you would want to do that for some particular objects but
+
+134
+00:09:17,320 --> 00:09:23,260
+just know that you have that ability here subsumed into my canvas here and now if I click on this rectangle
+
+135
+00:09:23,260 --> 00:09:27,970
+you can click on any rectangle you want inside of here as long as it has a stroke.
+
+136
+00:09:27,970 --> 00:09:33,730
+And now if I go into object and I click on this outline stroke what that does is converts this stroke
+
+137
+00:09:33,760 --> 00:09:34,660
+into an outline.
+
+138
+00:09:34,660 --> 00:09:38,140
+So if I click on this you can see now that I have this outline.
+
+139
+00:09:38,230 --> 00:09:42,910
+So now when I double click inside of here you can see that this isn't a stroke but it's actually a shape
+
+140
+00:09:42,910 --> 00:09:49,030
+that I can now manipulate the inside of the shape in the outside of this shape.
+
+141
+00:09:49,140 --> 00:09:54,460
+And this comes in handy sometimes because now when I realize this you can see that this stroke that
+
+142
+00:09:54,460 --> 00:10:00,520
+I've converted to an outline actually resizes with it a scroll down here and select this object.
+
+143
+00:10:00,520 --> 00:10:06,760
+Now I'm going to go back into object and we have some bullion options and I'm going to talk about this
+
+144
+00:10:06,760 --> 00:10:08,280
+in another video too.
+
+145
+00:10:08,500 --> 00:10:14,200
+But essentially you can join some selections together so if you have two rectangles if you click on
+
+146
+00:10:14,200 --> 00:10:20,440
+union it'll match those to be one shape or you can subtract one shape from another like a cookie cutter
+
+147
+00:10:20,800 --> 00:10:21,490
+method.
+
+148
+00:10:21,700 --> 00:10:27,320
+And there are a few other options here to manipulate these multiple objects to combined into one shape.
+
+149
+00:10:27,320 --> 00:10:33,500
+Now if you ever want to duplicate any objects in place you can hold down Kamandi or you can click this
+
+150
+00:10:33,680 --> 00:10:38,810
+duplicate selection in place and then you can delete raster selection.
+
+151
+00:10:38,810 --> 00:10:43,460
+If I click on this this turns a vector shape into a raster rise to a graphic.
+
+152
+00:10:43,610 --> 00:10:50,330
+So now this is an image and if I resize this image you can see the stroke get skewed and things start
+
+153
+00:10:50,330 --> 00:10:56,600
+to look a little bit weird here and I can also click on this filled image option here and change things
+
+154
+00:10:56,600 --> 00:11:01,510
+like the exposure the contrast saturation and any other image editing options.
+
+155
+00:11:01,520 --> 00:11:08,290
+Now clicking on this shape here I'm going to go into object and you can show or hightest selection.
+
+156
+00:11:08,470 --> 00:11:10,330
+So I click on this to hide it.
+
+157
+00:11:10,480 --> 00:11:15,190
+You can see that what that does is it toggles this little eyeball icon in the layers panel to show and
+
+158
+00:11:15,190 --> 00:11:16,020
+hide.
+
+159
+00:11:16,030 --> 00:11:19,480
+You can also lock or unlock a selection so you don't accidentally change it.
+
+160
+00:11:19,480 --> 00:11:25,630
+So this is hidden and locked but I can show it and have it still be locked so if I drag any rectangles
+
+161
+00:11:25,660 --> 00:11:31,880
+I'm never going to select that and I won't be able to edit this accidentally again this is just a toggle
+
+162
+00:11:31,880 --> 00:11:34,280
+button to unlock and lock through here.
+
+163
+00:11:34,550 --> 00:11:39,200
+And next you can select a few layers then you can click on hide other layers and it will hide everything
+
+164
+00:11:39,200 --> 00:11:41,300
+that's not selected.
+
+165
+00:11:41,300 --> 00:11:47,030
+Now if you ever want to quickly remove a file or remove a stroke or swap the fill and stroke these options
+
+166
+00:11:47,030 --> 00:11:47,440
+are here.
+
+167
+00:11:47,440 --> 00:11:54,010
+So now we have purple is the Phil Black as the stroke and we can just choose to remove the feel altogether.
+
+168
+00:11:54,410 --> 00:11:59,690
+And now if I drag this over some of these objects you can kind of see that the black is layered over
+
+169
+00:11:59,690 --> 00:12:02,180
+it but there is not any feel inside of there.
+
+170
+00:12:02,390 --> 00:12:06,940
+Now to show you some items in the vector menu but I'm going to do is just delete this frame here.
+
+171
+00:12:07,160 --> 00:12:13,840
+I'm going to drag this over and then just delete all the objects in here so I just have one blank frame.
+
+172
+00:12:14,000 --> 00:12:19,010
+And now this vector menu gives you some great options so I'll show you kind of how these work.
+
+173
+00:12:19,010 --> 00:12:23,590
+I'm going to click on the pen tool here and I'll show you this tool in more detail a little bit later
+
+174
+00:12:23,600 --> 00:12:25,900
+but let's say we have some weird shape here.
+
+175
+00:12:26,090 --> 00:12:29,040
+And I hit escape and say that I'm done.
+
+176
+00:12:29,090 --> 00:12:32,430
+Well what happens if we want to close this shape later.
+
+177
+00:12:32,460 --> 00:12:37,580
+What I can do is double click on this object and then I can choose this node here.
+
+178
+00:12:37,590 --> 00:12:41,290
+And if I hold down shift I can select this note as well.
+
+179
+00:12:41,520 --> 00:12:46,890
+And now I jump into vector I can join the selection which will interpret and just create a solid line
+
+180
+00:12:46,890 --> 00:12:49,470
+and between the two open paths.
+
+181
+00:12:49,470 --> 00:12:54,190
+But now if I click commands or control Z on Windows I can go back and Vector.
+
+182
+00:12:54,300 --> 00:13:00,120
+And now I can say I want a smooth join the selection which will interpret this and make the path really
+
+183
+00:13:00,120 --> 00:13:06,770
+smooth an other thing I may want to do is I can double click on this object again and let's say I don't
+
+184
+00:13:06,770 --> 00:13:13,730
+want this node inside of my selection here so I can select this note again go into vector and delete
+
+185
+00:13:13,770 --> 00:13:20,000
+and heal a selection and that will delete this node but it will also try to retain a similar shape that
+
+186
+00:13:20,000 --> 00:13:21,620
+that node was taking care of.
+
+187
+00:13:21,860 --> 00:13:27,350
+Sometimes when you use fewer nodes inside of your vector icons your curves become smoother and it feels
+
+188
+00:13:27,350 --> 00:13:29,090
+more organic.
+
+189
+00:13:29,090 --> 00:13:31,790
+So these three tools can be really powerful.
+
+190
+00:13:31,790 --> 00:13:37,790
+Now let's click done here and I'm going to just delete this shape and just for illustration purposes
+
+191
+00:13:37,790 --> 00:13:41,270
+I'm going to add some text.
+
+192
+00:13:41,720 --> 00:13:44,050
+We have a text box here.
+
+193
+00:13:44,090 --> 00:13:47,380
+I'm going to increase the size here to 48 so we can see it.
+
+194
+00:13:47,420 --> 00:13:53,360
+And now this text menu gives us a nice toggle bold taluk underline we can convert text to it's original
+
+195
+00:13:53,360 --> 00:13:57,860
+case or uppercase or lowercase.
+
+196
+00:13:57,860 --> 00:14:03,600
+Now this 4:03 layout option isn't something that you're hardly ever going to use if ever this force
+
+197
+00:14:03,590 --> 00:14:09,770
+is text objects in the collection to be laid out again if fonts you're using got updated it just verifies
+
+198
+00:14:09,770 --> 00:14:14,230
+that all the fonts are pre-rendered to make sure they're using the latest version of that font.
+
+199
+00:14:14,510 --> 00:14:15,780
+I've never used this yet.
+
+200
+00:14:15,800 --> 00:14:18,120
+I don't think you will either.
+
+201
+00:14:18,140 --> 00:14:20,820
+Now to show you some features in the arr. menu.
+
+202
+00:14:20,930 --> 00:14:29,170
+I'm going to create a few objects here so I'm just going to draw a few rectangles and hold down option.
+
+203
+00:14:29,220 --> 00:14:29,890
+Just copy this.
+
+204
+00:14:29,890 --> 00:14:31,620
+So we have four rectangles here.
+
+205
+00:14:31,730 --> 00:14:34,850
+If we select all of these we have some arr. options.
+
+206
+00:14:34,850 --> 00:14:42,530
+We can round two pixels to make sure that the sizes of these are on subpixel like 100 point five pixels.
+
+207
+00:14:42,530 --> 00:14:47,230
+So this will round them to whole pixels in case that accident ever happens.
+
+208
+00:14:47,390 --> 00:14:51,310
+And then you can arrange by aligning objects to the left.
+
+209
+00:14:51,620 --> 00:14:53,870
+We're going to click command Z here.
+
+210
+00:14:53,870 --> 00:15:02,240
+You can also align to top and you can also pack things so packing things horizontally fits each object
+
+211
+00:15:02,240 --> 00:15:07,800
+side by side packing them tightly so there's no margin between those objects.
+
+212
+00:15:07,880 --> 00:15:13,820
+Again you can pack these vertically and that will do the same thing making sure that they fit nice and
+
+213
+00:15:13,820 --> 00:15:20,900
+snug against each other vertically and then you have some distribute options so you can distribute horizontally
+
+214
+00:15:22,060 --> 00:15:26,460
+you can distribute to the top vertically or distribute bottom.
+
+215
+00:15:26,500 --> 00:15:32,190
+So these settings just help you arrange objects evenly or align them evenly with each other.
+
+216
+00:15:32,350 --> 00:15:35,750
+You can find a lot of those same options here as well.
+
+217
+00:15:35,770 --> 00:15:40,030
+Now under window we have some basic controls like minimize this window.
+
+218
+00:15:40,180 --> 00:15:42,500
+Zoom in to fill the entire screen.
+
+219
+00:15:42,520 --> 00:15:44,860
+You can also select previous and next tabs.
+
+220
+00:15:44,860 --> 00:15:50,140
+Here we only have one tab open but let's say you have three files open you can jump back and forth between
+
+221
+00:15:50,140 --> 00:15:50,450
+them.
+
+222
+00:15:50,470 --> 00:15:55,690
+With these options or you can bring all Sigma windows to the front inside help.
+
+223
+00:15:55,690 --> 00:15:58,510
+I really love this search inside the Mac help.
+
+224
+00:15:58,510 --> 00:16:03,640
+So if I want to find a certain feature in one of these menu options I can just type it in here like
+
+225
+00:16:03,700 --> 00:16:10,900
+outline and I can find this outline stroke option actually lives under object and right here so you
+
+226
+00:16:10,900 --> 00:16:15,160
+can quickly find the settings that you're looking for inside the menubar.
+
+227
+00:16:15,160 --> 00:16:21,010
+There's also some help in tutorial files and this is where you'll sign out of Sigma or you can toggle
+
+228
+00:16:21,010 --> 00:16:23,210
+developer tools on and off.
+
+229
+00:16:23,260 --> 00:16:28,480
+I've never used these it's basically just an inspector mode just like you'll see in Chrome.
+
+230
+00:16:28,480 --> 00:16:32,930
+So you'll get to see some of the H chainmail that makes up these objects here.
+
+231
+00:16:33,250 --> 00:16:36,940
+But again I've never used this and I don't think you will either.
+
+232
+00:16:36,970 --> 00:16:40,250
+So that's just a brief introduction of the menu items here.
+
+233
+00:16:40,300 --> 00:16:43,090
+We're going to go over a lot more of these in much more detail.
+
+234
+00:16:43,090 --> 00:16:45,100
+I know I went over them really fast.
+
+235
+00:16:45,220 --> 00:16:50,350
+It's just to get you basically introduced to some of these things so that you know where you can find
+
+236
+00:16:50,350 --> 00:16:54,850
+different options if you want to go out and design on your own and just play with it.
+
+237
+00:16:54,850 --> 00:16:59,650
+But again some of these options want a much more detailed video to explain so I'll do that in future
+
+238
+00:16:59,650 --> 00:17:00,320
+videos.
+

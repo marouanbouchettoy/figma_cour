@@ -1,0 +1,128 @@
+﻿1
+00:00:00,390 --> 00:00:04,060
+It you still have the previous file open from the last video we can continue along.
+
+2
+00:00:04,170 --> 00:00:07,140
+And if not just open up the prototype panel file.
+
+3
+00:00:07,140 --> 00:00:10,350
+In the chapter two exercise Files folder.
+
+4
+00:00:10,350 --> 00:00:15,840
+Now we're using the same file just to illustrate the coding panel and what happens in here.
+
+5
+00:00:15,870 --> 00:00:21,990
+So because we don't have anything selected we have the background and is telling us the hex value here
+
+6
+00:00:21,990 --> 00:00:24,700
+for the background of this canvas.
+
+7
+00:00:24,780 --> 00:00:28,900
+And so you can see very quickly if you were to be programming in CSSA.
+
+8
+00:00:28,950 --> 00:00:32,800
+You can grab some quick code to Plaisance your design files.
+
+9
+00:00:32,830 --> 00:00:34,390
+And same with iOS.
+
+10
+00:00:34,590 --> 00:00:40,460
+You have this R-GA background color or Android so you can quickly change that.
+
+11
+00:00:40,500 --> 00:00:45,420
+Or if you want to click on this code this gives you the CSSA properties.
+
+12
+00:00:45,450 --> 00:00:50,520
+So now you have background colon and then the color and you can quickly copy that and paste that into
+
+13
+00:00:50,520 --> 00:00:51,890
+your development project.
+
+14
+00:00:53,080 --> 00:00:54,960
+So that's simple enough for the background.
+
+15
+00:00:55,060 --> 00:00:59,860
+But now if we click on some of these other elements here I'm going to hold down Z and just zoom into
+
+16
+00:00:59,860 --> 00:01:06,900
+this log in page and let's double click on this logon button here so we can see very quickly.
+
+17
+00:01:06,910 --> 00:01:13,380
+We have the width height and then left and top padding here so very easily we can click and select this.
+
+18
+00:01:13,390 --> 00:01:16,220
+Paste this into our CSSA files.
+
+19
+00:01:16,240 --> 00:01:18,890
+Same thing with iOS or Android.
+
+20
+00:01:18,890 --> 00:01:26,730
+And we can get some table views here or the code view and this really can happen with almost any object.
+
+21
+00:01:26,740 --> 00:01:28,520
+Here we have this pin drop.
+
+22
+00:01:28,520 --> 00:01:35,530
+When I do the same thing and because this is SPG it kind of gives you this view where you can copy and
+
+23
+00:01:35,530 --> 00:01:45,010
+paste this and with the images again you have the position in the high left right and it'll give you
+
+24
+00:01:45,010 --> 00:01:46,890
+the file name of that image.
+
+25
+00:01:46,900 --> 00:01:53,020
+So if you're designing anything in Sigma 2 then code later or if you want to give your design files
+
+26
+00:01:53,020 --> 00:01:59,830
+to your developers make them aware of this code panel because it'll likely save them a lot of time trying
+
+27
+00:01:59,830 --> 00:02:06,700
+to get certain colors or different font styles by just jumping in here grabbing these and applying them
+
+28
+00:02:06,700 --> 00:02:08,380
+to their code.
+
+29
+00:02:08,380 --> 00:02:14,800
+Now I do get a lot of questions about Sigma being able to convert your whole design into code and although
+
+30
+00:02:14,800 --> 00:02:20,640
+it doesn't do that as far as the entire design being placed into code and structure it.
+
+31
+00:02:21,040 --> 00:02:29,050
+This is still really nice for developers to take these little snippets of code or information and code
+
+32
+00:02:29,080 --> 00:02:31,040
+and structure the code themselves.
+

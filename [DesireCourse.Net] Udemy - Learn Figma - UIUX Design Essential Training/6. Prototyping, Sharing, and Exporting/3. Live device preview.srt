@@ -1,0 +1,60 @@
+﻿1
+00:00:00,810 --> 00:00:05,190
+As you're designing your app Sometimes it's really helpful to see what these screens are going to look
+
+2
+00:00:05,190 --> 00:00:11,580
+like directly on your device and to do that has a nice app for Android and for iPhone.
+
+3
+00:00:11,580 --> 00:00:13,350
+And it's called the Sigma mirror app.
+
+4
+00:00:13,350 --> 00:00:19,500
+So just look in the Google Play store for Sigma mirror or look in the Apple App Store for fig mimir.
+
+5
+00:00:19,500 --> 00:00:25,740
+And once you download this app you can sign in using your log in name and password and you'll be presented
+
+6
+00:00:25,740 --> 00:00:30,710
+with a screen that tells you to click on a frame on your desktop to see what it looks like on your phone.
+
+7
+00:00:30,990 --> 00:00:34,620
+So here we have the home entrées frame.
+
+8
+00:00:34,620 --> 00:00:39,690
+And when I click on this you can see that our iPhone updates showing us what this frame looks like directly
+
+9
+00:00:39,690 --> 00:00:41,130
+on the device.
+
+10
+00:00:41,160 --> 00:00:47,310
+And one thing that's really nice about this is you can tweak your sizes you can move things around and
+
+11
+00:00:47,310 --> 00:00:51,500
+these things happen live directly on your device as well.
+
+12
+00:00:51,720 --> 00:00:57,870
+So sometimes I like to design some icons that are quite large here and you don't know how large they're
+
+13
+00:00:57,870 --> 00:01:00,280
+going to be in relation to your device.
+
+14
+00:01:00,480 --> 00:01:07,350
+And so it's nice to look at that and then do a quick resizing here to make the sizes relative to your
+
+15
+00:01:07,350 --> 00:01:11,100
+screen and make the tap area large enough so that you can't miss it.
+

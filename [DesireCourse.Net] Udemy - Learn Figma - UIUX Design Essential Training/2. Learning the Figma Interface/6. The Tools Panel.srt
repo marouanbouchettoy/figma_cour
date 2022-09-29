@@ -1,0 +1,688 @@
+﻿1
+00:00:01,170 --> 00:00:06,100
+To show you the tools panel I'm going to start off with a fresh new project so to follow along.
+
+2
+00:00:06,330 --> 00:00:11,130
+Just start a new project and we can just work our way from there the first time I'm going to do in the
+
+3
+00:00:11,130 --> 00:00:19,410
+Tools menu is create a new frame and this frame tool is used to create new art boards and also to frame
+
+4
+00:00:19,410 --> 00:00:26,720
+certain sections like a navigation menu bar or an iPhone navigation footer to start off.
+
+5
+00:00:26,720 --> 00:00:31,370
+You can see here on the right we have different presets for frames that we want to create.
+
+6
+00:00:31,370 --> 00:00:36,900
+So I can create an iPhone X frame for example here and I can just click on that and it'll plop that
+
+7
+00:00:36,900 --> 00:00:43,860
+directly in the canvas or if I click on this frame tool I can drag and create a custom frame size at
+
+8
+00:00:43,860 --> 00:00:45,720
+whatever size that I want.
+
+9
+00:00:45,810 --> 00:00:50,880
+I'm going to delete this frame and let's just keep this iPhone X frame as we move along.
+
+10
+00:00:51,060 --> 00:00:55,600
+Now to select any objects you have this move tool this move and select.
+
+11
+00:00:55,620 --> 00:00:59,000
+So now I can click on the name of this frame and I can move it.
+
+12
+00:00:59,070 --> 00:01:03,360
+Now I want to create a few shapes So here's where you'll find your shapes.
+
+13
+00:01:03,360 --> 00:01:05,720
+I can quickly draw some rectangles here.
+
+14
+00:01:07,120 --> 00:01:12,370
+And if I click on this dropdown arrow I have more shape options so here I can draw an ellipse and I
+
+15
+00:01:12,370 --> 00:01:18,550
+can hold down shift to constrain this proportionately and I'll just drag this around.
+
+16
+00:01:19,850 --> 00:01:26,450
+And we have a few of these other one star tool polygon and you lips I'll just place these ones for now.
+
+17
+00:01:26,450 --> 00:01:32,000
+Now I can also scale these objects if I have this circle for example I can click on this down arrow
+
+18
+00:01:32,000 --> 00:01:38,540
+next to the move tool and I can click on the scale tool and I can just drag any one of these drag handles
+
+19
+00:01:38,540 --> 00:01:41,900
+and scale this down or up as I see fit.
+
+20
+00:01:41,900 --> 00:01:46,070
+Now those are great for simple shapes and I'm going to just select both of these and drag them up a
+
+21
+00:01:46,070 --> 00:01:46,620
+little bit.
+
+22
+00:01:46,700 --> 00:01:50,150
+But I can also create custom shapes using this pen tool.
+
+23
+00:01:50,600 --> 00:01:57,890
+For example if I want to quickly create a shape of a heart let's say I can do that here and I'll show
+
+24
+00:01:57,890 --> 00:02:02,000
+you more how to use these controls to create your own shapes.
+
+25
+00:02:02,150 --> 00:02:06,970
+I'm just drawing something quick to show you where these tools live and kind of how they work.
+
+26
+00:02:07,190 --> 00:02:12,600
+And you can see here when we're inside the pen tool we have other options here too.
+
+27
+00:02:12,860 --> 00:02:21,740
+So we can use this paint bucket tool for example to click and paint a certain color inside of that stroke
+
+28
+00:02:21,740 --> 00:02:29,720
+or that shape and we can also use this bend tool to select certain nodes and bend the shape.
+
+29
+00:02:29,720 --> 00:02:35,960
+If you want to design something more freeform like a signature for example you can use this down arrow
+
+30
+00:02:36,380 --> 00:02:38,070
+and select the pencil tool.
+
+31
+00:02:38,180 --> 00:02:42,590
+But before I do that I'm just going to click done here because I don't want to create the same shape
+
+32
+00:02:42,650 --> 00:02:45,260
+inside of this that instance.
+
+33
+00:02:45,290 --> 00:02:50,120
+So now I'm going to click on this down arrow and click on the pencil tool.
+
+34
+00:02:50,280 --> 00:02:52,630
+And here's where I can create a quick signature.
+
+35
+00:02:53,040 --> 00:02:55,630
+And I'm using a mouse so it's kind of messy.
+
+36
+00:02:56,500 --> 00:02:59,310
+But you can see how freeform that is.
+
+37
+00:02:59,350 --> 00:03:07,360
+And now when you double click inside of here you can still use these notes to edit and clean up the
+
+38
+00:03:07,360 --> 00:03:08,600
+pads here.
+
+39
+00:03:08,710 --> 00:03:14,650
+Now you'll find a basic text tool and this is where you can add different text so you can add a navigation
+
+40
+00:03:15,370 --> 00:03:16,800
+for example.
+
+41
+00:03:16,910 --> 00:03:22,930
+And another thing you can do with the text tool is instead of clicking to add some text you can click
+
+42
+00:03:22,930 --> 00:03:28,670
+and drag to create a bounding box that your text is going to wrap and live inside of.
+
+43
+00:03:28,720 --> 00:03:33,640
+Next we have the comment tool and this comment tool is really powerful because you can share your designs
+
+44
+00:03:33,640 --> 00:03:35,080
+with anybody on the web.
+
+45
+00:03:35,080 --> 00:03:36,650
+They don't have to install anything.
+
+46
+00:03:36,850 --> 00:03:41,500
+And they can quickly jump in and start commenting on your designs here so they can click on any area
+
+47
+00:03:41,500 --> 00:03:47,640
+here and say this circle needs some color.
+
+48
+00:03:48,220 --> 00:03:54,070
+And as soon as they click post I'll be notified of that and I can have a conversation directly in here
+
+49
+00:03:54,100 --> 00:03:58,670
+and I can hover over this to refer back to this conversation.
+
+50
+00:03:58,840 --> 00:04:03,760
+And now if I ever add some color I can just click this resolve and it'll archive that conversation so
+
+51
+00:04:03,760 --> 00:04:07,630
+I don't need to see it unless I pull up my archived conversation.
+
+52
+00:04:07,630 --> 00:04:08,820
+So it's really nice.
+
+53
+00:04:08,830 --> 00:04:13,750
+Now this center area right here is only showing the name of the file right now which is untitled.
+
+54
+00:04:14,110 --> 00:04:18,880
+This is where you can rename your file and you can also jump into version history to see what's been
+
+55
+00:04:18,880 --> 00:04:20,960
+going on through different versions.
+
+56
+00:04:20,980 --> 00:04:27,610
+So if I click Show version history you can see what it looks like at 4:16 p.m. or the current version
+
+57
+00:04:27,990 --> 00:04:32,740
+and I haven't done much in here so there's not many versions but this is where you'll find five 10 or
+
+58
+00:04:32,740 --> 00:04:36,310
+15 different versions throughout the last 30 days.
+
+59
+00:04:36,310 --> 00:04:40,920
+Now if I click back to editing here I can click back on this dropdown arrow.
+
+60
+00:04:41,110 --> 00:04:42,890
+I can duplicate this file.
+
+61
+00:04:42,940 --> 00:04:49,300
+I can delete this or jump back into my files or move this file to a certain project.
+
+62
+00:04:49,360 --> 00:04:51,880
+So that's where you'll find the controls for your file.
+
+63
+00:04:52,030 --> 00:04:54,390
+But watch what happens when I click on the circle.
+
+64
+00:04:54,640 --> 00:05:00,020
+All of a sudden I have some contextual options that allow me to edit this circle specifically.
+
+65
+00:05:00,100 --> 00:05:05,110
+So if you hover over this this is the option for editing an object so that click inside of here it will
+
+66
+00:05:05,110 --> 00:05:09,990
+show me the nodes and here's where I can drag some of these nodes around and edit the object.
+
+67
+00:05:10,090 --> 00:05:14,500
+I can click done here or I can reset the instance.
+
+68
+00:05:14,500 --> 00:05:19,050
+Now this is greyed out because this only applies to components which we're going to talk about later.
+
+69
+00:05:19,240 --> 00:05:27,070
+But let's say I create a component here and this component is created I'm going to just hold down option
+
+70
+00:05:27,550 --> 00:05:31,250
+and copy this master component and that creates a child component.
+
+71
+00:05:31,360 --> 00:05:35,260
+And again I'm going to talk more about how this works in a later video.
+
+72
+00:05:35,380 --> 00:05:43,520
+But now let's say I choose this card to be read and I choose this color it should be blue.
+
+73
+00:05:43,930 --> 00:05:50,220
+Well because this is a child component of this Master component I can click inside of here and I can
+
+74
+00:05:50,220 --> 00:05:55,910
+say I want to reset this instance to match the master component and that's what that does here.
+
+75
+00:05:55,950 --> 00:06:01,620
+Now if you want to mask any shapes with any other shapes or mask a shape with an image you can do this
+
+76
+00:06:01,620 --> 00:06:07,110
+here and I'll show you how this works by adding an image real quick and we'll mask that with this shape
+
+77
+00:06:07,110 --> 00:06:11,540
+here so we can go into the shapes tool click on place image.
+
+78
+00:06:11,670 --> 00:06:16,470
+And now if you visit the assets folder under the exorcized files you can click on any one of these images
+
+79
+00:06:16,860 --> 00:06:19,930
+or just find an image on your computer to upload here.
+
+80
+00:06:20,310 --> 00:06:21,680
+It doesn't matter which image.
+
+81
+00:06:21,700 --> 00:06:26,070
+So I'm going to click Open and now it's going to ask me where I want to place this and watch this if
+
+82
+00:06:26,070 --> 00:06:32,730
+I hover over this circle it will place the image and mask it inside of here or here or this shape.
+
+83
+00:06:32,980 --> 00:06:37,830
+But to maintain some masking control what I'm going to do is just click outside of any of these and
+
+84
+00:06:37,830 --> 00:06:41,610
+just click somewhere out of the canvas randomly.
+
+85
+00:06:41,610 --> 00:06:47,370
+And now that we have this image in place I can click on the image and resize this holding down shift
+
+86
+00:06:47,530 --> 00:06:53,100
+and I can resize it to fit somewhat within this rectangle behind it and I'm going to hold down Z and
+
+87
+00:06:53,100 --> 00:06:59,430
+drag a rectangle to zoom in here and zoom in I can select this rectangle hold down shift and select
+
+88
+00:06:59,430 --> 00:07:00,530
+the image.
+
+89
+00:07:00,690 --> 00:07:07,630
+And now I can click on this use as a mask tool and now this rectangle behind the image is purely a mask
+
+90
+00:07:07,650 --> 00:07:12,690
+that's masking the image above this so I can still click on this image layer.
+
+91
+00:07:12,690 --> 00:07:19,200
+I can do some resizing within here and move it around to exactly where I want and it will always be
+
+92
+00:07:19,200 --> 00:07:21,630
+masked within this rectangle.
+
+93
+00:07:21,630 --> 00:07:26,130
+Now I want to show you the bully on tool and in order to do that I'm just going to select everything
+
+94
+00:07:26,130 --> 00:07:28,530
+that I have here and just hit delete.
+
+95
+00:07:29,340 --> 00:07:34,490
+And here I'm just going to zoom in holding down the Z key and I'll just drag a rectangle right here.
+
+96
+00:07:35,250 --> 00:07:43,960
+And now I can add some different shapes here like a rectangle and a circle and now I'm going to change
+
+97
+00:07:43,960 --> 00:07:49,450
+the color of this one so you can kind of see which ones on top of each other.
+
+98
+00:07:49,480 --> 00:07:56,860
+Now using this bully on tool or this union selection I can select two of these shapes here and I can
+
+99
+00:07:56,860 --> 00:07:57,880
+click Union.
+
+100
+00:07:58,150 --> 00:08:03,760
+And that creates one shape where I can change the color of this one shape I can manipulate this as if
+
+101
+00:08:03,760 --> 00:08:04,760
+it's one.
+
+102
+00:08:05,260 --> 00:08:10,390
+But this bully on effect creates icons that are nondestructive so I can still double click inside of
+
+103
+00:08:10,390 --> 00:08:14,990
+here and I can move this around and manipulate this shape too.
+
+104
+00:08:15,130 --> 00:08:21,430
+For example be wider and centered within this square.
+
+105
+00:08:21,440 --> 00:08:26,600
+So you see you can create some great shapes using some simple squares and circles.
+
+106
+00:08:26,600 --> 00:08:32,810
+Now if I right click and ungroup here that will undo that change that I made and I can still select
+
+107
+00:08:32,810 --> 00:08:33,930
+both of these.
+
+108
+00:08:34,010 --> 00:08:38,930
+And here I can choose to subtract the one that's in front from the one that's behind.
+
+109
+00:08:39,110 --> 00:08:43,980
+And so now you can see that it kind of behaves as a cookie cutter holding down commands Z.
+
+110
+00:08:44,000 --> 00:08:45,670
+I can undo this.
+
+111
+00:08:46,130 --> 00:08:52,940
+And now I can intersect the selection so anything that's intersected in between these two shapes is
+
+112
+00:08:52,940 --> 00:08:59,600
+going to keep and excluding the selection retains the shape above here and the shape down here and anything
+
+113
+00:08:59,600 --> 00:09:02,540
+that's intersecting it kind of just subtracts that.
+
+114
+00:09:02,540 --> 00:09:08,240
+Now you've seen so far that we have nondestructive editing where I can still move this around and it
+
+115
+00:09:08,240 --> 00:09:15,020
+still retains the exclude feature but what happens if I want to bake this in now and do some further
+
+116
+00:09:15,020 --> 00:09:15,720
+editing.
+
+117
+00:09:15,890 --> 00:09:17,830
+So this acts like one image.
+
+118
+00:09:17,900 --> 00:09:19,380
+It is two different shapes.
+
+119
+00:09:19,580 --> 00:09:26,210
+I can go in here after I've edited everything and combined my shapes I can choose to flatten selection
+
+120
+00:09:27,230 --> 00:09:30,080
+and what that does now is as this is one single shape.
+
+121
+00:09:30,080 --> 00:09:35,540
+So now when I double click inside of here you can see that I can edit the nodes inside of here and now
+
+122
+00:09:35,540 --> 00:09:39,270
+I can't just grab this circle and move it like I was able to.
+
+123
+00:09:39,290 --> 00:09:45,350
+But now I'm able to do some more advanced techniques to kind of tweak the shape that I want.
+
+124
+00:09:45,350 --> 00:09:48,050
+The last one I want to show you is the crop image.
+
+125
+00:09:48,080 --> 00:09:53,030
+So again I'm going to go into the shapes tool click on place image and I'll grab one of these shapes
+
+126
+00:09:53,030 --> 00:09:59,900
+again and once I placed this here I can place it like I have before or I can click and drag a rectangle
+
+127
+00:09:59,900 --> 00:10:06,230
+and I can drag this to be the size that I want rather than just clicking in place as the original size.
+
+128
+00:10:06,260 --> 00:10:12,200
+So now I can click on this Krop image here and it gives me these nice crop marks where I can choose
+
+129
+00:10:12,200 --> 00:10:15,750
+to compose this image in whatever kind of frame that I want.
+
+130
+00:10:15,980 --> 00:10:20,020
+And once I hit return that's now cropped.
+
+131
+00:10:20,030 --> 00:10:24,370
+Now if I double click inside of here I can do that same masking technique.
+
+132
+00:10:24,590 --> 00:10:29,200
+And if I resize this a kind of skews the image within this cropped area.
+
+133
+00:10:29,510 --> 00:10:31,660
+Now those are all the object menus.
+
+134
+00:10:31,850 --> 00:10:34,980
+And lastly to the right we can see more options in the tools panel.
+
+135
+00:10:35,060 --> 00:10:39,980
+One of them is it's showing my named Caleb here because I'm actually logged in with two computers so
+
+136
+00:10:40,010 --> 00:10:46,400
+even though I'm using my same account if I'm logged in twice it'll show hey Caleb's here and another
+
+137
+00:10:46,400 --> 00:10:47,640
+computer too.
+
+138
+00:10:47,690 --> 00:10:52,580
+So if you have three or four or five people working on this project you're going to see those three
+
+139
+00:10:52,580 --> 00:10:58,700
+four or five icons here and you can click on one of those icons to actually see the other users mouse
+
+140
+00:10:58,700 --> 00:11:01,000
+and follow where they're designing.
+
+141
+00:11:01,190 --> 00:11:05,690
+Now if you want to share this project with anybody else you can click the share icon and you can share
+
+142
+00:11:05,690 --> 00:11:12,020
+this by just copying a link or even embedding a code inside of a blog for people to interact with your
+
+143
+00:11:12,020 --> 00:11:14,840
+designs within a blog like Wordpress.
+
+144
+00:11:14,840 --> 00:11:18,300
+Now we'll talk a little bit more about the present feature in a prototype video.
+
+145
+00:11:18,410 --> 00:11:24,050
+But if I click on this I get a nice preview of my design and if I've prototyped this I can click through
+
+146
+00:11:24,050 --> 00:11:25,900
+to interact with my design.
+
+147
+00:11:26,060 --> 00:11:31,010
+You can see that this present mode actually opens up in a new tab here so I can still toggle back and
+
+148
+00:11:31,040 --> 00:11:35,720
+edit a few things like move this over and jump back into the present mode and see that that changes
+
+149
+00:11:35,720 --> 00:11:36,700
+live.
+
+150
+00:11:36,710 --> 00:11:41,690
+Or I can just close it this way and jump back into it at any time here if I want to jump into my view
+
+151
+00:11:41,690 --> 00:11:42,140
+settings.
+
+152
+00:11:42,170 --> 00:11:47,820
+I can choose to toggle some pixel preview pixel grid layout grids.
+
+153
+00:11:47,960 --> 00:11:52,890
+So these are a few quick view options that you'll get here in the View menu as well and to the right
+
+154
+00:11:52,890 --> 00:11:56,830
+it shows you a few shortcuts to toggle these views on and off.
+
+155
+00:11:56,840 --> 00:12:02,000
+Now if you don't want to hold down Z to draw a rectangle to zoom in a certain area or if you don't want
+
+156
+00:12:02,000 --> 00:12:07,310
+to hold down command to zoom in and out you can choose some precise zoom controls by clicking on this
+
+157
+00:12:07,310 --> 00:12:11,610
+arrow here and jumping to 0 percent or 50 percent.
+
+158
+00:12:11,660 --> 00:12:17,750
+And there's also some short cuts here that you can use like the equal sign or the subtract sign to zoom
+
+159
+00:12:17,750 --> 00:12:18,390
+in and out.
+
+160
+00:12:18,410 --> 00:12:23,540
+Or if you want to zoom to fit you just tap 1 or 0 for 100 percent.
+
+161
+00:12:23,540 --> 00:12:29,390
+The last tool in the Tools panel is this export assets tool and you can see that it shows 0 out of 0
+
+162
+00:12:29,390 --> 00:12:32,020
+selected that I can't export anything.
+
+163
+00:12:32,090 --> 00:12:37,460
+And that's because before you export anything you have to actually select these objects and make them
+
+164
+00:12:37,460 --> 00:12:41,670
+exportable and decide what format you want to export them in.
+
+165
+00:12:41,690 --> 00:12:47,560
+So now that I clicked on that to make exportable let's say we have two or three or four different objects
+
+166
+00:12:47,570 --> 00:12:52,370
+I'm just going to add another circle here and I'll make this exportable as well.
+
+167
+00:12:52,370 --> 00:12:58,280
+So you have to exportable objects now and you can click on this export and you can see these two layers
+
+168
+00:12:58,600 --> 00:13:01,870
+and it's going to export both of them as a PMG.
+
+169
+00:13:01,880 --> 00:13:08,090
+Now you don't have the option to name these objects that are being exported in the export panel but
+
+170
+00:13:08,090 --> 00:13:13,730
+if you want this file to be named something differently you can click on it here and just double click
+
+171
+00:13:13,730 --> 00:13:17,110
+to change the name right here and you can name this cake.
+
+172
+00:13:17,150 --> 00:13:20,960
+For example you jump back in here you can see that that's named differently.
+

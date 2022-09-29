@@ -1,0 +1,88 @@
+﻿1
+00:00:00,660 --> 00:00:06,810
+Inside the assets folder under exercise files you'll find this design templates text file.
+
+2
+00:00:06,810 --> 00:00:10,770
+Now this text file just has a link to these four resources here.
+
+3
+00:00:10,800 --> 00:00:15,180
+You find design templates and these templates come in very handy.
+
+4
+00:00:15,180 --> 00:00:21,060
+For example if you're designing for iOS 11 you can go to developer Apple dot com and they have design
+
+5
+00:00:21,060 --> 00:00:27,750
+resources in this link here for scatch for Adobe XTi for other design files.
+
+6
+00:00:27,750 --> 00:00:33,300
+And remember if it is a sketch file you can import that directly into Sigma and start from there.
+
+7
+00:00:33,300 --> 00:00:38,130
+Alternatively if you're designing for Android you can get the material design template here and material
+
+8
+00:00:38,130 --> 00:00:39,090
+Dyo.
+
+9
+00:00:39,300 --> 00:00:45,810
+And these two links below are community resources for sketch files and for Sigma files.
+
+10
+00:00:45,870 --> 00:00:50,280
+So take a minute to visit these links and familiarize yourself with a few templates because it could
+
+11
+00:00:50,280 --> 00:00:52,510
+really help save some time.
+
+12
+00:00:53,390 --> 00:00:58,700
+For example if you download the iOS 11 design template from developer to Apple dot com you get this
+
+13
+00:00:58,700 --> 00:01:03,710
+folder and not only does it give you the sketch files here the production templates but it also gives
+
+14
+00:01:03,710 --> 00:01:08,130
+you the fonts used inside of this template so you don't find missing fonts once you load this up into
+
+15
+00:01:08,130 --> 00:01:14,960
+a figure so you can click inside here you can see that we have all of the San Francisco pro font packages
+
+16
+00:01:14,960 --> 00:01:16,900
+that come with the iPhone design.
+
+17
+00:01:17,060 --> 00:01:24,200
+Then we have production templates here that are for app icons or for navigation Flo's and the last folder
+
+18
+00:01:24,200 --> 00:01:26,970
+here we have UI elements designs and guidelines.
+
+19
+00:01:27,020 --> 00:01:32,060
+And you can hit the spacebar on a Mac and kind of see a preview of the elements that you're going to
+
+20
+00:01:32,060 --> 00:01:35,350
+get once you import this template into figure.
+
+21
+00:01:35,450 --> 00:01:41,150
+I would highly encourage you to save these links in your bookmarks folder because as you're continuing
+
+22
+00:01:41,150 --> 00:01:44,160
+to design these are going to come in very handy.
+

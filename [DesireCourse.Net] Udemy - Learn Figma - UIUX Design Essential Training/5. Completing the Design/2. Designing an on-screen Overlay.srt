@@ -1,0 +1,540 @@
+﻿1
+00:00:00,360 --> 00:00:04,650
+In this video we're going to complete our on screen overlay screen.
+
+2
+00:00:04,830 --> 00:00:10,320
+This is the screen that tells them you did it let your friends know about it or leave a review.
+
+3
+00:00:10,410 --> 00:00:17,660
+So this screen will pop up as soon as they click on this last step here finalizing their preparation.
+
+4
+00:00:18,120 --> 00:00:20,290
+And that's what we have here.
+
+5
+00:00:20,310 --> 00:00:26,430
+So in a previous video under the stiles video we already learned how to overlay some of these layers
+
+6
+00:00:26,430 --> 00:00:29,890
+here so we have a rectangle with a nice background blur.
+
+7
+00:00:30,030 --> 00:00:30,810
+We have this.
+
+8
+00:00:30,810 --> 00:00:34,290
+This is just an image of this art board here.
+
+9
+00:00:34,470 --> 00:00:36,160
+So we exported the image out.
+
+10
+00:00:36,180 --> 00:00:44,760
+We imported it back into here and now we have these one two three four layers.
+
+11
+00:00:44,820 --> 00:00:51,750
+So it's an image this blurred rectangle and then we have this pop up overlaid rectangle with some drop
+
+12
+00:00:51,750 --> 00:00:57,150
+shadows and we have this component that we created in an earlier video too.
+
+13
+00:00:57,210 --> 00:01:00,290
+So let's complete the rest of this year.
+
+14
+00:01:00,300 --> 00:01:05,940
+First off we need to add some text and the cool thing about previous our boards and some designs is
+
+15
+00:01:05,940 --> 00:01:10,770
+I can hold down option and just copy some of these things if I know it's going to be similar to the
+
+16
+00:01:10,770 --> 00:01:15,200
+same style so I can just type here.
+
+17
+00:01:15,450 --> 00:01:17,850
+You'd get it.
+
+18
+00:01:18,540 --> 00:01:22,250
+And right here I'll just use the same text.
+
+19
+00:01:22,380 --> 00:01:25,800
+Let your friends know about it.
+
+20
+00:01:28,430 --> 00:01:36,100
+And here it's a little bit wider than I'd like so I can just change that here and holding down shift
+
+21
+00:01:36,110 --> 00:01:40,770
+I can touch this 10 pixels shift command left arrow left arrow.
+
+22
+00:01:41,150 --> 00:01:45,260
+I can resize this to be 10 pixels.
+
+23
+00:01:45,560 --> 00:01:53,180
+So now we have four icons of the Google Plus icon Twitter Facebook Instagram icon and if you want you
+
+24
+00:01:53,180 --> 00:02:00,320
+can use any icons that you find online for Google Plus Twitter Facebook and Instagram or if you go into
+
+25
+00:02:00,320 --> 00:02:01,250
+your assets folder.
+
+26
+00:02:01,250 --> 00:02:06,190
+We have four SVGA icons already for Google Instagram Twitter and Facebook.
+
+27
+00:02:06,200 --> 00:02:11,990
+So if you want to just use these Lets just hold down shift to select all of these and I'm just going
+
+28
+00:02:11,990 --> 00:02:16,010
+to drag these in here and we can see that they are all inserted now.
+
+29
+00:02:16,400 --> 00:02:22,040
+I want to lock the proportions and let's just make the height of each one of these 20 pixels right now
+
+30
+00:02:23,200 --> 00:02:25,540
+and I can already see that's a little bit big.
+
+31
+00:02:25,820 --> 00:02:32,630
+So I'm going to change this to 12 pixels and that looks a little bit better.
+
+32
+00:02:32,710 --> 00:02:34,440
+Now I can align these.
+
+33
+00:02:34,910 --> 00:02:41,220
+And the first thing I want to do with these icons here is wrap them in their own little circle.
+
+34
+00:02:41,630 --> 00:02:45,530
+So tapping the Oakey and creating a
+
+35
+00:02:48,250 --> 00:02:51,080
+20 pixel by pixel circle
+
+36
+00:02:54,250 --> 00:02:56,490
+I can make the circle red.
+
+37
+00:02:57,190 --> 00:02:59,420
+And now we'll go in here
+
+38
+00:03:02,660 --> 00:03:09,580
+and we'll create all of these to be white will center these and bring them over here.
+
+39
+00:03:10,070 --> 00:03:16,610
+And if I zoom in here I can kind of see what's going on with this Google Plus is a little bit large.
+
+40
+00:03:16,790 --> 00:03:19,430
+So I'm going to scale this down a little bit.
+
+41
+00:03:19,430 --> 00:03:21,920
+The width will probably make 16 pixels
+
+42
+00:03:24,970 --> 00:03:29,760
+and we can play around with this a little bit later on too if they're too unbalanced.
+
+43
+00:03:29,780 --> 00:03:32,380
+So we'll start right here.
+
+44
+00:03:32,540 --> 00:03:37,790
+And the last thing here the Facebook icon we want to change this a little bit because we only want this
+
+45
+00:03:37,970 --> 00:03:42,710
+if we don't want this bounding box so we can double click inside of here a few times and let's look
+
+46
+00:03:42,710 --> 00:03:47,560
+at our layers panel you can see that this is groups there's an F and on there is a rounded rectangle.
+
+47
+00:03:47,560 --> 00:03:55,040
+So I'm just going to delete this a rounded rectangle here and now we only have this F so now I can bring
+
+48
+00:03:55,040 --> 00:04:03,230
+this F over here and resize this and also look a little bit messy right now if we want to we can hide
+
+49
+00:04:03,230 --> 00:04:06,930
+some of these other ones here as we look at this.
+
+50
+00:04:07,010 --> 00:04:10,430
+F that's a lot better.
+
+51
+00:04:11,510 --> 00:04:15,530
+And now that we have all of these selected I'm just going to clean up these layers because it shows
+
+52
+00:04:15,530 --> 00:04:17,020
+them all grouped.
+
+53
+00:04:17,570 --> 00:04:23,930
+So let's just look all of these groups holding down shift and I'm going to select shift command G.
+
+54
+00:04:24,170 --> 00:04:37,670
+And now one more time shift Comanche and I'll just name this social Twitter social Instagram
+
+55
+00:04:39,830 --> 00:04:43,480
+social Google Plus
+
+56
+00:04:45,980 --> 00:04:48,720
+social Facebook.
+
+57
+00:04:49,130 --> 00:04:55,580
+And now I can select a circle and these other social icons you see sometimes and actually didn't put
+
+58
+00:04:55,580 --> 00:04:57,140
+this in the same frame as the circle.
+
+59
+00:04:57,140 --> 00:04:59,200
+Sometimes it's a little bit weird like that.
+
+60
+00:04:59,210 --> 00:05:02,740
+So we want to drag this back down where the circle is.
+
+61
+00:05:03,060 --> 00:05:08,480
+I'm going to hold out command and select this circle as well and we'll just group everything by creating
+
+62
+00:05:08,480 --> 00:05:09,310
+a component.
+
+63
+00:05:09,540 --> 00:05:13,590
+And we're to call this the social component.
+
+64
+00:05:15,500 --> 00:05:19,580
+Now again we're going to hold down option and copy this and then all right click and move this to the
+
+65
+00:05:19,580 --> 00:05:20,750
+components page.
+
+66
+00:05:21,050 --> 00:05:24,170
+And now we have this child component.
+
+67
+00:05:24,170 --> 00:05:32,540
+This is where we want to start off with the Google Plus icon that will hold down option three more times
+
+68
+00:05:34,100 --> 00:05:35,710
+and copy this.
+
+69
+00:05:36,500 --> 00:05:44,140
+And this one we want to be Facebook here we want it to be Instagram.
+
+70
+00:05:44,570 --> 00:05:49,700
+And here we have this b Twitter.
+
+71
+00:05:50,900 --> 00:05:52,570
+So we've done a good job already.
+
+72
+00:05:52,580 --> 00:05:57,320
+But you can still see this is quite large compared to the circle.
+
+73
+00:05:57,550 --> 00:06:03,470
+So let's right click on one of these and we'll go to the master component and just jumping inside of
+
+74
+00:06:03,470 --> 00:06:04,580
+here.
+
+75
+00:06:05,300 --> 00:06:13,460
+I'm going to hide each one and just go ahead and resize some of these things using this scale tool might
+
+76
+00:06:13,460 --> 00:06:16,430
+help something like that I think will look good.
+
+77
+00:06:16,440 --> 00:06:22,010
+Let's center that in the our board is Google Plus.
+
+78
+00:06:22,010 --> 00:06:23,980
+Bring that down a little bit more.
+
+79
+00:06:27,560 --> 00:06:33,880
+Instagram skill add a little something like this and same thing with Twitter
+
+80
+00:06:42,930 --> 00:06:51,040
+center that we can jump back into our pages or page one and see how that all looks.
+
+81
+00:06:51,450 --> 00:06:57,610
+And one thing I forgot to do I'm going to jump back into components is unhide the rest of these.
+
+82
+00:06:58,350 --> 00:06:59,680
+Jump back in here.
+
+83
+00:06:59,910 --> 00:07:04,040
+And that looks far more balanced.
+
+84
+00:07:04,080 --> 00:07:07,850
+Now the last thing I want to do is add some text here to leave a review
+
+85
+00:07:12,270 --> 00:07:17,680
+and now we want to center all of these things on the watch when I click to drag a drag handle to select
+
+86
+00:07:17,680 --> 00:07:20,580
+everything I'm actually dragging these things behind.
+
+87
+00:07:20,590 --> 00:07:25,300
+So this is where the lock layers will come in really handy these two layers right here.
+
+88
+00:07:25,300 --> 00:07:31,120
+I want to lock now I can click and drag to select everything here except for these circles.
+
+89
+00:07:31,120 --> 00:07:34,710
+Hold down shift and just click to de-select those.
+
+90
+00:07:35,020 --> 00:07:43,030
+And now I can align horizontal centers here and I'll align everything here to the frame and also the
+
+91
+00:07:43,030 --> 00:07:44,940
+center of the frame right here.
+
+92
+00:07:48,820 --> 00:07:58,660
+Now I can start to align some of these items so I could just choose to add 10 pixels between each of
+
+93
+00:07:58,660 --> 00:08:00,050
+these icons.
+
+94
+00:08:00,220 --> 00:08:02,030
+But then right next to each other.
+
+95
+00:08:02,050 --> 00:08:04,610
+Hold down shift and the right arrow key.
+
+96
+00:08:05,230 --> 00:08:10,710
+But this next to G shift right arrow key.
+
+97
+00:08:11,070 --> 00:08:12,000
+All right.
+
+98
+00:08:12,550 --> 00:08:23,320
+So now let's center this with the overlay and let's put a nice 20 pixels in between there and zero pixels
+
+99
+00:08:23,320 --> 00:08:24,150
+in between here
+
+100
+00:08:28,200 --> 00:08:30,300
+and one to three That's 20 pixels.
+
+101
+00:08:30,300 --> 00:08:35,550
+I'm going hold down shift and one more I'm going to have that 30 pixels here and then down here I'm
+
+102
+00:08:35,550 --> 00:08:40,980
+going to add 30 pixels here.
+
+103
+00:08:44,220 --> 00:08:46,530
+And 10 pixels right here.
+
+104
+00:08:47,250 --> 00:08:52,960
+And when you're asking someone to leave a review here you want this all to be unfilled.
+
+105
+00:08:53,220 --> 00:09:01,630
+So because this is a component I can choose this first store to hide this field layer.
+
+106
+00:09:02,380 --> 00:09:05,320
+We're going to also hide this star.
+
+107
+00:09:05,430 --> 00:09:08,940
+Same thing here same thing here
+
+108
+00:09:12,380 --> 00:09:17,920
+and now it's blank and ready for them to leave a review.
+
+109
+00:09:17,930 --> 00:09:21,060
+Last thing I want to do is resize this.
+
+110
+00:09:21,110 --> 00:09:26,530
+So I want this to also have 30 pixels between the bottom of this pop up window.
+
+111
+00:09:26,810 --> 00:09:30,670
+And the bottom of these stars so we can see is 26 pixels right here.
+
+112
+00:09:30,890 --> 00:09:37,410
+So I guess I can just hold down command to resize and set of move and I'll tap this down or one two
+
+113
+00:09:37,410 --> 00:09:42,550
+three four and we have a nice 30 pixels here and 30 pixels here.
+
+114
+00:09:42,890 --> 00:09:46,940
+I'll move the shadow to be centered again.
+
+115
+00:09:46,940 --> 00:09:50,240
+And now I can select everything here.
+
+116
+00:09:50,240 --> 00:09:57,080
+Hit Comanche to group it and just make sure that this is centered with the frame that it's inside.
+
+117
+00:09:57,170 --> 00:10:04,160
+The last thing I want to do is add an x ray here so I'll just quickly draw one.
+
+118
+00:10:04,680 --> 00:10:10,840
+We'll have this two pixels here have this rounded.
+
+119
+00:10:11,000 --> 00:10:17,150
+And now I'll select this line click command see Command V and quickly rotate.
+
+120
+00:10:17,780 --> 00:10:22,190
+And for some reason when you rotate it's rotating on this left axis which is a little bit weird but
+
+121
+00:10:22,190 --> 00:10:26,070
+I can just nudge this using the arrow keys to make it straight.
+
+122
+00:10:26,120 --> 00:10:30,770
+I just noticed that when I was working with lions they behave a little bit unpredictably but now that
+
+123
+00:10:30,770 --> 00:10:39,830
+I have this I can click on this union selection and now I have one nice fill all scroll out and I want
+
+124
+00:10:39,830 --> 00:10:49,730
+to rotate this to 45 degrees and that I can go into object and flatten this selection and change this
+
+125
+00:10:49,730 --> 00:10:58,120
+to be a nice even size will do 10 pixel by pixel and we'll just make this we hold down shift and nudge
+
+126
+00:10:58,130 --> 00:11:04,470
+this left once and right once it will just sit 10 pixels away from the edge there.
+
+127
+00:11:05,030 --> 00:11:08,590
+So now we have a nice pop up menu says you did it.
+
+128
+00:11:08,600 --> 00:11:13,730
+They can leave a review let their friends know or tap this X and jump back into the recipe.
+
+129
+00:11:13,730 --> 00:11:19,080
+Now I'm going to hit 0 to zoom out 100 percent see how that looks and it looks really good to me.
+
+130
+00:11:19,100 --> 00:11:24,580
+But sometimes you have some artifacts there's this edge right here that looks like this.
+
+131
+00:11:24,800 --> 00:11:27,750
+The edge of this isn't hitting the top even though it is.
+
+132
+00:11:28,160 --> 00:11:34,880
+So sometimes if you get that it doesn't hurt to grab this shape inside of here and just move it up past
+
+133
+00:11:34,940 --> 00:11:40,040
+the box just to make sure that you have everything filled inside up here.
+
+134
+00:11:40,100 --> 00:11:42,810
+So this is how you illustrate an overlay here.
+
+135
+00:11:42,830 --> 00:11:46,910
+You have to duplicate the image and then place some objects above this.
+

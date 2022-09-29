@@ -1,0 +1,694 @@
+WEBVTT
+
+00:00.680 --> 00:06.100
+Let's begin adding in combining shapes to our design here and we'll start off with this splash screen.
+
+00:06.350 --> 00:11.660
+So if you just hold down Z and draw a rectangle you can zoom into the splash screen and the first thing
+
+00:11.660 --> 00:17.500
+I want to do inside of this black frame is draw a rectangle that's the same size as the frame here.
+
+00:19.210 --> 00:23.640
+And the reason why I want to do this is to change the fill color to this default red.
+
+00:23.960 --> 00:27.260
+But I also want to display an image inside of this shape.
+
+00:28.900 --> 00:35.310
+So I can click on this feel again and I can feel this shape with an image and here it's going to ask
+
+00:35.310 --> 00:42.360
+me to choose the image and under the assets folder you can choose any of these images that you'd like.
+
+00:42.420 --> 00:49.530
+I'm going to choose this entree lasagna J peck here so I can click open and you can see that that's
+
+00:49.530 --> 00:51.540
+now the background of this frame.
+
+00:51.630 --> 00:55.210
+But I want to move this image field down below this color fill.
+
+00:55.290 --> 00:59.800
+Now I want to change the opacity of this red field to 90 percent.
+
+00:59.970 --> 01:06.090
+And I actually want to hide the layout grid here to make this little bit easier to see.
+
+01:07.810 --> 01:12.160
+And so we have our first shape it's this rectangle here if we click and drag you can see this rectangle
+
+01:12.160 --> 01:19.420
+snaps to the frame edges and with rectangles or other shapes you can click on these radius anchors to
+
+01:19.420 --> 01:23.020
+expand or decrease the radius of this shape.
+
+01:23.170 --> 01:29.440
+And if you want to manipulate the individual radiuses of this shape you can hold down option and drag
+
+01:29.440 --> 01:32.030
+and that will only drag the radius in and out.
+
+01:32.050 --> 01:35.590
+Just for that one corner we're going to leave those the same here.
+
+01:36.540 --> 01:43.630
+And now let's create a chef's hat icon so we can do this by using a few ellipses.
+
+01:44.580 --> 01:45.940
+So I'll just draw some.
+
+01:45.940 --> 01:54.690
+I'll hold down shift so I can constrain the width and the height and let's just drag this out something
+
+01:54.690 --> 02:00.330
+like this and I'll hold down shift to select all of these guys and make sure everything is distributed
+
+02:00.330 --> 02:01.680
+correctly.
+
+02:01.680 --> 02:07.650
+And I'm just going to zoom in just a little bit more here and this is going to take some playing around
+
+02:07.650 --> 02:13.170
+with so maybe I will select the circle and if you hold down shift in the up arrow key it will nudge
+
+02:13.230 --> 02:17.630
+this about 10 pixels each time that you hit the arrow key.
+
+02:17.640 --> 02:20.010
+So I've just nudged this up 20 pixels.
+
+02:20.160 --> 02:24.980
+I've got a nice shape here and now I'll draw a rectangle here.
+
+02:26.080 --> 02:31.300
+For the bottom area of the hat I'm going to move this around just a little bit.
+
+02:31.570 --> 02:38.230
+And now if I want I can click hold down shift and select these three circles which is going to group
+
+02:38.230 --> 02:43.540
+these for now so that when I hold down shift and select this rectangle I can align everything to the
+
+02:43.540 --> 02:44.230
+center.
+
+02:44.380 --> 02:50.800
+Make sure everything's aligned really good and I'll just hold down shift command g to ungroup everything
+
+02:50.800 --> 02:53.080
+now so we can see these shapes.
+
+02:53.080 --> 02:57.450
+We have three circles and one rectangle and that's making up our chef's hat.
+
+02:57.820 --> 03:03.940
+Now with this chef's hat I actually want the corners here to have a radius so I can do that by clicking
+
+03:03.940 --> 03:04.840
+on this radius.
+
+03:04.860 --> 03:08.940
+Anchor and change in that I think 7 pixels looks good.
+
+03:10.550 --> 03:13.050
+And we have the starting of our chefs hat already.
+
+03:13.070 --> 03:19.310
+So all we need to do at this point is select all of these shapes by holding down shift three simple
+
+03:19.310 --> 03:27.500
+shapes and we can come up here and we can see some settings for joining some shapes together for subtracting
+
+03:27.500 --> 03:34.200
+them and you can play around with these to create some nice combination effects for simple shapes.
+
+03:34.220 --> 03:39.610
+So I'm just going to use the union selection and now we have a one simple shape.
+
+03:39.980 --> 03:47.010
+I can change the fill color of this shape if I wanted or I could even remove the feel of this shape
+
+03:47.100 --> 03:49.290
+and add a stroke and the stroke.
+
+03:49.290 --> 03:53.680
+Let's make this white and let's say I want this to be 10 pixels.
+
+03:54.570 --> 04:01.560
+So we have this acting as one shape here but I can still double quick to drill down into this and you
+
+04:01.560 --> 04:07.260
+can see that it is actually behaving as four different shapes that are joined together so I can still
+
+04:07.260 --> 04:12.480
+tweak this a little bit and give it a little bit more personality if I wanted make these a tiny bit
+
+04:12.480 --> 04:13.140
+on even
+
+04:16.110 --> 04:19.830
+which is very handy to make some subtle changes there.
+
+04:19.880 --> 04:26.400
+The last thing I'm going to do for this shape so click in the shapes tool and create a line and I'm
+
+04:26.400 --> 04:32.590
+just going to click and drag holding down shift and I want to copy the same style so I'm going to write
+
+04:32.590 --> 04:38.360
+click here and copy style and I'll right click on this image.
+
+04:40.240 --> 04:42.230
+And paste this style.
+
+04:42.820 --> 04:49.430
+So we have a nice pasted style but I want the ends of this line to be rounded so I can jump into the
+
+04:49.430 --> 04:55.290
+advanced menu of The Strokes and decide that I want the cap to be rounded.
+
+04:56.700 --> 05:00.750
+I've got a nice rounded effect and now I'm just going to select this line.
+
+05:00.950 --> 05:07.460
+Hold down option and just drag down to get just one more line below that.
+
+05:07.620 --> 05:10.940
+And now I want to join all of this as one shape.
+
+05:11.070 --> 05:15.170
+So I'm going to hold down Shift while I'm selecting these two lines and this one shape.
+
+05:15.360 --> 05:19.280
+And now that I have these three selected I can hit command G.
+
+05:19.680 --> 05:22.530
+And that will all be grouped into one shape.
+
+05:24.300 --> 05:28.320
+Now please scroll down and move over into the home frame.
+
+05:28.320 --> 05:32.550
+There are a few other icons that we can recreate with basic shapes here as well.
+
+05:32.790 --> 05:39.120
+So I'll just zoom into the top area here for some navigation icons and we want to search icon here on
+
+05:39.120 --> 05:41.430
+the home page and also a menu icon.
+
+05:41.550 --> 05:44.010
+So the menu icon can be very simple.
+
+05:44.130 --> 05:51.630
+I can go back into the shapes tool and click on rectangle and here I'm just going to quickly draw a
+
+05:51.630 --> 05:52.630
+hamburger menu.
+
+05:52.650 --> 05:58.550
+So going to hold down option here and copy this leave in six pixels in between and we can see that this
+
+05:58.550 --> 06:02.680
+shape is 41 pixels by six pixels.
+
+06:02.680 --> 06:09.150
+Now I just make this an even 40 by selecting all of these rectangles and choosing 40 pixels in the design
+
+06:09.150 --> 06:14.610
+panel and then I want us to have a little bit more personality so I'm going to just decrease the size
+
+06:14.610 --> 06:16.290
+of these a little bit.
+
+06:17.600 --> 06:20.450
+To make their menu icon look a little bit staggered.
+
+06:23.430 --> 06:30.000
+And the last thing I want to do here is I actually want bees radiuses here on the right side to be curved.
+
+06:30.370 --> 06:36.400
+So zooming in here I want to do that and curve these edges what I can do is select all three of these
+
+06:36.400 --> 06:42.010
+rectangles and I can change the radius here if I change this to 3 pixels so you can see that everything
+
+06:42.010 --> 06:43.440
+changes to three pixels.
+
+06:43.840 --> 06:47.500
+But what if I want to individually change the pixel sizes on each corner.
+
+06:47.620 --> 06:55.320
+Well I'm going to undo this and here this gives me control to change the radius for each corner starting
+
+06:55.320 --> 06:56.470
+with the top left.
+
+06:56.700 --> 07:00.440
+So the top left we know we want to be zero and the top right.
+
+07:00.450 --> 07:03.810
+We want to be three pixels and the bottom right.
+
+07:03.810 --> 07:10.940
+We want to be three pixels and then we want the bottom left to stay zero pixels.
+
+07:11.260 --> 07:17.350
+So we have our hamburger menu here and we can group this as well by just selecting everything and choosing
+
+07:17.350 --> 07:18.780
+Union selection.
+
+07:19.060 --> 07:27.770
+And now we have this one icon here I can change all of it to be black red whatever color that I want
+
+07:27.780 --> 07:30.430
+here.
+
+07:30.450 --> 07:35.520
+So now we want to create a magnifying glass and we can do that by going into the shape's options here.
+
+07:35.520 --> 07:42.490
+I'm going to click on the elipse tool and holding down shift or just drag and draw an ellipse and we'll
+
+07:42.490 --> 07:45.690
+start out with 23 pixels I think that's good.
+
+07:46.180 --> 07:52.360
+And we can actually remove the fill here by selecting on the outside of this row clicking the subtract
+
+07:52.420 --> 07:53.610
+and then we'll add a stroke.
+
+07:53.640 --> 07:55.600
+And we want the stroke to be red.
+
+07:56.110 --> 08:03.220
+And I think inside the stroke is good we can align this to the outside of the middle or the inside we're
+
+08:03.220 --> 08:04.640
+going to keep it on the inside.
+
+08:04.990 --> 08:09.010
+And I'm going to have the stroke wait be two pixels here.
+
+08:09.010 --> 08:11.270
+Now I'm going to draw a rectangle.
+
+08:12.260 --> 08:21.890
+And now four pixels is good maybe four pixels by 10 or 12 and we can change this later if we want.
+
+08:22.160 --> 08:27.740
+And the feel of this brunette changed to be the same red color and I'm just going to slit both of these
+
+08:27.770 --> 08:29.010
+and align them.
+
+08:29.420 --> 08:34.940
+So we have two simple shapes here and you'll notice when I tried to align this this has 23 pixels but
+
+08:34.940 --> 08:40.070
+this has four pixels so we have an even with an odd with which is making it look a little bit staggered
+
+08:40.400 --> 08:41.270
+sort of change that.
+
+08:41.270 --> 08:45.350
+I'm just going to change the width of this to 20 pixels.
+
+08:45.350 --> 08:49.170
+So they're both even all do in a line again.
+
+08:49.330 --> 08:52.070
+And that's just nudge this up with our arrow keys.
+
+08:54.370 --> 08:57.800
+Now one thing that you can do with rectangles or circles or any other shape.
+
+08:57.970 --> 09:04.000
+If I zoom in here I can select this rectangle and if I hold down command with my arrow keys I can nudge
+
+09:04.060 --> 09:10.720
+up or down and it will decrease or increase the size whether that's the height or if I use the right
+
+09:10.720 --> 09:12.030
+or left arrows it's the width.
+
+09:12.070 --> 09:17.200
+So it's a very nice shortcut to nudge the sizes to get it precisely the way that you want.
+
+09:17.470 --> 09:23.890
+Now I'm going to add just a small radius here of one pixel around we have a nice rounded corners on
+
+09:23.890 --> 09:29.860
+this magnifying glass and the last thing we can do is select this fill in this stroke and choose union
+
+09:29.860 --> 09:33.710
+selection and actually combines this stroke with the fill which makes it quite nice.
+
+09:33.850 --> 09:36.110
+Now by double click inside of here.
+
+09:36.160 --> 09:38.760
+Hold down shift to select this circle.
+
+09:38.890 --> 09:45.630
+I'm just going to rotate the both of these at 45 degrees and hit return.
+
+09:47.250 --> 09:52.920
+And now we have this shape the shape shows twenty five point eight five pixels and we want it to be
+
+09:52.920 --> 09:59.720
+an even 40 pixels so I can click here to constrain the proportions and choose this to be 40 pixels.
+
+10:00.000 --> 10:06.690
+And now if I hold down command and zoom out with my scroll will you can see that that's proportionally
+
+10:06.690 --> 10:12.420
+the same width as this hamburger menu.
+
+10:13.960 --> 10:22.240
+So I'm going to bring this over here and we have a nice starting out of a hamburger menu and a magnifying
+
+10:22.240 --> 10:25.240
+glass menu with some basic simple shapes.
+
+10:26.210 --> 10:31.610
+Now in the same home page we can tap our for rectangle and if I hold down the ship I can strain the
+
+10:31.610 --> 10:33.070
+size of this.
+
+10:33.090 --> 10:37.570
+We want this rectangle to be 2:21 by 2:21 So we'll just match it with the columns here.
+
+10:37.700 --> 10:39.640
+And this is going to be where image is going to live.
+
+10:39.650 --> 10:43.920
+But to the top right of this image we're going to have a heart icon.
+
+10:43.970 --> 10:47.850
+So I'm going to just zoom in here and to draw a heart.
+
+10:47.870 --> 10:50.880
+I'm going to click and drag a.
+
+10:50.930 --> 10:54.590
+I'll start out with 10 pixel by 15 pixel here.
+
+10:56.540 --> 10:58.500
+And I'll make this white so you can see it.
+
+10:58.580 --> 11:02.900
+And the first thing we can do is change the radius of this heart is going to be one side of the heart
+
+11:02.930 --> 11:03.350
+here.
+
+11:03.500 --> 11:08.780
+So the top left is going to be five pixels the top right is going to be five pixels.
+
+11:09.020 --> 11:15.210
+And then these two at the bottom are going to be zero pixels now I can hold down option and copy the
+
+11:15.210 --> 11:19.710
+shape I'm going to rotate this 90 degrees holding down shift.
+
+11:19.980 --> 11:21.950
+Not going to line this here.
+
+11:22.160 --> 11:24.050
+You can see we have a nice heart.
+
+11:24.210 --> 11:26.210
+So now I will select both of these shapes.
+
+11:26.550 --> 11:29.670
+Rotate this forty five degrees for our heart shape.
+
+11:30.450 --> 11:34.840
+And the last thing we want to do is hit this Join button and now we have a heart icon.
+
+11:35.420 --> 11:38.560
+And I want to change the feel of this to be removed.
+
+11:38.690 --> 11:42.680
+I'm going to add a stroke and this will be a white stroke.
+
+11:42.680 --> 11:45.680
+And let's try to pixels here.
+
+11:45.680 --> 11:51.560
+Now if I hold down command and zoom out you can see what that looks like and how this sits in relation
+
+11:51.560 --> 11:56.940
+to this image that we're going to have so I can set this to that top right here.
+
+11:57.260 --> 12:03.980
+And then instead of using my x and y values here to nudge this around I can hold down shift and just
+
+12:03.980 --> 12:11.960
+nudge this left 10 pixels and down 10 pixels and it's sitting nicely now inside of this image.
+
+12:11.960 --> 12:16.640
+If you ever want to see the sizing or the relationship of sizing between two devices you can select
+
+12:17.000 --> 12:22.940
+this heart for example and then just hold down option and you'll get these nice red indicators of how
+
+12:22.940 --> 12:28.880
+many pixels are between the edges of certain elements and you can see here because the shape is on some
+
+12:28.880 --> 12:29.640
+pixels.
+
+12:29.790 --> 12:35.060
+This notched nine point nine three pixels if you want to change that to be an even width you can lock
+
+12:35.090 --> 12:36.290
+proportions here.
+
+12:36.430 --> 12:40.390
+And let's just change this to maybe be 20 pixels wide.
+
+12:40.460 --> 12:41.870
+You can change that.
+
+12:42.260 --> 12:45.160
+And now let's try this again solemnised at the top right.
+
+12:45.170 --> 12:48.900
+Hold down shift and left and down arrow.
+
+12:49.010 --> 12:54.470
+Now one last thing you might notice when we increase the size here that doesn't increase the radius.
+
+12:54.740 --> 13:02.420
+What we should have done if we undo this a little bit is go to the scale tool and now using the scale
+
+13:02.420 --> 13:08.630
+tool you can scale this up and down and the radius will also scale with it the way that we did it before
+
+13:08.630 --> 13:13.020
+is to actually use the Move tool and tried scaling this which resizes.
+
+13:13.140 --> 13:20.590
+But you can see those radiuses still stay about five pixels if you ever did accidently resize it this
+
+13:20.590 --> 13:21.480
+way.
+
+13:22.180 --> 13:26.040
+And we can see that those radiuses haven't scaled.
+
+13:26.050 --> 13:28.190
+You can always double click inside of here.
+
+13:28.240 --> 13:31.420
+Hold down shift and then just make a quick change maybe.
+
+13:31.450 --> 13:35.180
+So these 10 pixels now and you can see a nice rounded radius.
+
+13:35.200 --> 13:39.760
+So it's really nice to show you how to troubleshoot these things too because it'll always come up as
+
+13:39.760 --> 13:45.040
+your scale on things you might wonder why the radiuses or the strokes aren't looking good.
+
+13:45.040 --> 13:50.860
+So there's a big difference between just resizing and using that scale tool.
+
+13:50.860 --> 13:54.760
+So now we know we want a five star rating system for our recipe.
+
+13:55.030 --> 13:59.520
+And under the shape's options we have the star tool that's really handy.
+
+13:59.620 --> 14:06.220
+So I'm going to just click and drag and hold down shift to lock my ratio and I can drag this any size
+
+14:06.220 --> 14:06.870
+that I want.
+
+14:06.880 --> 14:10.450
+And later I can come in here lock my proportions.
+
+14:10.570 --> 14:18.390
+I'm just going to make the 16 pixels wide here and let's zoom in so I can either keep this style that
+
+14:18.390 --> 14:19.060
+is given me.
+
+14:19.080 --> 14:24.600
+But I have a few controls to change the style to how I want this to look.
+
+14:24.600 --> 14:31.140
+And one of those is changing the counts here I can change this to three four five or 30 count and I
+
+14:31.140 --> 14:35.160
+can also change the ratios to if I want to give these points a little bit more bolder I can do that
+
+14:35.160 --> 14:42.930
+with this ratio anchor and that I have a radius control and I'll just zoom in here a little bit to show
+
+14:42.930 --> 14:44.960
+you how this radius control works.
+
+14:44.970 --> 14:51.720
+So if I push this down you can see I have an option for one or two pixel radius and so that seems like
+
+14:51.720 --> 14:52.450
+a bit much.
+
+14:52.440 --> 14:57.990
+So if you want something that's more subtle than that you can still go into this design panel and I'll
+
+14:57.990 --> 15:04.380
+just type Point 2 ratio just for a nice soft point here unless the I want to change this field to be
+
+15:04.380 --> 15:11.250
+a little bit lighter because this is the background to the star and I'm going to zoom out and holding
+
+15:11.250 --> 15:12.500
+down option.
+
+15:12.660 --> 15:16.450
+I'll just copy this four times.
+
+15:20.280 --> 15:24.180
+And we know with this particular recipe is going to be four and a half stars so I'm going to select
+
+15:24.180 --> 15:26.520
+four of these stars make them red.
+
+15:26.570 --> 15:28.880
+But how do we get half of this star to be red.
+
+15:29.100 --> 15:35.260
+Well if you hold down option and copy this we've seen that we can combine shapes but we can also subtract
+
+15:35.260 --> 15:35.800
+shapes.
+
+15:35.830 --> 15:40.410
+So we have this star and we want to subtract a rectangle from the star.
+
+15:40.450 --> 15:46.600
+So I'm just going to drag a rectangle here we're going to snap it to the very center of this star and
+
+15:46.600 --> 15:50.550
+I'm going to turn down the opacity here just to show you what's happening.
+
+15:50.620 --> 15:55.080
+So we have this rectangle that's overlain this star.
+
+15:55.390 --> 16:01.140
+And so now when I select these two simple shapes I can go in here and I can still use this union selection.
+
+16:01.150 --> 16:04.430
+But that just gives me one really weird shape.
+
+16:05.820 --> 16:12.030
+Or I can click in this down arrow and you subtract selection to subtract the rectangle from the star
+
+16:12.030 --> 16:14.130
+which gives me a nice half star.
+
+16:14.310 --> 16:18.760
+If you'd like to see what the other options do you can play around with that by just clicking undo.
+
+16:19.110 --> 16:24.660
+And we'll go and use exclude selection which will exclude anything that's intersecting between the two
+
+16:24.660 --> 16:25.670
+selections.
+
+16:26.040 --> 16:29.240
+And we also have intersect.
+
+16:29.330 --> 16:33.150
+So anything that's the intersecting it will give us that right half of the star.
+
+16:33.470 --> 16:38.330
+So there's multiple ways that we can join or subtract shapes together.
+
+16:38.360 --> 16:40.610
+I'm just going to stick with this subtract selection here.
+
+16:42.510 --> 16:52.550
+And now I want to copy this style and paste the style on this star and we see very easily we have this
+
+16:52.550 --> 16:54.700
+nice four and a half stars.
+
+16:54.710 --> 17:00.320
+Now you can see here the star isn't quite a line and that's because instead of being a nice even 16
+
+17:00.320 --> 17:03.050
+by 16 pixels now will be cut it in half.
+
+17:03.050 --> 17:08.840
+It has a 7.3 by thirteen point eighty five pixels in here.
+
+17:08.840 --> 17:14.180
+So if we want to align this we can still get past this by double clicking inside of here and we'll just
+
+17:14.180 --> 17:17.880
+select both of these shapes inside of this join.
+
+17:18.200 --> 17:23.240
+And once we click both of the shapes we can snap this to align with other shapes.
+
+17:23.240 --> 17:27.320
+It's just a weird quirk but learning how to get past things like this will really help you save time
+
+17:27.320 --> 17:28.940
+and align things.
+
+17:28.940 --> 17:31.440
+Now zoom out here to see the finished result.
+
+17:31.730 --> 17:36.320
+And we can select all of these shapes and use command g to group all of them and just make sure they're
+
+17:36.320 --> 17:38.620
+centered here on the frame.
+
+17:39.860 --> 17:45.140
+Now these are just a few ways that we can use shapes you see that we created a nice icon here hamburger
+
+17:45.140 --> 17:53.300
+menu search icon and this hurt here learning how to use the shapes tools and also the bully on tools
+
+17:53.300 --> 17:54.390
+that we see here.
+
+17:54.440 --> 17:57.770
+Give you a lot of power in creating the icons that you'd like.

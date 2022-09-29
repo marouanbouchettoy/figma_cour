@@ -1,0 +1,172 @@
+﻿1
+00:00:01,470 --> 00:00:04,200
+In chapter 4 we went over working with content.
+
+2
+00:00:04,230 --> 00:00:10,800
+And that was working with framed shapes icons and a number of the different tools to apply those to
+
+3
+00:00:10,800 --> 00:00:11,520
+our design.
+
+4
+00:00:11,520 --> 00:00:17,550
+So now that we have some well-rounded knowledge on how the tools work there are still some screens left
+
+5
+00:00:17,550 --> 00:00:23,280
+to be designed here and to apply the knowledge we gained in the previous chapters into completing our
+
+6
+00:00:23,280 --> 00:00:24,140
+design.
+
+7
+00:00:24,420 --> 00:00:30,450
+So if you want you can go through these videos with me in completing these designs or you can open up
+
+8
+00:00:30,450 --> 00:00:36,900
+this chef recipe drawing Panjwaii located in your assets folder and design each one of these screens
+
+9
+00:00:36,900 --> 00:00:39,780
+based off of the sketches that you see here.
+
+10
+00:00:39,780 --> 00:00:41,390
+Either way is fine with me.
+
+11
+00:00:41,610 --> 00:00:46,500
+But if you want to follow along I'm just going to get started with this first video creating a slide
+
+12
+00:00:46,500 --> 00:00:50,550
+out menu here in the menus frame.
+
+13
+00:00:50,620 --> 00:00:57,610
+So the first thing I want to do inside of here is create a rectangle using the Arkie for a shortcut
+
+14
+00:00:58,540 --> 00:01:04,840
+and just create this at 320 pixels and I'm going to use the same red color that we've been using in
+
+15
+00:01:04,840 --> 00:01:11,860
+previous videos and now that we have this component set up I can go into the components panel here and
+
+16
+00:01:11,890 --> 00:01:18,220
+drag and drop this button menu somewhere here and I can even line up with this one holding down shift
+
+17
+00:01:18,220 --> 00:01:19,210
+and selecting.
+
+18
+00:01:19,480 --> 00:01:27,190
+I can align this to the top and then make sure that this has 20 pixels here against the edge of this
+
+19
+00:01:27,190 --> 00:01:29,660
+rectangle that will match the same 20 pixels here.
+
+20
+00:01:29,860 --> 00:01:37,410
+Now very quickly I'm going to add some text so I'll just use the keyboard command and I'm just gonna
+
+21
+00:01:37,410 --> 00:01:53,360
+start typing these in going to send this to left justify.
+
+22
+00:01:54,040 --> 00:01:56,490
+OK so we have our four menu items.
+
+23
+00:01:56,560 --> 00:02:02,710
+I'm going to quickly style this with white text and under the advanced menu I want to transform my text
+
+24
+00:02:02,710 --> 00:02:13,310
+to uppercase and I want the paragraph height to be 30 pixels here and this text can actually be let's
+
+25
+00:02:13,400 --> 00:02:16,090
+try 20 pixels right here.
+
+26
+00:02:16,090 --> 00:02:20,960
+So that's looking pretty decent maybe I'll have a medium.
+
+27
+00:02:21,130 --> 00:02:28,420
+And now all a lot of this with the edge and hold down shift and the right arrow two times or three times.
+
+28
+00:02:28,510 --> 00:02:30,330
+So we have our menu here.
+
+29
+00:02:30,430 --> 00:02:39,520
+And I also want to hit the key for a line and I'll just draw a line that's 30 pixels here and I'll make
+
+30
+00:02:39,520 --> 00:02:41,150
+this stroke white.
+
+31
+00:02:42,190 --> 00:02:47,350
+And this can probably be a 5 pixel stroke with the edges rounded.
+
+32
+00:02:47,530 --> 00:02:56,820
+So I'm going to cap this with a round cap and we can see here we are in popular recipes.
+
+33
+00:02:56,830 --> 00:03:03,100
+Now we want to hold down option and copy this text down here and just going to add some more text for
+
+34
+00:03:03,100 --> 00:03:10,300
+the user log in Harry Truman.
+
+35
+00:03:10,460 --> 00:03:12,860
+And if I tap the key for elipse
+
+36
+00:03:16,000 --> 00:03:21,830
+created 46 pixel circle she's going to dial that in here because I couldn't get it correct the first
+
+37
+00:03:21,830 --> 00:03:22,540
+time.
+
+38
+00:03:22,790 --> 00:03:28,640
+And now that I have this circle selected I'm going to go and fill this with an image.
+
+39
+00:03:29,020 --> 00:03:33,590
+It's going to ask me to choose the image and I'm going to go into my assets folder here and we can see
+
+40
+00:03:33,590 --> 00:03:38,550
+this avatar dot and g going to just go ahead and open this up here.
+
+41
+00:03:38,750 --> 00:03:42,690
+And we have Harry Truman profile image here.
+
+42
+00:03:45,280 --> 00:03:50,500
+So you can see very quickly we have our menu all designed and set up and in the next video we're going
+
+43
+00:03:50,500 --> 00:03:53,540
+to finish our pop up screen for the completed recipe.
+

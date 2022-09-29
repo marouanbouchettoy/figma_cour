@@ -1,0 +1,316 @@
+﻿1
+00:00:00,510 --> 00:00:07,300
+To show you how Team libraries works I need to first show you how to add a new team into figure.
+
+2
+00:00:07,710 --> 00:00:14,460
+So down here when the very first start up figure in the start screen we have this new teen icon.
+
+3
+00:00:14,910 --> 00:00:20,760
+And here you can name your team and if you go through this process there will be options to invite new
+
+4
+00:00:20,760 --> 00:00:22,220
+members to the team.
+
+5
+00:00:23,600 --> 00:00:28,520
+Because I already went through this I'm going to click Cancel and I have enabled a paid account under
+
+6
+00:00:28,520 --> 00:00:32,280
+the team brain spin so I can show you this feature.
+
+7
+00:00:32,310 --> 00:00:37,140
+Now if you're working with the free account you don't have access to the team libraries so you won't
+
+8
+00:00:37,140 --> 00:00:38,660
+be able to follow along with me.
+
+9
+00:00:38,670 --> 00:00:45,160
+But I'll still be able to explain kind of how Team libraries works and how the panels works.
+
+10
+00:00:45,420 --> 00:00:48,220
+And if you do have a paid subscription plan.
+
+11
+00:00:48,300 --> 00:00:50,970
+Feel free to just add a team and then click.
+
+12
+00:00:50,970 --> 00:01:00,120
+New project here and I'm just going to call this project bootstrap styles and I'll click Create project
+
+13
+00:01:00,120 --> 00:01:00,690
+here.
+
+14
+00:01:01,630 --> 00:01:05,560
+And once I have this project set up I can import my file here.
+
+15
+00:01:06,750 --> 00:01:13,530
+And let's import the bootstrap underscore styles fig file and now we can open up this bootstrap styles
+
+16
+00:01:13,560 --> 00:01:18,810
+fig file and we can see a number of buttons that were designed for bootstrap.
+
+17
+00:01:19,200 --> 00:01:23,130
+So now that we're in a team and we have these buttons designed Let's say you want to use these across
+
+18
+00:01:23,130 --> 00:01:28,860
+multiple files and share these designs with the team so they can use these buttons throughout their
+
+19
+00:01:28,860 --> 00:01:30,390
+project.
+
+20
+00:01:30,480 --> 00:01:34,650
+Well first thing I'll do is click on this components panel here we can see that they're not set up as
+
+21
+00:01:34,650 --> 00:01:36,130
+a component yet.
+
+22
+00:01:36,210 --> 00:01:41,760
+So what we would do is click on each of these elements and just click Create component and you can see
+
+23
+00:01:41,760 --> 00:01:48,570
+there's a button primary there's a button secondary and just go through here and click on the Create
+
+24
+00:01:48,570 --> 00:01:52,470
+component for each of these in the top row.
+
+25
+00:01:53,820 --> 00:01:59,270
+So now we have these components set up and here we can start with the primary button here.
+
+26
+00:01:59,310 --> 00:02:05,730
+If I right click I can publish this one component to the team library and if I click on that we can
+
+27
+00:02:05,730 --> 00:02:06,300
+see that.
+
+28
+00:02:06,300 --> 00:02:11,670
+Now this is in the team library section and I can always remove this from the library.
+
+29
+00:02:12,090 --> 00:02:13,560
+But what does that mean.
+
+30
+00:02:13,560 --> 00:02:17,220
+Now this is added in a library in the library's panel.
+
+31
+00:02:17,700 --> 00:02:23,640
+Well I can click down here and I can see that we have this file called Bootstrap styles and by clicking
+
+32
+00:02:23,640 --> 00:02:28,010
+here we have that one button we can reuse throughout multiple files.
+
+33
+00:02:28,800 --> 00:02:35,430
+Well I'll go back here into the components panel and I'll just click this info and I'll add this to
+
+34
+00:02:35,430 --> 00:02:36,650
+the library.
+
+35
+00:02:37,050 --> 00:02:43,000
+Well let's just add them all.
+
+36
+00:02:43,200 --> 00:02:50,240
+So now we have these all added to the library and we can see a little sync icon here saying they've
+
+37
+00:02:50,250 --> 00:02:53,200
+been added but they haven't been published yet.
+
+38
+00:02:54,100 --> 00:02:58,660
+So if I go to any other file and try to access these I'm not going to be able to find them so I'll just
+
+39
+00:02:58,660 --> 00:03:03,090
+click this publish and it'll give me a view of everything that's going to be added to the library.
+
+40
+00:03:03,130 --> 00:03:08,400
+And so I'll click publish changes and now these are all added to the team library.
+
+41
+00:03:08,440 --> 00:03:13,100
+So now all I have to do is click on the plus icon to create a whole new file.
+
+42
+00:03:13,240 --> 00:03:19,570
+And as I'm designing I can click to create a new frame here and I'll go to a desktop and create a desktop
+
+43
+00:03:19,570 --> 00:03:20,170
+frame.
+
+44
+00:03:20,170 --> 00:03:24,950
+And so now there's somebody else on my team may have created and shared those styles.
+
+45
+00:03:25,090 --> 00:03:31,000
+I can jump here to the team library and jump in to bootstrap styles and say I guess I want this primary
+
+46
+00:03:31,000 --> 00:03:33,680
+but I want to use this throughout my project here.
+
+47
+00:03:33,910 --> 00:03:42,690
+So if I hold down option I can copy this three times here and now that I have these inside my file I
+
+48
+00:03:42,690 --> 00:03:47,940
+can still double click on these and let's click on the layers panel so we can see how these look here.
+
+49
+00:03:47,940 --> 00:03:49,520
+So I still see this background.
+
+50
+00:03:49,530 --> 00:03:55,810
+I can see the text and I can change this text too quick on me.
+
+51
+00:03:58,330 --> 00:04:06,970
+I can resize those and if I want to change the look of this I can click this go to master component
+
+52
+00:04:07,880 --> 00:04:11,080
+and it will jump into this project where the master component is.
+
+53
+00:04:11,300 --> 00:04:18,810
+And here I can double click inside of here to change this to green for example and I can go back into
+
+54
+00:04:18,810 --> 00:04:19,540
+my project.
+
+55
+00:04:19,560 --> 00:04:21,690
+And nothing's changed yet.
+
+56
+00:04:22,170 --> 00:04:28,380
+But if I go back into this bootstrap styles you can see that it's shown here that I've changed the style
+
+57
+00:04:28,410 --> 00:04:30,230
+but I haven't published the change.
+
+58
+00:04:30,420 --> 00:04:36,690
+So as soon as I click publish or of any team members click publish then it's going to tell me this is
+
+59
+00:04:36,690 --> 00:04:42,420
+going to be updated in the library from blue to green so I could publish change here and we'll click
+
+60
+00:04:42,420 --> 00:04:45,590
+on untitled and everything is still blue.
+
+61
+00:04:46,020 --> 00:04:51,600
+But you notice here on the bottom right we have an alert that says component updates available so I
+
+62
+00:04:51,600 --> 00:04:56,250
+can click dismiss her review here and I'll click dismiss right now.
+
+63
+00:04:57,630 --> 00:05:03,870
+And one thing that's really nice is you're not surprised by some quick changes by team members and you
+
+64
+00:05:03,870 --> 00:05:06,930
+don't have to adopt those changes that they created.
+
+65
+00:05:07,320 --> 00:05:13,920
+But if we ever wanted to adopt those changes later we can click on this team library panel here and
+
+66
+00:05:13,920 --> 00:05:17,770
+let's kick this back button and we can see that there's one update available.
+
+67
+00:05:17,970 --> 00:05:23,880
+So click on that update and it will tell me this button primary and bootstrap change to green here.
+
+68
+00:05:24,270 --> 00:05:29,000
+So I'll decide I want to update this to just click update and now everything's changed to green.
+
+69
+00:05:29,100 --> 00:05:36,300
+It still has that blue stroke so I'll go back in here and I'll double click on this again change this
+
+70
+00:05:36,300 --> 00:05:43,160
+blue stroke to maybe the same maybe a light green stroke or a dark green stroke.
+
+71
+00:05:43,160 --> 00:05:44,250
+Let's just do that.
+
+72
+00:05:45,590 --> 00:05:52,280
+Same thing here publish the change not published we can go back into our other project and we can click
+
+73
+00:05:52,280 --> 00:05:56,250
+review immediately this time and update all changes.
+
+74
+00:05:56,330 --> 00:06:03,020
+So the power behind Team libraries is you can have one team member that is designing all of the styles
+
+75
+00:06:03,020 --> 00:06:09,200
+for a certain project or for multiple projects and at the same time you can have somebody else working
+
+76
+00:06:09,290 --> 00:06:15,440
+on the project itself adopting those styles dragging them in and applying those.
+
+77
+00:06:15,440 --> 00:06:20,050
+And then they can decide whether to adopt changes later as the style grows.
+
+78
+00:06:20,060 --> 00:06:26,330
+So it's a great way to reuse styles and elements not just in your project like Master component's allows
+
+79
+00:06:26,360 --> 00:06:29,620
+but throughout multiple projects and throughout the entire team.
+

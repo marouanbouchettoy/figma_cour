@@ -1,0 +1,264 @@
+﻿1
+00:00:00,150 --> 00:00:03,880
+Our design is looking really good and it's almost ready to prototype.
+
+2
+00:00:04,020 --> 00:00:09,750
+But we're missing a few designs that I think are key to prototyping this correctly and that is when
+
+3
+00:00:09,750 --> 00:00:15,790
+we click on appetizers entrees or desserts we want to see how that toggle looks between this.
+
+4
+00:00:15,870 --> 00:00:20,220
+So to do this we're going to create some more frames here and I'm just going to move these over here
+
+5
+00:00:20,220 --> 00:00:23,000
+to the right to make some room.
+
+6
+00:00:23,430 --> 00:00:28,300
+And now I can hold down option and I'll copy this two times.
+
+7
+00:00:28,920 --> 00:00:34,800
+I'm going to rename this frame here it's named home but I'm just going to name this whole entrées.
+
+8
+00:00:35,190 --> 00:00:38,650
+I'll name this one home.
+
+9
+00:00:38,680 --> 00:00:40,710
+Appetisers.
+
+10
+00:00:41,580 --> 00:00:50,540
+And this one home desserts sort of show you how these toggles work.
+
+11
+00:00:50,660 --> 00:00:51,510
+Let's just go in here.
+
+12
+00:00:51,510 --> 00:00:58,140
+I'm going to zoom into all three of these and I'll show you how you can change each of these.
+
+13
+00:00:58,440 --> 00:01:00,970
+So here we have the entrees all correct.
+
+14
+00:01:01,170 --> 00:01:03,080
+This is the appetizer screen.
+
+15
+00:01:03,150 --> 00:01:06,970
+So to change the state here I'm actually going to hold down command.
+
+16
+00:01:06,990 --> 00:01:10,030
+And if you hold down command it will drill inside of a group.
+
+17
+00:01:10,030 --> 00:01:11,620
+Right now I'm just selecting a group.
+
+18
+00:01:11,730 --> 00:01:17,160
+But if you want to select elements inside of the group without double clicking them multiple times just
+
+19
+00:01:17,160 --> 00:01:18,320
+hold down command.
+
+20
+00:01:18,540 --> 00:01:25,260
+I can click on entrées and with some quick shortcuts option commands see to copy the style Option Command
+
+21
+00:01:25,260 --> 00:01:28,880
+V to paste the style and then I'm going to select dessert.
+
+22
+00:01:28,890 --> 00:01:32,870
+Do the same thing Option Command see Option Command B and paste this.
+
+23
+00:01:32,910 --> 00:01:37,530
+I'm just going to move this line now over here and stretch this out a bit.
+
+24
+00:01:37,530 --> 00:01:45,430
+Holding down option to lock my left and right symmetry here.
+
+25
+00:01:46,860 --> 00:01:49,830
+So now we show appetisers the same thing with the zurr.
+
+26
+00:01:49,830 --> 00:01:55,470
+I'm just going to change this here so it's the same process command see Option Command B option command
+
+27
+00:01:55,470 --> 00:02:01,500
+see Option Command V and then I'll move this line over here to dessert.
+
+28
+00:02:04,140 --> 00:02:06,300
+And just nudge this.
+
+29
+00:02:06,300 --> 00:02:12,390
+And now we have entrees appetizers desserts inside of our assets folder I have some text that we can
+
+30
+00:02:12,390 --> 00:02:15,390
+copy here for the appetizers and for the desserts.
+
+31
+00:02:15,420 --> 00:02:20,730
+So we have their recipe breadsticks text file for the appetizers and the recipe shortcake text file
+
+32
+00:02:21,150 --> 00:02:28,830
+for the dessert so we can quickly just select this command see to copy and we'll click in here a few
+
+33
+00:02:28,830 --> 00:02:33,420
+times and come in vi and we'll just call this breadsticks
+
+34
+00:02:37,630 --> 00:02:47,890
+and now with home desserts we're going to use this strawberry shortcake command C Manby and I'll just
+
+35
+00:02:47,890 --> 00:02:48,960
+name this here.
+
+36
+00:02:52,790 --> 00:02:58,370
+So now we have Prime Rib breadsticks strawberry shortcake.
+
+37
+00:02:58,370 --> 00:03:03,530
+Now I want to change the rating of these bread sticks here.
+
+38
+00:03:03,530 --> 00:03:05,990
+I'm actually going to give this four stars.
+
+39
+00:03:10,520 --> 00:03:11,770
+So that's looking good.
+
+40
+00:03:11,810 --> 00:03:16,000
+And if I want to give this four stars as well I'm just going to delete that and to make life simpler
+
+41
+00:03:16,010 --> 00:03:17,830
+I'm just going to come and see.
+
+42
+00:03:17,960 --> 00:03:19,910
+Click on this frame and command the
+
+43
+00:03:23,600 --> 00:03:28,880
+and I notice here that this isn't centered so we can quickly use the center icon and center our star
+
+44
+00:03:28,880 --> 00:03:33,860
+ratings and I'm going to hold down shift to select all of these I'm just going to nudge this down a
+
+45
+00:03:33,860 --> 00:03:38,640
+little bit so it's a little bit further away from this image.
+
+46
+00:03:38,960 --> 00:03:44,510
+Now for the images all we have to do is click inside of here quick choose image we have our assets folder
+
+47
+00:03:44,510 --> 00:03:48,170
+here or look for some breadsticks here.
+
+48
+00:03:48,770 --> 00:03:54,440
+And then the rest of the appetizer images we have to click on this x to get out of there and click on
+
+49
+00:03:54,440 --> 00:04:00,840
+this group double click a few times until we see this image thumbnail and we'll choose a new appetizer
+
+50
+00:04:00,840 --> 00:04:02,580
+or these caprice.
+
+51
+00:04:03,040 --> 00:04:06,610
+It's like mozzarella cheese with some tomatoes.
+
+52
+00:04:07,100 --> 00:04:11,210
+And the last appetizer here is going to be
+
+53
+00:04:14,470 --> 00:04:15,300
+hot wings.
+
+54
+00:04:15,320 --> 00:04:17,460
+Love the hot wings.
+
+55
+00:04:18,250 --> 00:04:21,040
+So we have that set up and do the same thing over here.
+
+56
+00:04:21,040 --> 00:04:23,730
+We know we want a strawberry shortcake.
+
+57
+00:04:24,780 --> 00:04:30,960
+Let's go into our desserts dessert right here strawberry shortcake.
+
+58
+00:04:31,840 --> 00:04:32,800
+And to the left
+
+59
+00:04:35,750 --> 00:04:36,620
+we can add
+
+60
+00:04:41,620 --> 00:04:47,270
+this chocolate cake and feel free to google your own images and place whatever you want in here.
+
+61
+00:04:47,500 --> 00:04:54,250
+I'm just showing you the workflow for creating and duplicating some of these designs.
+
+62
+00:04:54,310 --> 00:05:02,390
+The last time I'm going to have is dessert ice cream cobbler.
+
+63
+00:05:02,540 --> 00:05:05,370
+OK so we have home on trees.
+
+64
+00:05:05,370 --> 00:05:07,740
+Home appetizers and home desserts.
+
+65
+00:05:07,740 --> 00:05:09,120
+We zoom out here.
+
+66
+00:05:09,510 --> 00:05:15,450
+We can see we have a nice complete design here and we're ready to finally wrap things up on the design.
+

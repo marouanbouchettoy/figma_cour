@@ -1,0 +1,356 @@
+﻿1
+00:00:00,420 --> 00:00:05,850
+To show you how text and the text properties work are going to be adding some text into the recipe details
+
+2
+00:00:05,850 --> 00:00:08,600
+frame that we created in a previous video.
+
+3
+00:00:09,550 --> 00:00:14,260
+If you haven't followed along and just jumped into this video then you can find this file under the
+
+4
+00:00:14,260 --> 00:00:17,460
+Chapter 4 folder in your exercise files.
+
+5
+00:00:17,550 --> 00:00:25,820
+So to save time typing up some text I have a recipe prime rib text file you can find in the assets folder.
+
+6
+00:00:26,080 --> 00:00:32,250
+And here let's just open this up and we can just refer to this as we crank along here.
+
+7
+00:00:32,320 --> 00:00:38,680
+So the first thing we want to do is copy this text prime rib roast and that's just click on this tee
+
+8
+00:00:39,010 --> 00:00:40,090
+tool here.
+
+9
+00:00:40,120 --> 00:00:44,640
+I'm just going to click in a general area and paste this in prime rib roast.
+
+10
+00:00:44,660 --> 00:00:51,610
+Now we can jump back into our text edit folder that's copy the summary text here command see or control
+
+11
+00:00:51,610 --> 00:00:59,830
+see on Windows and next time we use the tiki we're going to click and drag for a certain box that we
+
+12
+00:00:59,830 --> 00:01:01,870
+want to surround this text with.
+
+13
+00:01:02,140 --> 00:01:06,160
+And I can hit command V here and paste this text inside of here.
+
+14
+00:01:07,300 --> 00:01:12,390
+And we can already see that this page is going to be quite a bit longer than the others.
+
+15
+00:01:12,520 --> 00:01:18,150
+So I'm going to drag this down here and next up pull this down.
+
+16
+00:01:18,300 --> 00:01:21,210
+I can copy some of this text by holding down an option.
+
+17
+00:01:21,210 --> 00:01:23,020
+I'm just going to copy this down here.
+
+18
+00:01:23,040 --> 00:01:25,530
+Copy this down here and this.
+
+19
+00:01:25,530 --> 00:01:29,200
+I'm just going to call this shopping list.
+
+20
+00:01:29,520 --> 00:01:36,510
+And I have this in all caps and here I'm going just going to put this lower case preparation.
+
+21
+00:01:36,750 --> 00:01:39,610
+I'm going to show you why I do that later.
+
+22
+00:01:40,110 --> 00:01:45,330
+Next let's copy this over holding down an option we can drag and let's jump back into our text file
+
+23
+00:01:45,330 --> 00:01:52,930
+here and I'll copy this paste it in here.
+
+24
+00:01:53,480 --> 00:01:54,500
+Hold down option
+
+25
+00:01:58,750 --> 00:02:09,040
+and copy this and paste it in so you can really type in anything that you want here.
+
+26
+00:02:09,100 --> 00:02:14,890
+This is just some sample text to help you understand how the text properties works.
+
+27
+00:02:15,430 --> 00:02:20,290
+So we have some one liner text here that's pretty simple if we click in here if we want to make this
+
+28
+00:02:20,290 --> 00:02:23,080
+bold For example we can choose bold.
+
+29
+00:02:23,380 --> 00:02:26,880
+We can change the size to say 18 pixels here.
+
+30
+00:02:27,730 --> 00:02:35,250
+And we can change the center justification here very easily and just Center this with this icon here.
+
+31
+00:02:35,500 --> 00:02:39,340
+Now I can already see I want this text to be the same as this one.
+
+32
+00:02:39,340 --> 00:02:47,210
+So what I can do here is I can right click and copy this style and paste the style directly into here
+
+33
+00:02:48,070 --> 00:02:52,570
+and I have the same center justification eighteen point bold.
+
+34
+00:02:52,570 --> 00:02:55,580
+Here I can center that as well.
+
+35
+00:02:56,320 --> 00:03:01,850
+And now what do we do about these ingredients and the preparation.
+
+36
+00:03:02,170 --> 00:03:06,640
+Well the first thing I want to do is just change this maybe fourteen point here and you can see this
+
+37
+00:03:06,640 --> 00:03:09,560
+text is going beyond this bounding box here.
+
+38
+00:03:09,790 --> 00:03:15,310
+So I can click and drag this to surround this or I can click on this advanced menu and choose to auto
+
+39
+00:03:15,310 --> 00:03:18,670
+resize the height based off of the contents in there.
+
+40
+00:03:18,670 --> 00:03:25,780
+So now if I jump in here and I continue typing that bounding box is going to resize the next thing I
+
+41
+00:03:25,780 --> 00:03:30,370
+can do here is add a paragraph or line spacing.
+
+42
+00:03:30,370 --> 00:03:32,660
+So this is your regular line high.
+
+43
+00:03:32,830 --> 00:03:37,360
+And this is your paragraph spacings so I want to play with this little bit I'm just going to add 10
+
+44
+00:03:37,360 --> 00:03:37,950
+here.
+
+45
+00:03:38,230 --> 00:03:44,110
+So I really like how this is turning out here I can do the same thing in copy style and paste style
+
+46
+00:03:44,110 --> 00:03:46,930
+here and that's looking really good.
+
+47
+00:03:47,080 --> 00:03:52,690
+But notice here we already have some paragraphs here that were entered in the text so we can go through
+
+48
+00:03:52,690 --> 00:03:57,640
+and delete this to keep it accurate as far as the spacing goes.
+
+49
+00:03:59,390 --> 00:04:03,920
+And here we have the same problem with the bounding box so we can go into the advanced menu where you
+
+50
+00:04:03,920 --> 00:04:10,460
+can resize the height here and it looks like we need to resize our frame to be higher as well so I'm
+
+51
+00:04:10,460 --> 00:04:11,860
+going to hold down command.
+
+52
+00:04:12,020 --> 00:04:12,980
+Zoom out.
+
+53
+00:04:14,660 --> 00:04:15,850
+And I can resize that.
+
+54
+00:04:15,890 --> 00:04:19,140
+Let's just zoom back in here make sure our looks good.
+
+55
+00:04:19,280 --> 00:04:23,700
+I actually want to increase the line height here to be maybe 110 percent.
+
+56
+00:04:23,780 --> 00:04:25,850
+Just to give a tiny bit more spacing.
+
+57
+00:04:28,520 --> 00:04:32,410
+Now I can select these different elements and just position them
+
+58
+00:04:36,360 --> 00:04:38,400
+got 20 pixels here.
+
+59
+00:04:38,840 --> 00:04:44,570
+I'll probably put maybe 50 pixels one two three four five 50 pixels in between these two.
+
+60
+00:04:45,900 --> 00:04:48,540
+And same thing here.
+
+61
+00:04:48,610 --> 00:04:54,640
+One two three four or five and we've got 50 pixels so we already added some text.
+
+62
+00:04:54,670 --> 00:04:56,970
+Got a really nice sizing here.
+
+63
+00:04:56,980 --> 00:05:02,800
+I'm just going to use Option Command C as a shortcut to copy the style An Option Command V to paste
+
+64
+00:05:02,800 --> 00:05:04,830
+this in the prime rib roast.
+
+65
+00:05:04,840 --> 00:05:11,710
+So we've got that styling down here and now I want to show you why I didn't capitalize this but I did
+
+66
+00:05:11,710 --> 00:05:18,190
+capitalize this so if you type things in caps it's hard to have control over changing the capitalization
+
+67
+00:05:18,190 --> 00:05:18,630
+later.
+
+68
+00:05:18,640 --> 00:05:25,300
+But if you have this all lowercase here I can quickly go into a bunch of text in my design file and
+
+69
+00:05:25,300 --> 00:05:28,780
+I can go and choose to transform this text to all uppercase here.
+
+70
+00:05:28,990 --> 00:05:34,960
+So you have a lot more flexibility and what that font is going to look like is you design further out.
+
+71
+00:05:35,400 --> 00:05:39,040
+And lastly I'm going to copy the style here and paste it right here.
+
+72
+00:05:39,040 --> 00:05:41,100
+And I think that's looking really good.
+
+73
+00:05:41,410 --> 00:05:46,720
+Now I've already formatted all this text and rather than use the copy style paste style a bunch of times
+
+74
+00:05:47,620 --> 00:05:54,220
+I might find out that later I want this text to not be completely black but I want it to be a little
+
+75
+00:05:54,220 --> 00:05:55,060
+bit lighter.
+
+76
+00:05:55,090 --> 00:06:00,820
+So rather than clicking and trying to select everything in our art board we can click on one of these
+
+77
+00:06:01,150 --> 00:06:08,330
+go under Edit and we can choose to select everything with the same style here so selecting all of these
+
+78
+00:06:08,340 --> 00:06:16,240
+three and I can quickly go in here and say now the style I want the text to be just a tiny bit lighter.
+
+79
+00:06:16,400 --> 00:06:21,310
+So something like this and you can see that it changed that for these two.
+
+80
+00:06:21,440 --> 00:06:23,570
+But this right here has something different.
+
+81
+00:06:23,570 --> 00:06:27,110
+There's something different in the style and that's the line spacing here.
+
+82
+00:06:27,560 --> 00:06:33,120
+So Option Command see Option Command B and we have that same type of styling.
+
+83
+00:06:33,590 --> 00:06:40,680
+What's really great though is you don't have to rely on one style for this entire text box field.
+
+84
+00:06:40,700 --> 00:06:48,320
+So for example as far as the amount of ingredients that we have here I want this to be bold and I want
+
+85
+00:06:48,320 --> 00:06:50,390
+that to be totally black.
+
+86
+00:06:50,540 --> 00:06:58,090
+So once I change that you can definitely see the difference between the amount and the actual ingredient.
+
+87
+00:06:58,310 --> 00:07:00,460
+So I can do the same thing here.
+
+88
+00:07:03,370 --> 00:07:04,700
+This black and bold
+
+89
+00:07:27,500 --> 00:07:32,540
+and we can change that independent of the other characters in this bounding box.
+

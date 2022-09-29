@@ -1,0 +1,392 @@
+﻿1
+00:00:00,300 --> 00:00:06,090
+In a previous video we created these icons like this hamburger menu and this spotlight here and even
+
+2
+00:00:06,090 --> 00:00:11,580
+these stars but creating each little icon can sometimes be really cumbersome and there are thousands
+
+3
+00:00:11,580 --> 00:00:17,030
+of libraries out there that we can use inside of our design to get a design out quickly.
+
+4
+00:00:17,040 --> 00:00:24,090
+You may also have some icons inside of Adobe Illustrator or some images that you find on Google or other
+
+5
+00:00:24,090 --> 00:00:27,820
+online resources and those formats are very easy to drag and drop.
+
+6
+00:00:27,820 --> 00:00:33,390
+So I want to show you a few ways that you can import some icons in here and to do that let's get started
+
+7
+00:00:33,390 --> 00:00:36,100
+zooming into this home screen here.
+
+8
+00:00:36,360 --> 00:00:43,160
+And now if we go into our assets folder we see that we have an icon here.
+
+9
+00:00:43,200 --> 00:00:45,360
+Now we have this icon in three different formats.
+
+10
+00:00:45,360 --> 00:00:49,700
+We have Adobe Illustrator P.N. G and S Ficci.
+
+11
+00:00:49,750 --> 00:00:54,840
+Now unfortunately right now if I try to drag and drop this Adobe Illustrator file in here you can see
+
+12
+00:00:54,840 --> 00:00:59,790
+that this failed to import so thick that doesn't recognize the Adobe Illustrator file completely.
+
+13
+00:00:59,790 --> 00:01:06,060
+But if I double click and open this Adobe Illustrator file you can see this common vector graphic and
+
+14
+00:01:06,060 --> 00:01:11,120
+we can actually click commands see we can go into Sigma and click command.
+
+15
+00:01:11,520 --> 00:01:15,490
+And this pace the SPG directly inside of Sigma.
+
+16
+00:01:15,750 --> 00:01:18,140
+And this actually paste this is a group.
+
+17
+00:01:18,150 --> 00:01:21,410
+And if we drill down we can see that this is actually a vector image.
+
+18
+00:01:21,450 --> 00:01:27,220
+So the first thing we do when we import is just hold down shift command g a few times.
+
+19
+00:01:27,390 --> 00:01:34,230
+And now we have this vector graphic all vectorized If we zoom in here we can still double click and
+
+20
+00:01:34,290 --> 00:01:38,620
+edit this graphic exactly how we would if we created this inside of Sigma.
+
+21
+00:01:38,670 --> 00:01:44,180
+Another way that we can import this graphic is through a pian g This is a portable networked graphic
+
+22
+00:01:44,190 --> 00:01:46,270
+it's almost the same as an image.
+
+23
+00:01:46,500 --> 00:01:52,680
+And we can see when we import this in it's a raster graphic meaning it's calculating the pixels here
+
+24
+00:01:53,190 --> 00:01:57,930
+and behaves like an image instead of a vector graphic.
+
+25
+00:01:57,930 --> 00:02:02,970
+The downside to something like this is you don't have the same editing capabilities as something like
+
+26
+00:02:03,050 --> 00:02:09,900
+SPG or Adobe Illustrator files where you can edit these and manipulate the files themselves with the
+
+27
+00:02:09,900 --> 00:02:11,760
+image because this icon has an image.
+
+28
+00:02:11,760 --> 00:02:17,760
+If we click inside of this area we have some image editing controls which doesn't work too well with
+
+29
+00:02:17,760 --> 00:02:24,210
+just a black icon and there are some ways to get around maybe the color of this so we can still go onto
+
+30
+00:02:24,210 --> 00:02:31,500
+this image and add a field for example and I can click inside of this and choose a solid fill say I
+
+31
+00:02:31,500 --> 00:02:34,050
+want to choose the same red icon here.
+
+32
+00:02:34,320 --> 00:02:40,890
+So I change it to red to what that did was it overlaid a red fill over top of the entire rectangle that
+
+33
+00:02:40,890 --> 00:02:42,220
+this image is inside.
+
+34
+00:02:42,300 --> 00:02:48,060
+I can hack my way into incorporating this red inside of this image by clicking on some of these overlay
+
+35
+00:02:48,060 --> 00:02:49,090
+controls.
+
+36
+00:02:49,110 --> 00:02:58,100
+And you can see that I have Darkon multiply color burn and if I choose something like light in what
+
+37
+00:02:58,100 --> 00:03:03,720
+that will do is apply this red on any dark elements so I can still change the color.
+
+38
+00:03:03,720 --> 00:03:09,490
+Now change this to any color that I want but I have very basic editing controls.
+
+39
+00:03:09,530 --> 00:03:15,510
+And now if I hold down a command and zoom out you can see it still looks really decent as it's smaller.
+
+40
+00:03:15,740 --> 00:03:21,770
+But if I want to use this is any larger size here I'm going to get that pixelation for the most part
+
+41
+00:03:21,770 --> 00:03:26,870
+you're going to want to add to all of your icons in SVGA and find Ficci files.
+
+42
+00:03:26,960 --> 00:03:29,120
+And that brings us to our last file format.
+
+43
+00:03:29,120 --> 00:03:30,680
+This is Fiji.
+
+44
+00:03:30,710 --> 00:03:36,940
+So if you're in a program like Adobe Illustrator you can export any of your icons or graphics into FICCI
+
+45
+00:03:37,330 --> 00:03:40,130
+and that behaves the same way as copying and pasting.
+
+46
+00:03:40,400 --> 00:03:46,520
+So I still have this where I can change this color to red and I can double click inside of here and
+
+47
+00:03:46,520 --> 00:03:52,140
+I have the same editing controls and it's very handy.
+
+48
+00:03:52,140 --> 00:03:57,240
+So I'm going to delete these and I'll use this little comment icon.
+
+49
+00:03:57,420 --> 00:03:58,810
+And we want to have two other icons.
+
+50
+00:03:58,820 --> 00:04:01,370
+You want a heart and a timer.
+
+51
+00:04:01,560 --> 00:04:05,700
+So in order to get those icons there's a tool that's really handy.
+
+52
+00:04:05,700 --> 00:04:08,000
+And this is a tool I use all the time.
+
+53
+00:04:08,400 --> 00:04:14,370
+If you go to Icahn's 8 dot com you can search for any kind of icon here so I'll just search for heart
+
+54
+00:04:15,180 --> 00:04:18,980
+and you can see how many versions of the heart icon that we have.
+
+55
+00:04:19,790 --> 00:04:21,310
+And same thing with a timer.
+
+56
+00:04:21,320 --> 00:04:24,700
+So I'll just type in timer here and hit return.
+
+57
+00:04:24,950 --> 00:04:33,630
+And I have multiple timers now Icahn's 8 is free it's free to download these icons as a P and G and
+
+58
+00:04:33,630 --> 00:04:36,720
+remember that PMG is not very editable.
+
+59
+00:04:36,720 --> 00:04:42,900
+So if you want SVGA access there's a paid version and if you click see pricing here you can see that
+
+60
+00:04:42,900 --> 00:04:44,820
+it's $20 a month.
+
+61
+00:04:45,720 --> 00:04:51,750
+And it gives you access to hundreds of thousands of graphics whether you get the free version or the
+
+62
+00:04:51,750 --> 00:04:52,410
+paid version.
+
+63
+00:04:52,410 --> 00:04:56,390
+They do have a desktop app and this app is actually right here.
+
+64
+00:04:56,400 --> 00:04:58,100
+This ikons 8 menu bar.
+
+65
+00:04:58,100 --> 00:05:04,500
+So if I click on that you can see this pulls up right inside of my Mac and if you have the free version
+
+66
+00:05:04,500 --> 00:05:09,500
+again you only have this PLG option where you can drag and drop pian GS inside of here.
+
+67
+00:05:09,690 --> 00:05:17,360
+But because I have a paid version SVGA I can quickly search for icons like heart and I can find something
+
+68
+00:05:17,360 --> 00:05:17,840
+like this.
+
+69
+00:05:17,840 --> 00:05:19,090
+I think that looks good.
+
+70
+00:05:20,370 --> 00:05:22,170
+And I want to find a timer.
+
+71
+00:05:23,800 --> 00:05:26,490
+I can just type timer and I like this one.
+
+72
+00:05:26,580 --> 00:05:31,960
+It was going to drag and drop this inside and you can see the difference between this pian Geographic
+
+73
+00:05:32,350 --> 00:05:38,540
+and this SPG last thing I'm going to select these two and just hold down shift command Jeeta ungroup
+
+74
+00:05:38,580 --> 00:05:40,030
+this a few times.
+
+75
+00:05:40,520 --> 00:05:44,950
+And now I want the height of all of these to be the same.
+
+76
+00:05:44,980 --> 00:05:48,270
+So I'm going to lock the proportions can make the height.
+
+77
+00:05:48,280 --> 00:05:50,670
+Let's just say 20 pixels for now.
+
+78
+00:05:51,100 --> 00:05:56,590
+And you can see even though the height is 20 pixels they're not proportionally to scale.
+
+79
+00:05:57,620 --> 00:06:04,610
+So what I like to do is match the height first and then do some visual balance so we probably want to
+
+80
+00:06:04,610 --> 00:06:07,040
+be somewhat smaller here.
+
+81
+00:06:08,150 --> 00:06:13,400
+And if I was to focus more closely on matching the icons I'd probably have a timer with a thinner weight
+
+82
+00:06:13,970 --> 00:06:14,290
+on it.
+
+83
+00:06:14,300 --> 00:06:19,840
+But this is good enough I think and do something like this.
+
+84
+00:06:21,050 --> 00:06:28,080
+And we can change this field to this red color here and now let's zoom out.
+
+85
+00:06:30,000 --> 00:06:35,260
+So the comment over here the heart here and the time are over here.
+
+86
+00:06:35,450 --> 00:06:41,340
+I'm just going to add a little bit of text to clicking the Tiki and I'll just call this five hour
+
+87
+00:06:45,150 --> 00:06:46,490
+685
+
+88
+00:06:48,920 --> 00:06:56,190
+and one of seven.
+
+89
+00:06:56,270 --> 00:07:02,650
+So I'm just going to make sure that these are about four pixels away from the icon.
+
+90
+00:07:02,960 --> 00:07:07,910
+And I just like to nudge with my arrow keys once I hold down option I can kind of see what spacing looks
+
+91
+00:07:07,910 --> 00:07:09,040
+like.
+
+92
+00:07:09,140 --> 00:07:19,370
+And now all align this to the center and group these as one object so that I can align and distribute
+
+93
+00:07:19,370 --> 00:07:20,740
+them evenly.
+
+94
+00:07:25,410 --> 00:07:25,720
+OK.
+
+95
+00:07:25,730 --> 00:07:30,950
+Now that we have this set up you can move this down to be a little bit more balanced.
+
+96
+00:07:34,360 --> 00:07:40,540
+We have some nice icons here from Icons 8 from Adobe Illustrator and ones that we've created.
+
+97
+00:07:40,540 --> 00:07:43,740
+Last thing to do here is delete this pian Geographic.
+
+98
+00:07:43,960 --> 00:07:45,080
+And we should be all set.
+

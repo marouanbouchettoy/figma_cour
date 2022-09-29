@@ -1,0 +1,204 @@
+﻿1
+00:00:00,720 --> 00:00:06,270
+To show you how the components panel works let's open up this component's panel fig project and you
+
+2
+00:00:06,270 --> 00:00:12,450
+can find that in the exercise files under Chapter 2 in this project we have three simple layers.
+
+3
+00:00:12,450 --> 00:00:13,320
+We have a rectangle.
+
+4
+00:00:13,320 --> 00:00:18,510
+We have an Add button and a heart button and now we can find the components panel here right next to
+
+5
+00:00:18,510 --> 00:00:19,870
+the layers panel.
+
+6
+00:00:19,890 --> 00:00:24,160
+If we click down here we can see that there are any components created yet.
+
+7
+00:00:24,210 --> 00:00:28,560
+And they're telling us to create a component select a layer and click that create component button in
+
+8
+00:00:28,560 --> 00:00:29,760
+the toolbar.
+
+9
+00:00:29,790 --> 00:00:35,670
+So these are simple layers right now but I can easily click on this layer and click Create component.
+
+10
+00:00:35,980 --> 00:00:41,910
+I can click on this heart create component and now we have two components here and with these components
+
+11
+00:00:41,910 --> 00:00:48,450
+we can simply drag and drop these on other frames to reuse these components throughout other parts of
+
+12
+00:00:48,450 --> 00:00:49,610
+the project.
+
+13
+00:00:49,910 --> 00:00:55,820
+And the really nice thing about this is if we ever go into the master component we can change the color.
+
+14
+00:00:55,950 --> 00:00:59,640
+For example the blue and it changes everywhere throughout our project.
+
+15
+00:01:02,130 --> 00:01:06,660
+Now another great way to use components is inside other components.
+
+16
+00:01:06,660 --> 00:01:11,940
+Saw right here we have two master components and we can tell their master components by this little
+
+17
+00:01:11,940 --> 00:01:14,840
+icon here on the top left of their name.
+
+18
+00:01:14,880 --> 00:01:18,450
+They have four little diamonds indicating that this is the master.
+
+19
+00:01:18,750 --> 00:01:26,490
+But now I can click on this and if I hold down option I can drag this over into this navigation bar
+
+20
+00:01:26,490 --> 00:01:29,900
+that I'm going to create to be another master component.
+
+21
+00:01:30,090 --> 00:01:35,700
+And so I can copy this component inside of here or I can go into the components panel and I can drag
+
+22
+00:01:35,730 --> 00:01:43,920
+for example this heart drag this inside of this nav bar here and now we have these two components inside
+
+23
+00:01:43,920 --> 00:01:45,450
+of this navigation bar.
+
+24
+00:01:46,290 --> 00:01:52,740
+Now the last thing I'm going to do is click and drag a rectangle around all three of these objects and
+
+25
+00:01:52,740 --> 00:01:59,020
+I'll click one more time create component and now we have a nav bar component.
+
+26
+00:01:59,280 --> 00:02:07,890
+So if I want to hold down option I can copy this or Again I can click in this component panel and copy
+
+27
+00:02:07,890 --> 00:02:09,390
+this on to other frames.
+
+28
+00:02:09,450 --> 00:02:15,600
+And before I move any further I'm just going to delete some of these extra objects here and I'm going
+
+29
+00:02:15,600 --> 00:02:19,410
+to hold down option and now and copy this frame over to the right.
+
+30
+00:02:19,410 --> 00:02:23,250
+So now we have three frames that have the same components inside of them.
+
+31
+00:02:23,280 --> 00:02:27,570
+We very easily created these three components.
+
+32
+00:02:27,640 --> 00:02:33,430
+And so now within seconds I can change the look of this nav bar by double clicking inside of here to
+
+33
+00:02:33,430 --> 00:02:34,910
+get to this rectangle.
+
+34
+00:02:34,990 --> 00:02:41,710
+I can decide where I want this nav bar to be blue now and I actually want these to be white.
+
+35
+00:02:41,710 --> 00:02:47,470
+So I'm going to double click inside of here make this white and as I'm making these changes even as
+
+36
+00:02:47,470 --> 00:02:52,840
+I'm selecting the color within here you can see that this is gradually changing within all of the child
+
+37
+00:02:52,840 --> 00:02:54,130
+components.
+
+38
+00:02:54,130 --> 00:02:59,520
+So these are just some of the basic ways that you can create components and they become really powerful
+
+39
+00:02:59,680 --> 00:03:03,840
+but you can always find these components inside of this components panel.
+
+40
+00:03:03,840 --> 00:03:08,770
+And if you want to use these components through throughout other projects you can very easily publish
+
+41
+00:03:08,770 --> 00:03:12,190
+these files to a library to reuse in other projects.
+
+42
+00:03:12,190 --> 00:03:17,690
+That isn't even in this component's panel Sigma project.
+
+43
+00:03:17,710 --> 00:03:23,230
+Now one thing you have to be careful of is because these are master components right here.
+
+44
+00:03:23,230 --> 00:03:28,820
+If I delete this master component it's going to be deleted in the components panel as well.
+
+45
+00:03:29,230 --> 00:03:34,120
+And now I don't have that same kind of power if I double click into this component here.
+
+46
+00:03:34,360 --> 00:03:36,600
+I can still change the color of this heart.
+
+47
+00:03:37,430 --> 00:03:42,710
+And it changes red everywhere else but it's not because of this component we created before it's because
+
+48
+00:03:42,710 --> 00:03:45,610
+it's living inside of this component that I'm editing.
+
+49
+00:03:45,620 --> 00:03:48,470
+So that's just a basic overview of how components works.
+
+50
+00:03:48,470 --> 00:03:54,020
+Just to show you this components panel and where you can organize your components here and reuse them
+
+51
+00:03:54,020 --> 00:03:55,350
+throughout your project.
+

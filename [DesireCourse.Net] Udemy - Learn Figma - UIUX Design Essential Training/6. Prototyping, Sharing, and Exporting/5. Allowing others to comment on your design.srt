@@ -1,0 +1,60 @@
+﻿1
+00:00:00,390 --> 00:00:06,630
+Now if you Adamy collaborators using this share icon you can add them to only view or to edit the design
+
+2
+00:00:06,630 --> 00:00:07,430
+itself.
+
+3
+00:00:07,710 --> 00:00:12,940
+But all collaborators they have access to this design all have the ability to comment.
+
+4
+00:00:12,990 --> 00:00:18,390
+So if I click Show comments here you'll be able to interact with multiple collaborators by clicking
+
+5
+00:00:18,390 --> 00:00:26,320
+on a frame and just typing something like those breadsticks look yummy.
+
+6
+00:00:27,390 --> 00:00:36,830
+And they have some basic emoticons that you can use and you just hit post and there's my comment if
+
+7
+00:00:36,830 --> 00:00:42,260
+there's any comments for feedback of somebody giving you feedback on color changes or padding.
+
+8
+00:00:42,560 --> 00:00:47,420
+If you finished you can click this resolve button here and you can see that they're hidden in the list
+
+9
+00:00:47,420 --> 00:00:48,390
+of comments.
+
+10
+00:00:48,500 --> 00:00:51,170
+You can toggle the results comments on and off here.
+
+11
+00:00:51,470 --> 00:00:57,330
+And if you toggle them back on you can unresolved them if they need further editing.
+
+12
+00:00:57,680 --> 00:01:03,410
+Also any collaborators that you share with this project any time that you comment anything than I have
+
+13
+00:01:03,410 --> 00:01:06,300
+right here unable to receive e-mail notifications.
+
+14
+00:01:06,440 --> 00:01:10,850
+So if I share this with anybody and they comment I'm going to get an e-mail that shows me what they
+
+15
+00:01:10,850 --> 00:01:15,800
+call him and I can click on the e-mail link and jump right into the frame that they're commenting on.
+

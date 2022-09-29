@@ -1,0 +1,600 @@
+﻿1
+00:00:00,840 --> 00:00:05,760
+Now that we have the overlay designed and designed the comments section inside of the recipe details
+
+2
+00:00:05,760 --> 00:00:11,550
+screen here so you can feel free to design this on your own and match this with what I am doing.
+
+3
+00:00:11,610 --> 00:00:16,020
+And if you want to do that just pause this video and crank away at the design and then you can resume
+
+4
+00:00:16,020 --> 00:00:20,130
+this video and see how it closely matches with what I'm talking about here.
+
+5
+00:00:20,370 --> 00:00:23,220
+But if you want to follow along feel free to do so as well.
+
+6
+00:00:23,550 --> 00:00:28,200
+So let's scroll down here we're going to jump into the recipe details frame right here.
+
+7
+00:00:28,200 --> 00:00:34,130
+We can scroll down here and we want to comment section so I know that I can copy something like this.
+
+8
+00:00:34,200 --> 00:00:37,580
+I'm going to just copy this down.
+
+9
+00:00:37,660 --> 00:00:39,870
+I'm going to name this comments.
+
+10
+00:00:40,650 --> 00:00:44,060
+And we know we don't want this same component here.
+
+11
+00:00:44,160 --> 00:00:47,360
+So I don't want to ruin this component I can right click and detach.
+
+12
+00:00:47,360 --> 00:00:48,360
+Instance.
+
+13
+00:00:48,360 --> 00:00:50,040
+So now this is no longer a component.
+
+14
+00:00:50,040 --> 00:00:53,530
+It's not related to this master component.
+
+15
+00:00:53,710 --> 00:01:01,380
+And I can hold down shift command G and I can delete this vector image and place in a comment image
+
+16
+00:01:03,460 --> 00:01:07,990
+so if I go into my components panel here you can see that I've already created some icons here is a
+
+17
+00:01:07,990 --> 00:01:15,350
+component so I can click and drag this into my art board here and now go back into layers.
+
+18
+00:01:15,580 --> 00:01:18,990
+I only want this comment I Konst I'm going to hide these two.
+
+19
+00:01:19,280 --> 00:01:20,880
+And I have that comment.
+
+20
+00:01:21,070 --> 00:01:25,620
+And you can do this a number of ways but I'm just going to delete this icon here.
+
+21
+00:01:25,690 --> 00:01:31,840
+I'm going to use this child component and bring this inside of here and you can see that I want this
+
+22
+00:01:31,840 --> 00:01:39,000
+to match the same exact design as in this art board to the left of it here.
+
+23
+00:01:39,640 --> 00:01:44,110
+But the color needs to change so there's sometimes there are exceptions to your design.
+
+24
+00:01:44,110 --> 00:01:50,640
+Just for one time instances and that's where child components really come in handy with overrides.
+
+25
+00:01:50,680 --> 00:01:57,400
+So I can double click on this layer here and I can create this to be white.
+
+26
+00:01:57,400 --> 00:02:03,400
+And if you see when I double click inside of here there's this override symbol that's telling me I'm
+
+27
+00:02:03,430 --> 00:02:09,190
+overwriting the feel and I can always reset that to the master component if I want or just change this
+
+28
+00:02:09,250 --> 00:02:10,030
+and override it.
+
+29
+00:02:10,030 --> 00:02:12,340
+Just this one time.
+
+30
+00:02:13,510 --> 00:02:23,290
+So now I'm going to bring that inside of my circle and I can create this as its own component or a master
+
+31
+00:02:23,290 --> 00:02:28,320
+component as well and reuse through out other areas if I'd like.
+
+32
+00:02:28,330 --> 00:02:36,800
+So now I'm going to hit the keyboard shortcut and just a 46 by 46 pixel Avatar.
+
+33
+00:02:37,150 --> 00:02:43,220
+And here I'm going to hit the T key and just add some text real quick so I'm going to add Tom Kline.
+
+34
+00:02:43,480 --> 00:02:44,860
+He's a user of our app
+
+35
+00:02:49,890 --> 00:02:58,230
+and I'm going to make this 13 pixels here and just regular and if I want to match this color of this
+
+36
+00:02:58,230 --> 00:03:03,840
+font I can do it a few ways but I'm just going to quickly use this eyedropper tool and select something
+
+37
+00:03:03,840 --> 00:03:04,910
+here.
+
+38
+00:03:05,460 --> 00:03:08,670
+And you can see that I got barely off where I wanted to select.
+
+39
+00:03:08,670 --> 00:03:10,020
+So there we go.
+
+40
+00:03:10,650 --> 00:03:18,010
+And I can see this prime rib roast was amazing.
+
+41
+00:03:19,110 --> 00:03:24,330
+And it is all caps because under my advanced menu I have that transform control on what I'm going to
+
+42
+00:03:24,330 --> 00:03:29,880
+toggle this off and maybe I want to have this italics as well.
+
+43
+00:03:35,060 --> 00:03:51,810
+And the date that he commented was 7 dot 0 1 dot 2017 and I'm going to have this medium just like that.
+
+44
+00:03:51,890 --> 00:04:05,060
+Now I can quickly set some sizes here just to align this with the base of this.
+
+45
+00:04:05,880 --> 00:04:12,770
+And one two three four five just nudge this around to your liking.
+
+46
+00:04:13,580 --> 00:04:17,090
+And this is 26 pixels one two three four five six.
+
+47
+00:04:17,190 --> 00:04:21,310
+We have that 20 pixels now 10 pixels 10 pixels.
+
+48
+00:04:21,390 --> 00:04:22,950
+So that's looking pretty good.
+
+49
+00:04:23,130 --> 00:04:30,120
+And now I can click on the circle I'm going to fill this with an image and I can click on choose image
+
+50
+00:04:30,570 --> 00:04:32,520
+and I have a few other avatar images.
+
+51
+00:04:32,520 --> 00:04:36,970
+I'm going to click on Avatar to.
+
+52
+00:04:37,530 --> 00:04:41,510
+And this is starting to look really good so maybe I'll just say this is a component itself.
+
+53
+00:04:41,790 --> 00:04:45,200
+So I'm going to click Create component and now this is a master component.
+
+54
+00:04:45,390 --> 00:04:51,330
+And if I click inside of here I can use this component frame to resize around and you can see that it's
+
+55
+00:04:51,330 --> 00:04:52,750
+doing some weird stuff.
+
+56
+00:04:53,010 --> 00:04:55,110
+So I'm going to hit Monsey.
+
+57
+00:04:55,860 --> 00:05:00,570
+I'm going to set some constraints in this component just real quick so I know that this is always going
+
+58
+00:05:00,570 --> 00:05:07,140
+to be constrained to the left and the top this is also in fact all of these are going to be constrained
+
+59
+00:05:07,650 --> 00:05:16,320
+to the left top and then this one here I can constrain this to the left and right.
+
+60
+00:05:16,320 --> 00:05:19,630
+So it grows as I grow this frame here.
+
+61
+00:05:20,040 --> 00:05:25,800
+So I'm going to hit the edge of this at 20 and you can see this is now behaving the way I want it.
+
+62
+00:05:26,130 --> 00:05:31,740
+And now I can hold down option on this component create a child component here and I can override the
+
+63
+00:05:31,740 --> 00:05:32,590
+text here.
+
+64
+00:05:32,700 --> 00:05:39,540
+Name this Sally Parker when you see what it did here I had the text aligned at the center so I can go
+
+65
+00:05:39,540 --> 00:05:42,620
+to the master component here and say I want this to align to the left actually.
+
+66
+00:05:42,810 --> 00:05:44,300
+And that changes automatically
+
+67
+00:05:47,950 --> 00:05:52,500
+and now I notice that this text here is running into this text.
+
+68
+00:05:52,660 --> 00:05:58,690
+So I probably want to add more spacing here so I can hold down shift and maybe I'll do something like
+
+69
+00:05:58,690 --> 00:06:00,270
+that.
+
+70
+00:06:00,750 --> 00:06:08,220
+I'm going to fix my spelling here and I'm going to just type in a comment for Charlie Parker.
+
+71
+00:06:08,740 --> 00:06:09,120
+OK.
+
+72
+00:06:09,130 --> 00:06:16,030
+So this one's a little bit lengthier but we can see that everything adjusted the right way and it looks
+
+73
+00:06:16,030 --> 00:06:16,570
+really good.
+
+74
+00:06:16,570 --> 00:06:22,210
+And lastly we can do a feel override as well so I can click on this image and choose a new image.
+
+75
+00:06:22,210 --> 00:06:28,150
+I'm going to choose Avatar 3 under our assets folder and go ahead and change that.
+
+76
+00:06:28,420 --> 00:06:32,980
+And even though this is a master component if I ever want to change this text here it should be rubato
+
+77
+00:06:33,370 --> 00:06:35,260
+medium black.
+
+78
+00:06:35,390 --> 00:06:38,110
+Anything else I can change that very easily.
+
+79
+00:06:38,140 --> 00:06:45,760
+In fact a good example of this if I move this down is I know that I want a five star rating system inside
+
+80
+00:06:45,760 --> 00:06:46,410
+of here.
+
+81
+00:06:46,870 --> 00:06:51,370
+And we know we already have that inside of our components so I'm going to click under components here
+
+82
+00:06:51,830 --> 00:06:57,310
+go to my five star system and I can drag this inside of this component actually.
+
+83
+00:06:57,340 --> 00:06:59,390
+So now that's dragged inside of there.
+
+84
+00:06:59,410 --> 00:07:05,140
+I'm going to move the rest of these guys down holding down shift and you can see how everything is just
+
+85
+00:07:05,140 --> 00:07:10,680
+moving in place and to bring that to the top here.
+
+86
+00:07:10,850 --> 00:07:13,180
+And I want this to be a little bit smaller actually.
+
+87
+00:07:13,200 --> 00:07:19,500
+And I can do a scale override on this component as well so if I I'd use the scale tool here down at
+
+88
+00:07:19,500 --> 00:07:28,140
+the bottom I can hold down shift to constrain my sizes and I want it to be maybe 10 pixels tall something
+
+89
+00:07:28,140 --> 00:07:29,680
+like that a little bit smaller.
+
+90
+00:07:30,030 --> 00:07:35,520
+And now I'll just adjust the rest of these to be 10 pixels or five.
+
+91
+00:07:35,520 --> 00:07:42,660
+One two three four five five pixels from the stars and I'm going to move this up here to just almost
+
+92
+00:07:42,660 --> 00:07:43,690
+hit this.
+
+93
+00:07:43,890 --> 00:07:47,290
+And very quickly you have your comments in here.
+
+94
+00:07:47,430 --> 00:07:52,860
+Now the last piece I'm going to create is a little type your comment here widget down here so I'm going
+
+95
+00:07:52,860 --> 00:07:54,780
+to hit R for rectangle.
+
+96
+00:07:54,780 --> 00:08:01,450
+Draw a rectangle here that is 40 to 45 pixels here.
+
+97
+00:08:01,860 --> 00:08:06,810
+And remember we already created a user persona for this design and that was Harry Truman.
+
+98
+00:08:06,930 --> 00:08:10,590
+So I can click this avatar here and hold down option.
+
+99
+00:08:10,590 --> 00:08:14,350
+I'm just going to copy this down here and reuse this.
+
+100
+00:08:14,790 --> 00:08:17,870
+And here maybe I want the avatar to be 32 pixels.
+
+101
+00:08:20,330 --> 00:08:25,610
+Going to line this to the left it at 20 pixels here.
+
+102
+00:08:29,910 --> 00:08:35,970
+And add some text here type your comments here.
+
+103
+00:08:39,210 --> 00:08:43,290
+Now I can reuse the same icon that we used previously.
+
+104
+00:08:43,290 --> 00:08:49,620
+I'm going to go into my layers panel and hide the rest of these.
+
+105
+00:08:49,680 --> 00:08:53,990
+So that's looking good and I'll sit that 20 pixels from the right here.
+
+106
+00:08:54,430 --> 00:09:01,230
+The last thing I want to do is create a White feel and instead of a stroke if we add a stroke here you
+
+107
+00:09:01,230 --> 00:09:02,670
+see that you have strokes round the edges.
+
+108
+00:09:02,670 --> 00:09:03,820
+I don't want that.
+
+109
+00:09:04,020 --> 00:09:10,530
+So I can show you how to add just a top and bottom strokes here if we go under effects and drop shadow
+
+110
+00:09:11,100 --> 00:09:17,630
+we can actually add a 1 pixel drop shadow that has a zero pixel blur.
+
+111
+00:09:17,820 --> 00:09:20,970
+And that shows up is a stroke or a line.
+
+112
+00:09:20,970 --> 00:09:23,340
+I'm going to make that 10 pixel opacity.
+
+113
+00:09:23,340 --> 00:09:29,130
+So it's pretty light and I can just create a new one here and I'll do the same thing except negative
+
+114
+00:09:29,130 --> 00:09:40,370
+one 10 percent opacity zero pixel blur and you can see we have a top and bottom line here.
+
+115
+00:09:40,410 --> 00:09:46,860
+Now I'm going to select all of this create a new component and when I do that I'm just going to make
+
+116
+00:09:46,860 --> 00:09:52,310
+sure that everything's pinned to the top left how it should be here.
+
+117
+00:09:52,310 --> 00:10:00,300
+This should be pinned to the center and well to the wall to the left here and also to the center down
+
+118
+00:10:00,300 --> 00:10:01,430
+here.
+
+119
+00:10:02,730 --> 00:10:07,770
+And this could be pinned to the right center.
+
+120
+00:10:10,390 --> 00:10:20,120
+And now I'll just stretch this something like this and change the opacity to 20 percent.
+
+121
+00:10:20,670 --> 00:10:26,010
+And the last thing you want to do is resize our frame so we're in a click on the frame here.
+
+122
+00:10:26,310 --> 00:10:28,630
+Come down here and just resize this.
+
+123
+00:10:29,010 --> 00:10:31,860
+I'm going to hold down command to zoom in.
+
+124
+00:10:31,860 --> 00:10:36,510
+And now if I hold down option I can see that this is 36 pixels from the base of this.
+
+125
+00:10:36,840 --> 00:10:42,100
+So again one two three four five six holding down command and the arrow keys.
+
+126
+00:10:42,180 --> 00:10:47,770
+And then if I hold down Shift one to three that will move at ten pixels three times.
+
+127
+00:10:47,880 --> 00:10:55,080
+So you have a nice snug component in our frame also we can try resizing as we see that everything looks
+
+128
+00:10:55,080 --> 00:10:56,610
+really good.
+
+129
+00:10:58,050 --> 00:11:01,120
+And I'm going to pin this to the left and right.
+
+130
+00:11:01,500 --> 00:11:02,730
+So now let me resize it.
+
+131
+00:11:02,730 --> 00:11:04,370
+It kind of breaks down here.
+
+132
+00:11:04,660 --> 00:11:09,010
+Looking really good.
+
+133
+00:11:09,240 --> 00:11:14,370
+Same thing with these components just really quickly top left.
+
+134
+00:11:14,490 --> 00:11:18,300
+These are all top left left right.
+
+135
+00:11:18,300 --> 00:11:19,490
+So this is looking good.
+
+136
+00:11:19,650 --> 00:11:21,160
+I can resize this now.
+
+137
+00:11:21,660 --> 00:11:24,990
+It's looking really decent.
+
+138
+00:11:24,990 --> 00:11:28,620
+And then these guys we want just to be centered top center.
+
+139
+00:11:28,620 --> 00:11:34,520
+There we go.
+
+140
+00:11:34,710 --> 00:11:38,580
+We can move these around.
+
+141
+00:11:38,750 --> 00:11:42,720
+We're just playing with some spacing now just to get things looking good.
+
+142
+00:11:42,730 --> 00:11:49,330
+I haven't had an exact spacing convention in here mainly because I just wanted to use this time to teach
+
+143
+00:11:49,330 --> 00:11:53,960
+you the actual tools and later going to go in and fix a lot of the spacing.
+
+144
+00:11:54,970 --> 00:11:59,730
+While we're inside here we have some alignment issues for some of these things.
+
+145
+00:11:59,740 --> 00:12:05,230
+I'm just going to select all of them and align horizontal centers and our design is starting to look
+
+146
+00:12:05,230 --> 00:12:06,720
+really clean here.
+
+147
+00:12:06,940 --> 00:12:10,620
+We did change the text here to blue and we didn't change those here.
+
+148
+00:12:10,780 --> 00:12:18,070
+So again option command see then we can select these layers an option command V and paste those layers
+
+149
+00:12:18,070 --> 00:12:19,970
+in.
+
+150
+00:12:20,400 --> 00:12:28,100
+It's going to clean up some things make this all caps here and this is looking really really good.
+

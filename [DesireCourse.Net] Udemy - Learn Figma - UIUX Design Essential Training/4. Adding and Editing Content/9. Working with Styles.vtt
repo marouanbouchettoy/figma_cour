@@ -1,0 +1,229 @@
+WEBVTT
+
+00:00.460 --> 00:05.480
+In this video we're going to start designing a recipe completed screen.
+
+00:05.580 --> 00:10.590
+And by doing this we're going to illustrate some of the style effects that we can create on a pop up
+
+00:10.620 --> 00:11.700
+overlay.
+
+00:12.030 --> 00:18.270
+Before we go through how to add styles I want to go over here to the recipe details screen and I want
+
+00:18.270 --> 00:24.870
+to copy some of these things over to recipe details complete so I could just hover over these elements
+
+00:24.870 --> 00:31.350
+and copy and paste onto this our board or I can click on this art board itself and if I go to export
+
+00:31.350 --> 00:38.190
+here I can click on this export and I'll just export this at to X and we can see a preview here of what
+
+00:38.190 --> 00:39.260
+it's going to look like.
+
+00:39.450 --> 00:44.310
+And let's go ahead and export this as a PMG and you can export this anywhere that you want.
+
+00:44.400 --> 00:49.830
+I'm going to export this on my desktop and I want to bring it back into the projects so I can click
+
+00:49.830 --> 00:57.700
+on the shape's tools click on place image and if I jump into my desktop you can see the recipe details
+
+00:57.700 --> 00:58.380
+here.
+
+00:58.690 --> 01:07.200
+I'll just click Open and now I'll place this right inside of here and we can scale it however we like.
+
+01:08.080 --> 01:10.930
+And here this doesn't look exactly how we want it to.
+
+01:10.930 --> 01:17.230
+And remember if we click on this image thumbnail we can use this crop feature and just pull this down
+
+01:17.230 --> 01:26.400
+so we see the top of it and all this is is an image hit return here and now it's click inside of your
+
+01:26.400 --> 01:31.070
+image to nudge this over to make sure that we have the layering correct.
+
+01:31.360 --> 01:33.950
+And now we copied this image inside of here.
+
+01:34.090 --> 01:40.090
+And the reason why we did this is we want to create an overlay effect for a pop up menu.
+
+01:40.120 --> 01:47.680
+Now to create the overlay color we could click inside of here and add a feel that's a black solid feel
+
+01:47.680 --> 01:53.830
+for example and we can do that and turn the opacity down to 40 percent to show that it's overlaid.
+
+01:53.980 --> 01:58.930
+But if we do that we can add some effects to just this feel here.
+
+01:58.960 --> 02:05.890
+So instead of doing that and going to click on this row and subtract and now all create a rectangle
+
+02:06.280 --> 02:14.470
+and drag this over here and I want to create that same black feel with just subtle opacity here and
+
+02:14.470 --> 02:21.040
+then one nice thing that I can do here is I can use this effects tool and instead of a draw shadow I
+
+02:21.040 --> 02:23.730
+actually want a background color.
+
+02:23.740 --> 02:27.230
+So I want the background of anything behind here to be blurred out.
+
+02:27.670 --> 02:33.950
+And then I can change this to 20 pixels here to help it become a really blurry.
+
+02:34.630 --> 02:38.210
+And now I can change the opacity here let's try 20 percent.
+
+02:39.110 --> 02:43.600
+Or 30 percent and we can play with that as much as we want.
+
+02:43.610 --> 02:46.670
+In fact I may choose to have this white here.
+
+02:47.360 --> 02:53.600
+So now we have a blurred white background and if we drag this rectangle here you can see what it's doing
+
+02:54.140 --> 02:57.450
+it's blurring everything behind this rectangle shape.
+
+02:57.450 --> 02:59.180
+And I think that's looking really good.
+
+02:59.360 --> 03:04.560
+And now we want a pop up window telling us that our recipe is completed.
+
+03:05.990 --> 03:08.270
+So we can create another rectangle here.
+
+03:09.920 --> 03:15.310
+And I'm just going to make it maybe 240 by 300 right now
+
+03:19.190 --> 03:20.900
+and we'll bring this down to the center.
+
+03:21.020 --> 03:23.520
+And this may be resized as the content fits in.
+
+03:23.540 --> 03:26.660
+And we're going to add new content in a future video.
+
+03:26.810 --> 03:34.390
+So now I'll just change this color white I will add a five pixel radius to all the corners.
+
+03:34.660 --> 03:39.850
+When I started to look good but we can see that there's very little or no contrast around the edges
+
+03:39.850 --> 03:40.260
+here.
+
+03:40.270 --> 03:43.030
+So one of the first things we want to do here is just add a subtle stroke
+
+03:45.990 --> 03:52.170
+and then we want to jump into our effects once again and this time we just want to add a subtle drop
+
+03:52.170 --> 04:02.010
+shadow and for pixel's looks good for pixel Blar it's down for pixels and 25 percent looks decent.
+
+04:02.010 --> 04:04.670
+Now we may want to add another châteaux down below.
+
+04:04.680 --> 04:09.580
+That's a lot more blurry making this feel like it's popping out of the page quite a bit more.
+
+04:10.020 --> 04:14.270
+So if we want to do that we can add a nother drop shadow inside of here.
+
+04:14.400 --> 04:21.270
+We can have this be 20 pixel Blar and we can see that that's really pop in that off the page and that's
+
+04:21.280 --> 04:25.840
+starting to look really good I'm just going to decrease the opacity here.
+
+04:26.230 --> 04:28.510
+And so this is starting to look really good.
+
+04:28.600 --> 04:35.500
+But another thing we can do to really help pronounce this pop up is draw a rectangle here to use as
+
+04:35.500 --> 04:36.380
+a shadow.
+
+04:36.520 --> 04:40.400
+And we'll just make this a little bit smaller than the rectangle here.
+
+04:40.570 --> 04:43.800
+And I'm just going to bring this down a few layers.
+
+04:45.040 --> 04:46.230
+There we go.
+
+04:46.600 --> 04:51.130
+And this rectangle can actually serve as a shadow.
+
+04:51.220 --> 04:55.710
+And to do that we can change this color to black.
+
+04:55.710 --> 05:02.610
+And now if we jump into and we can change the radius which changes to 30 pixels here.
+
+05:03.890 --> 05:10.050
+And now if we go into effects instead of a background blur or a drop shadow or inner shadow that's to
+
+05:10.060 --> 05:10.810
+a layer Buhler.
+
+05:10.810 --> 05:13.830
+So it's only blurring this actual layer.
+
+05:14.530 --> 05:22.020
+And here we want this blur to be 30 pixels Let's start out 30 unless tried maybe 50 pixels here.
+
+05:22.030 --> 05:23.770
+So that's looking really good.
+
+05:24.310 --> 05:29.750
+And then the actual opacity of this fill let's change this to 15 percent.
+
+05:30.430 --> 05:33.920
+And you can hardly see that I'm going to try 30 percent.
+
+05:34.360 --> 05:40.300
+Sometimes it's just trying a few numbers to see what works.
+
+05:40.300 --> 05:45.440
+So that's starting to look decent here and we can just fiddle around with the sizes.
+
+05:45.910 --> 05:48.330
+And what exactly we like.
+
+05:48.580 --> 05:51.130
+And I'm going to change this to multiply.
+
+05:52.900 --> 05:56.700
+And let's just tweak this little bit more to see what we like.
+
+05:57.890 --> 05:59.840
+So we like that should be good.
+
+05:59.990 --> 06:06.950
+So we have a nice completed screen here we have some dropshot effects some layer blur effects and some
+
+06:06.950 --> 06:08.720
+background blur effects here.
+
+06:08.960 --> 06:13.580
+And you can really play with a combination of these effects to get some really nice designs.

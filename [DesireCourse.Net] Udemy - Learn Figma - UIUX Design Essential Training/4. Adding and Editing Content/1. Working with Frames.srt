@@ -1,0 +1,312 @@
+﻿1
+00:00:00,900 --> 00:00:05,590
+OK by now you've learned the interface and you've learned how to set up a project.
+
+2
+00:00:06,000 --> 00:00:12,210
+And now you should have the skills that you need to begin working with content begin developing an app
+
+3
+00:00:13,440 --> 00:00:14,790
+as you can see in this image here.
+
+4
+00:00:14,790 --> 00:00:19,890
+I've already sketched the kind of design that we're going to be creating inside a figure I sketched
+
+5
+00:00:19,890 --> 00:00:25,300
+this on my iPad and this is available in your assets folder as well as a PMG.
+
+6
+00:00:25,710 --> 00:00:29,060
+And now it's time to get our hands dirty adding some content.
+
+7
+00:00:29,460 --> 00:00:35,850
+So the first thing I'm going to do is go into Sigma here and in a previous video we already set up a
+
+8
+00:00:35,850 --> 00:00:39,020
+chef underscore a recipe on our sport app file.
+
+9
+00:00:39,030 --> 00:00:43,050
+But if you haven't done this yet you can just click on new file here and just started from scratch with
+
+10
+00:00:43,050 --> 00:00:43,870
+us.
+
+11
+00:00:43,950 --> 00:00:49,020
+If you do create a new file I'm just going to open up this file that we have your file name should say
+
+12
+00:00:49,020 --> 00:00:54,120
+untitled right here so to change that just click inside of this text area and you can name this whatever
+
+13
+00:00:54,120 --> 00:00:54,890
+you'd like.
+
+14
+00:00:55,080 --> 00:00:57,930
+So now we have this new fresh file here.
+
+15
+00:00:58,120 --> 00:01:03,750
+Any time that you'd like to you can go into the assets folder and find this PMG image and just open
+
+16
+00:01:03,750 --> 00:01:06,410
+it up for reference as we begin designing.
+
+17
+00:01:06,810 --> 00:01:11,010
+So the first thing we're going to do is set up five frames because we know those are the airports we're
+
+18
+00:01:11,010 --> 00:01:12,740
+going to start out with.
+
+19
+00:01:12,740 --> 00:01:19,050
+So you create new frames we can click on this frame tool here and rather than dragging a custom shape
+
+20
+00:01:19,560 --> 00:01:26,010
+like we're doing here is going to hit delete and we can go into here in the pre-sets and I know I'm
+
+21
+00:01:26,010 --> 00:01:28,260
+going to be designing for the iPhone 8.
+
+22
+00:01:28,320 --> 00:01:33,870
+So I'm just going to click on this preset here for an iPhone 8 frame.
+
+23
+00:01:33,870 --> 00:01:37,360
+Now if I hold down command and scroll down you can zoom out here.
+
+24
+00:01:37,830 --> 00:01:46,380
+And I'm just going to hold down option is I drag this for other times.
+
+25
+00:01:46,380 --> 00:01:53,520
+OK so now we have five our boards and one thing that you can do to make your frames even is hold down
+
+26
+00:01:53,520 --> 00:01:58,670
+shift and select all of them and then you can use this to distribute a horizontal spacing here.
+
+27
+00:01:58,680 --> 00:02:01,330
+So now we have some even spacing it looks really nice.
+
+28
+00:02:01,360 --> 00:02:05,380
+The next thing you want to do is name our frames so we can click on the name here.
+
+29
+00:02:05,580 --> 00:02:09,670
+And if the frame is blank you can always click inside of the frame to drag it around.
+
+30
+00:02:09,690 --> 00:02:14,610
+But once you add some content in here like a rectangle for example.
+
+31
+00:02:14,610 --> 00:02:17,720
+Now if I click inside of this area I can't drag it anymore.
+
+32
+00:02:17,850 --> 00:02:21,020
+I have to click on the name here to drag it around.
+
+33
+00:02:21,900 --> 00:02:23,250
+So I'll delete this.
+
+34
+00:02:23,250 --> 00:02:25,000
+Now let's just name our frames.
+
+35
+00:02:25,200 --> 00:02:31,500
+The first one is going to be the splash screen.
+
+36
+00:02:31,500 --> 00:02:33,680
+Second one is home.
+
+37
+00:02:35,690 --> 00:02:38,270
+Third is recipe
+
+38
+00:02:41,760 --> 00:02:44,980
+and I'll just name this recipe details.
+
+39
+00:02:48,010 --> 00:02:52,970
+And this will be recipe details complete
+
+40
+00:02:58,480 --> 00:03:02,770
+the last one here will name menu.
+
+41
+00:03:02,990 --> 00:03:09,890
+So we have our five our boards and you can drag these around very easily to reorder or reorganize them
+
+42
+00:03:09,920 --> 00:03:12,250
+as you're going along.
+
+43
+00:03:12,650 --> 00:03:15,650
+And now I can actually dragon select all of these.
+
+44
+00:03:15,710 --> 00:03:20,590
+Click on this distribute tool again and we're good to go.
+
+45
+00:03:20,690 --> 00:03:25,260
+Now a few shortcuts that you'll want to know is the number one on the keyboard.
+
+46
+00:03:25,460 --> 00:03:30,800
+We'll zoom everything into place and the numbers zero on the keyboard will zoom in to 100 percent.
+
+47
+00:03:30,800 --> 00:03:35,490
+So they're really nice toggles to jump back and forth in some zoom commands.
+
+48
+00:03:37,260 --> 00:03:42,510
+Now that we have these frames set up we want to enable a layout grid so to do that we can click and
+
+49
+00:03:42,510 --> 00:03:46,810
+then hold down shift and click the following objects here.
+
+50
+00:03:46,830 --> 00:03:52,170
+We can also click inside of the layers panel hold down shift and click the bottom layer to select all
+
+51
+00:03:52,170 --> 00:03:57,120
+of them and you can see here in the design panel we have a layout grid section that we can just click
+
+52
+00:03:57,120 --> 00:04:04,300
+this plus icon and instead of a grid here we can change the grid size to 15 pixels.
+
+53
+00:04:04,440 --> 00:04:10,740
+We can change the opacity of the look or we can jump into columns here and I'm going to change the column
+
+54
+00:04:10,740 --> 00:04:18,290
+count to 6 and I know I want the gutter to be 10 pixels in between the columns.
+
+55
+00:04:18,330 --> 00:04:24,390
+I also want a 10 pixel margin here and between the columns as well and I tend to find this red color
+
+56
+00:04:24,390 --> 00:04:27,090
+a little bit more pronounced than I'd like.
+
+57
+00:04:27,090 --> 00:04:32,060
+So I'm going to change the transparency here to 5 percent just to hide that a little bit more.
+
+58
+00:04:32,160 --> 00:04:37,380
+And now that I see this layout I'm thinking I probably want the edges of the frame here to have a 20
+
+59
+00:04:37,380 --> 00:04:42,330
+pixel margin for content so it's not writing right on the edge of that screen.
+
+60
+00:04:42,330 --> 00:04:47,640
+So we still have the 10 pixels here and between each column and this margin gives us 20 pixels on the
+
+61
+00:04:47,640 --> 00:04:48,890
+sides.
+
+62
+00:04:48,960 --> 00:04:54,480
+If you only select one of these and you edit the layout grid here there's no way to really copy that
+
+63
+00:04:54,480 --> 00:04:57,740
+style from this frame to this other one.
+
+64
+00:04:57,750 --> 00:05:04,050
+So it's very important as you are setting these up to set them all up in the frame are going to apply
+
+65
+00:05:04,050 --> 00:05:05,530
+to.
+
+66
+00:05:05,580 --> 00:05:13,140
+Now all of these frames are set to 375 pixels by 667 pixels and that's the device screen size for the
+
+67
+00:05:13,140 --> 00:05:13,950
+iPhone 8.
+
+68
+00:05:14,100 --> 00:05:18,900
+But there are times where your design is going to go beyond the device screen where you'll scroll up
+
+69
+00:05:18,900 --> 00:05:26,220
+and down so to resize these after they're created for example the home screen you can click and drag
+
+70
+00:05:26,220 --> 00:05:28,550
+this down and resize this.
+
+71
+00:05:28,620 --> 00:05:33,360
+So I like to start everything at the device screen high and then as I'm developing these shapes and
+
+72
+00:05:33,360 --> 00:05:39,150
+the styles if it starts to go past the screen you can quickly click and just drag down to increase your
+
+73
+00:05:39,150 --> 00:05:40,460
+frame size.
+
+74
+00:05:40,470 --> 00:05:43,870
+Also if you want to see more contrast between your frames in the background.
+
+75
+00:05:44,010 --> 00:05:49,920
+For example if your frame start out as gray You may not see a contrast here between the gray background
+
+76
+00:05:49,920 --> 00:05:56,460
+and the gray frame so you can always click on this background settings here and you can change this
+
+77
+00:05:56,520 --> 00:05:59,690
+down or you can change it to really whatever color you want.
+
+78
+00:05:59,940 --> 00:06:03,580
+But I like to have it just this like gray color here.
+

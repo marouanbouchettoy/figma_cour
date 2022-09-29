@@ -1,0 +1,20 @@
+﻿1
+00:00:00,370 --> 00:00:03,470
+In this section I'm going to teach you how to navigate around the interface.
+
+2
+00:00:03,510 --> 00:00:08,310
+We won't be diving into our recipe project just yet but learning these tools in a brief overview to
+
+3
+00:00:08,310 --> 00:00:09,510
+help you become familiar.
+
+4
+00:00:09,510 --> 00:00:14,160
+By the time we jump into the next section and begin our project if you're already somewhat familiar
+
+5
+00:00:14,160 --> 00:00:18,040
+with stigma's interface feel free to move on to the next section to begin your design.
+

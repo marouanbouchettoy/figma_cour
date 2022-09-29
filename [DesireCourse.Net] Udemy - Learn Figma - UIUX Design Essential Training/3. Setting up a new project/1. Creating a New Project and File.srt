@@ -1,0 +1,80 @@
+﻿1
+00:00:00,750 --> 00:00:05,160
+When you sign into figment getting started creating a new file is as easy as clicking one of these three
+
+2
+00:00:05,160 --> 00:00:09,910
+buttons here but you may have multiple files that you want to be grouped into one project.
+
+3
+00:00:10,050 --> 00:00:16,110
+So to get started creating a new project you first have to click on this new team icon here and create
+
+4
+00:00:16,110 --> 00:00:17,930
+a team for your project.
+
+5
+00:00:17,940 --> 00:00:21,930
+Now in this course we're going to be creating a chef recipes app.
+
+6
+00:00:21,930 --> 00:00:29,150
+So I'm going to go ahead and name this team the chef team and if you don't want to start out paying
+
+7
+00:00:29,150 --> 00:00:36,400
+the $12 a month you can just start with this free starter program so I'll get started for free here.
+
+8
+00:00:37,170 --> 00:00:43,990
+And you can see here we have the chef team and now I can start my first project I'm going to call this
+
+9
+00:00:43,990 --> 00:00:47,670
+the chef recipe project.
+
+10
+00:00:50,220 --> 00:00:55,620
+And when you start this new project you can decide whether everybody on the team can edit view or if
+
+11
+00:00:55,620 --> 00:00:58,680
+you want to just choose who has access in the future.
+
+12
+00:00:58,860 --> 00:01:06,300
+So I'm going to allow everybody on the chef team to edit and now create this project here and now this
+
+13
+00:01:06,300 --> 00:01:07,430
+project is started.
+
+14
+00:01:07,440 --> 00:01:14,560
+We could create new files one for the iPhone app one for the Web site and one for marketing material.
+
+15
+00:01:14,580 --> 00:01:16,840
+So that's how projects work.
+
+16
+00:01:17,190 --> 00:01:23,730
+The first file that we're going to create in our project is the chef recipes app so we can name this
+
+17
+00:01:23,730 --> 00:01:26,130
+file by clicking on the text here.
+
+18
+00:01:26,160 --> 00:01:30,880
+We'll just name this Sheth underscore recipe app.
+
+19
+00:01:31,020 --> 00:01:36,000
+And now if we go back to the start page we can see that we have that file here inside of our projects
+
+20
+00:01:36,450 --> 00:01:37,850
+that is inside of the chef team.
+

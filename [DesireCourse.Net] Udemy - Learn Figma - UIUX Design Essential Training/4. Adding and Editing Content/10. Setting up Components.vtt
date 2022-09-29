@@ -1,0 +1,778 @@
+WEBVTT
+
+00:01.260 --> 00:05.640
+The components features one of my favorite features inside a figure and you'll quickly understand why
+
+00:05.640 --> 00:07.650
+as we move along this video.
+
+00:08.280 --> 00:15.020
+So until now we've been creating a bunch of icons that are basic shapes inside a figure and one drawback
+
+00:15.060 --> 00:20.760
+from that is if I hold down option and copy this over here and I decide to change the style of this
+
+00:21.090 --> 00:27.690
+for example if I zoom in here and move this to be a little bit wider here it doesn't change anywhere
+
+00:27.690 --> 00:28.060
+else.
+
+00:28.080 --> 00:34.830
+So I have to go in and copy and paste this across to different frames.
+
+00:34.920 --> 00:38.350
+Now if I want I can choose a lot of these icons here.
+
+00:38.460 --> 00:40.240
+I'm going to name this too.
+
+00:40.380 --> 00:45.270
+But an menu and I'll name this too.
+
+00:45.280 --> 00:53.920
+But Insearch and now I can click on any of these elements and click on this create component.
+
+00:54.060 --> 00:59.670
+And now if I go to my components panel you can see I have these two components here and I can reuse
+
+00:59.670 --> 01:01.400
+these anywhere that I want.
+
+01:01.710 --> 01:06.390
+And that's really handy so I can drag and drop this on any frames that I want.
+
+01:06.540 --> 01:10.920
+And now if I click on this master component and I change anything that I want the color or anything
+
+01:10.920 --> 01:14.780
+else it changes everywhere that I have those copied.
+
+01:15.180 --> 01:23.110
+I'm going to undo this and or remove those and I'll show you a more powerful way of using components.
+
+01:23.160 --> 01:26.790
+For example we have this five star rating system.
+
+01:26.790 --> 01:31.740
+So what if we had a component that we can reuse and we can change this Five-Star has to be one and a
+
+01:31.740 --> 01:35.190
+half stars two and a half stars or whatever.
+
+01:35.190 --> 01:40.000
+So first thing I'm going to do is click and ungroup all of these.
+
+01:40.500 --> 01:48.000
+And what I want is I want an unfilled star so I'm going to choose this star here and then I want a field
+
+01:48.000 --> 01:54.860
+star so I'll choose this star and I'll overlay this and I want to move this up inside of my layers panel.
+
+01:55.110 --> 01:57.700
+I want to move this just up above the other one.
+
+01:57.790 --> 02:05.850
+So now we have a light gray star and then a red star and I'm going to just call this star hyphen unfilled
+
+02:07.260 --> 02:16.220
+and then I'll call this one star HIF and field.
+
+02:16.460 --> 02:20.720
+Now all aligned these are the last one that we have here.
+
+02:20.810 --> 02:25.700
+I'm going to make sure this is clear up of the top here in the laser system.
+
+02:25.700 --> 02:32.680
+So if I scroll up here let's bring this to the top of the home page and I'm going to align this and
+
+02:32.690 --> 02:34.520
+remember this doesn't align too well.
+
+02:34.520 --> 02:40.670
+Now it's on subpixel so I can still double click inside of here and just select these two shapes underneath
+
+02:40.790 --> 02:44.010
+this and all align that to snap.
+
+02:44.450 --> 02:51.430
+And then I will call this star hyphen half hyphen field.
+
+02:51.740 --> 02:57.050
+So we have the three versions of the star that we're always going to need fully filled and filled and
+
+02:57.050 --> 03:02.250
+a half filled so I can select these objects here.
+
+03:07.680 --> 03:11.490
+And let's just move this up to make sure that their layers are close to each other.
+
+03:11.820 --> 03:15.240
+And now that I've done this I have my naming scheme good.
+
+03:15.360 --> 03:17.220
+In fact I have some capital letters.
+
+03:17.250 --> 03:20.750
+I'm just going to change this to be all lowercase.
+
+03:21.000 --> 03:23.610
+Just for uniformity it really doesn't matter.
+
+03:23.850 --> 03:29.820
+But I'm going to click on these three layers now and I'll click Create component and I can call this
+
+03:29.820 --> 03:34.510
+master component star.
+
+03:34.650 --> 03:41.390
+So now if I copy this five times I'm going hold down option and copy this five different times.
+
+03:46.970 --> 03:55.850
+These child components have layer overrides so I can click on any of these stars here and I can choose
+
+03:56.120 --> 03:59.870
+to hide the Handfield icon and also the field icon right here.
+
+03:59.870 --> 04:04.280
+So now we have this unfilled icon I can do the same thing here.
+
+04:04.340 --> 04:05.820
+Hide these two layers.
+
+04:06.050 --> 04:07.410
+Let's say this is two and a half stars.
+
+04:07.410 --> 04:13.370
+So here I want to keep this half star field visible but I want to remove this Starfield underneath it
+
+04:13.790 --> 04:17.230
+and we have two and a half stars.
+
+04:17.300 --> 04:19.650
+Now I can delete these guys here.
+
+04:19.670 --> 04:25.370
+These are just simple shapes and I have these five child components and now I can center these here
+
+04:25.370 --> 04:31.520
+in the center of this art board and actually create a nother component here.
+
+04:31.550 --> 04:37.070
+And the reason why I didn't include this master component inside of here is because you can't nest master
+
+04:37.070 --> 04:41.480
+components inside of other components you have to use child components.
+
+04:41.480 --> 04:47.750
+So you create one master component and then let's copy all of these and click Create component again
+
+04:48.350 --> 04:52.580
+and I'm going to call this five stars.
+
+04:52.970 --> 04:54.860
+So this is a new master component.
+
+04:55.880 --> 05:00.890
+I'm going to zoom out and we can just place this master component outside of the frame here because
+
+05:00.890 --> 05:03.760
+we don't want to show it inside of our design.
+
+05:05.420 --> 05:12.650
+Now I can delete this five star system over here and copy this master component hold down option and
+
+05:12.650 --> 05:14.610
+I'll copy this over here.
+
+05:14.960 --> 05:17.480
+And now the really nice thing is this is the child component.
+
+05:17.480 --> 05:22.700
+But I can still drill down inside of here and choose this star here in the middle.
+
+05:22.820 --> 05:31.250
+I'm going to make this field and I can make this one here half field so we can change it very quickly.
+
+05:32.630 --> 05:37.340
+But now if we go in here and decide to give this a little bit more spacing I can still click on each
+
+05:37.340 --> 05:42.490
+of these objects and I can just nudge this around and you can see over to the right.
+
+05:42.500 --> 05:45.360
+This is also being updated.
+
+05:53.290 --> 05:58.070
+So I'm changing this one master component here and the spacing is applied over here.
+
+05:58.840 --> 06:05.290
+If I ever want to change the color of this star here of the half star and the full star here I can just
+
+06:05.290 --> 06:13.020
+select both of these components so I'll choose star half field and Starfield and all the side.
+
+06:13.210 --> 06:14.890
+Maybe I want these to be yellow.
+
+06:15.370 --> 06:23.050
+So as soon as I change that to be yellow or gold I can now zoom out and everything is changed here so
+
+06:23.110 --> 06:28.480
+very easily and very quickly we created components within components and we can do the same thing with
+
+06:28.810 --> 06:29.770
+these guys here.
+
+06:29.780 --> 06:38.950
+So if I click and ungroup these shift command G and group or you can right click inside of different
+
+06:38.950 --> 06:42.470
+areas here and just choose ungroup.
+
+06:42.490 --> 06:45.970
+Now I want to create one component with all of these objects.
+
+06:46.060 --> 06:54.820
+So all I have to do is bring these down here and just align them to the center of each other and I'm
+
+06:54.820 --> 07:04.480
+going to name these after I ungroup them all the way I can comment and I'll move these out of the way
+
+07:04.480 --> 07:07.180
+so I can see which one I'm remaining.
+
+07:07.180 --> 07:08.860
+So this is the icon
+
+07:11.680 --> 07:15.120
+timer and this is the icon heart
+
+07:19.550 --> 07:23.510
+now we can grab all three of these and a line in the middle and the center.
+
+07:23.840 --> 07:28.950
+And because we have all of these now we can choose to create component.
+
+07:29.720 --> 07:32.180
+And let's just call these icons.
+
+07:32.780 --> 07:38.330
+Now if we hold down option we can move this and if we clicked this arrow in the layers panel now we
+
+07:38.330 --> 07:42.370
+can decide that we want to only show the timer here.
+
+07:42.620 --> 07:44.720
+Hold down option and drag over here.
+
+07:44.720 --> 07:48.120
+And here we want to show the heart.
+
+07:48.940 --> 07:50.720
+Let's drag one more time.
+
+07:50.810 --> 07:53.620
+And here we want to show the comment.
+
+07:54.080 --> 07:59.240
+So now at any time with this master component you can resize this you can move this around here in the
+
+07:59.240 --> 08:03.100
+components area and you can change the styling.
+
+08:03.110 --> 08:10.300
+Replace them and it's a great way to organize your icons this way so that you can toggle on and off
+
+08:10.310 --> 08:12.630
+within this layers panel.
+
+08:12.650 --> 08:17.150
+Now we can see that we have this master component icons and we also have this master component which
+
+08:17.150 --> 08:18.480
+is the star.
+
+08:18.890 --> 08:24.180
+And we don't really want this inside of our frames because we're only using the child components here
+
+08:25.190 --> 08:28.710
+so we can click on this page view and click new page.
+
+08:28.820 --> 08:32.190
+And this is where I like to create a page called symbols.
+
+08:32.480 --> 08:38.780
+And if I click back to PAGE ONE I can click and drag here and just right click and move this to symbols
+
+08:38.780 --> 08:41.260
+here.
+
+08:41.300 --> 08:46.250
+Now if I ever want to see where the master component is to edit this I can right click inside of here
+
+08:47.330 --> 08:52.850
+and click go to master component and then jumps right to the symbol page and tells me here's where it
+
+08:52.850 --> 09:00.350
+is and now if I click on this and I add a stroke for example and I know that looks really ugly but just
+
+09:00.350 --> 09:05.990
+for demo purposes let's go back to the page one that we can see that that changed here as well.
+
+09:06.020 --> 09:11.710
+So get it right quick go back to master component and hold down command.
+
+09:11.720 --> 09:15.790
+I can go into this group and remove this stroke here.
+
+09:16.640 --> 09:20.990
+We'll go back into Page 1 and we can see that that's updated.
+
+09:20.990 --> 09:24.980
+So I would recommend storing your master components inside of the symbols.
+
+09:24.980 --> 09:27.380
+Or you can name this components to match where they really are.
+
+09:27.380 --> 09:32.390
+I actually named them symbols because I'm used to sketch map where the components have a different name
+
+09:32.390 --> 09:34.400
+and that is symbols.
+
+09:34.400 --> 09:36.300
+So now this is renamed to components.
+
+09:36.500 --> 09:39.350
+We have all of these icons here set up as components.
+
+09:39.350 --> 09:42.260
+These are set up as components and we can do the same thing here.
+
+09:42.260 --> 09:44.850
+This could be one component or they could be two.
+
+09:45.050 --> 09:55.040
+So we can click on here quick create component and we can name this shopping create this component
+
+09:57.920 --> 10:04.980
+and preparation.
+
+10:05.000 --> 10:08.790
+Now the last component we want to create is this hot button.
+
+10:09.050 --> 10:16.690
+So I'm going to call this button heart and we'll click Create component here.
+
+10:16.700 --> 10:19.520
+Now there are times that this heart is going to be filled or unfilled.
+
+10:19.520 --> 10:21.900
+So now we've created a component.
+
+10:22.130 --> 10:26.890
+I'm going to zoom into here and this is the master component.
+
+10:27.140 --> 10:29.100
+But we can still click inside of here.
+
+10:29.390 --> 10:33.500
+We can see that we have a button heart inside of this Master component.
+
+10:33.950 --> 10:42.350
+I'm just going to name this heart outline and if I use command C and command B to paste this I'm going
+
+10:42.350 --> 10:44.060
+to name this one heart field
+
+10:47.650 --> 10:52.800
+and the only thing I'm going to change here if I double click on this icon.
+
+10:53.260 --> 10:55.870
+You can see I have these two shapes that I merged.
+
+10:55.990 --> 11:02.800
+I actually want to bake this in so if I click on this harp field here I'm going to go to object and
+
+11:02.800 --> 11:06.920
+flatten selection and that will bake everything has one shape.
+
+11:07.510 --> 11:15.950
+And now I can click inside of here add a white fill and even remove the stroke here.
+
+11:17.270 --> 11:21.240
+So we have one field heart and one outlined heart.
+
+11:22.490 --> 11:29.280
+And anywhere we have this heart saved we can always toggle that on and off using these layers.
+
+11:29.300 --> 11:32.630
+This is also a basic shape so we want to delete this.
+
+11:32.750 --> 11:37.760
+We can click on this master component here and again hold down option and copy this over here and it
+
+11:37.760 --> 11:39.700
+creates a child component.
+
+11:40.130 --> 11:44.810
+And again now we can change the layering inside of here.
+
+11:44.810 --> 11:47.960
+We can change this to be filled if we want this to be unfilled.
+
+11:48.620 --> 11:54.500
+And because it's the same component if you ever change the color or style in the master section it'll
+
+11:54.500 --> 11:57.050
+also change here.
+
+11:57.050 --> 12:03.080
+Now let's scroll down here and we'll see this preparation window here if I just squeeze this down a
+
+12:03.080 --> 12:04.720
+little bit to give some room over here.
+
+12:04.880 --> 12:11.350
+I actually want to have each preparation area I want to have an icon here that represents the steps.
+
+12:11.530 --> 12:16.740
+So I'm going to zoom in a little bit and I'll show you how to create some nice components for this.
+
+12:17.030 --> 12:25.130
+So the first thing I'm going to do is click Oh for this ellipse and I'll just create a 20 pixel by pixel
+
+12:25.130 --> 12:26.370
+circle here.
+
+12:26.630 --> 12:33.960
+And I actually want this color to be the same colors that unfilled star so I can come back over here.
+
+12:34.220 --> 12:39.230
+I can double click inside of here and if I choose the star unfilled.
+
+12:39.710 --> 12:42.490
+All right click and copy style.
+
+12:42.650 --> 12:47.840
+I'll come down here right quick and paste the style so that looks good.
+
+12:48.170 --> 12:52.140
+I'm going to add some text inside of this so this text is just going to say one.
+
+12:53.180 --> 12:55.970
+And we're using rubato here you can use whatever form that you want.
+
+12:55.970 --> 13:04.940
+I'm going to make this bold here and I'll create this to be read text and if I zoom inside of here now
+
+13:07.590 --> 13:09.180
+I'm going to do this to be centered
+
+13:11.960 --> 13:19.060
+and I'll just change the width of this and the height of this to match.
+
+13:19.600 --> 13:23.970
+And I'm going to sit this texture right in the center of this circle.
+
+13:24.790 --> 13:36.640
+So we have a one and I can group this and call this step number and then I want to hold down option
+
+13:36.640 --> 13:39.850
+and copy this and I say this step is completed.
+
+13:39.940 --> 13:44.860
+Well now we want to double click in here until we select this circle here or this the lips and let's
+
+13:44.860 --> 13:54.590
+fill this color to be red and I'm going to remove this text and now I want to create a checkmark icon.
+
+13:55.270 --> 13:57.450
+So very easily I can use this pen tool.
+
+13:57.760 --> 14:05.530
+And I'll just click and create a checkmark something like this will be good and I want the stroke to
+
+14:05.530 --> 14:07.710
+be two pixels.
+
+14:08.830 --> 14:10.960
+And now I want to cap the ends.
+
+14:10.960 --> 14:13.190
+I want them to be rounded.
+
+14:13.300 --> 14:16.040
+I'm going to change the color here to be white.
+
+14:16.420 --> 14:17.840
+Get a scrape a few times.
+
+14:17.870 --> 14:22.440
+I accidentally created a new shape out here I'm going to delete.
+
+14:23.540 --> 14:25.630
+OK so we have that check mark.
+
+14:25.840 --> 14:30.380
+I'm going to just balance this center it here in a circle.
+
+14:31.120 --> 14:35.110
+And sometimes because it's a little bit offset and you kind of have to eyeball it I'm going to hold
+
+14:35.110 --> 14:40.450
+down shift and let's just align this horizontally.
+
+14:40.450 --> 14:43.310
+So we have this step completed.
+
+14:43.990 --> 14:49.900
+So now I'm going to drag this vector shape into this other step number group instead of naming this
+
+14:49.900 --> 14:50.790
+step number.
+
+14:50.860 --> 14:55.400
+We're going to do step complete case.
+
+14:55.410 --> 15:00.580
+So now we have our step number and our step complete we can do the same thing where we align this here
+
+15:00.580 --> 15:07.390
+to the top we're in select both of these and we're to create a component and we'll just call this icon
+
+15:07.450 --> 15:10.220
+steps.
+
+15:10.470 --> 15:15.630
+Now because this is a master component I'm going to hold down option and drag this down to create a
+
+15:15.630 --> 15:16.660
+child component.
+
+15:16.890 --> 15:22.350
+And then again I'm going to right click and move the master component to the page components and then
+
+15:22.350 --> 15:26.500
+I can use all these child components möglich inside of here.
+
+15:26.580 --> 15:28.200
+Remove step complete.
+
+15:28.500 --> 15:34.020
+And now I just have the step number but one thing that's really nice is I can hold down option and copy
+
+15:34.020 --> 15:39.480
+this a few times and I can still go inside here in this text and if I double click a few times I can
+
+15:39.480 --> 15:50.610
+change the number here to 1 to 3 and watch this if we change this to step 22 we see that there's not
+
+15:50.610 --> 15:56.640
+enough padding around here and we've already committed to our design here and it's going to take a lot
+
+15:56.640 --> 16:03.750
+of work to go on here and change all the sizes here of the fonts to kind of help this padding to be
+
+16:03.780 --> 16:04.810
+correct.
+
+16:05.370 --> 16:10.760
+But because we created components we can still right click and jump to master component.
+
+16:11.040 --> 16:15.600
+So we can see that the master component hasn't changed if we double click inside of here and we choose
+
+16:15.600 --> 16:16.560
+this group.
+
+16:16.560 --> 16:20.330
+We're going to move this away and you can still see where it says one.
+
+16:20.340 --> 16:25.900
+So that text that we changed is just overridden in those trial components it's not going to change here
+
+16:26.670 --> 16:29.870
+but just for this master component I'm going to hide this.
+
+16:30.870 --> 16:38.310
+And now I can click on this font inside of the master component and I can choose to resize this to 12
+
+16:40.290 --> 16:42.200
+and maybe Let's try 10 here.
+
+16:42.210 --> 16:44.360
+So we resize this to 10.
+
+16:44.370 --> 16:48.460
+I can jump back into my pages and you can see it fits a lot nicer.
+
+16:48.480 --> 16:53.340
+Now we could have clicked inside of just this number inside of here if we wanted this text to be larger
+
+16:53.550 --> 16:55.590
+than just this text would be smaller.
+
+16:55.590 --> 17:00.090
+We can click inside of here and change this to even be 48 pixels for example.
+
+17:00.150 --> 17:01.440
+That's way too large.
+
+17:01.440 --> 17:07.300
+I'm going to choose 14 pixels and you can see that this change and none of these changed.
+
+17:07.350 --> 17:13.270
+That's because if you change anything in a child component that's actually going to override that change.
+
+17:13.320 --> 17:17.430
+And when you change the master component now if you change the size it'll change the size of all of
+
+17:17.430 --> 17:18.100
+these.
+
+17:18.330 --> 17:21.670
+But it won't change this because you've overridden that size.
+
+17:21.870 --> 17:28.380
+If you want to ever change this back you can double click inside of this text area and you can go back
+
+17:28.800 --> 17:34.730
+into this little button here this instance button and you can choose to reset all overwrites.
+
+17:34.740 --> 17:40.110
+So right now we overrode the name so we typed in 22 and that's different in the master component.
+
+17:40.110 --> 17:46.080
+We overrode the text we overrode the textile so we can choose to not reset the text but we can reset
+
+17:46.090 --> 17:47.110
+that style.
+
+17:47.160 --> 17:50.340
+And that brings it back down and we could reset the name if we wanted.
+
+17:50.340 --> 17:56.300
+But I'm just going to leave that and I can see that these are sitting a little bit high to the circles
+
+17:56.310 --> 17:59.590
+on the right click and go to master component again.
+
+18:00.330 --> 18:02.120
+And if I double click on this text.
+
+18:02.310 --> 18:05.840
+Let's just have this sit down just a little bit something like this.
+
+18:05.850 --> 18:09.410
+Let's jump back into our pages and see if that looks better.
+
+18:09.420 --> 18:11.860
+I think that looks a little bit better here.
+
+18:11.880 --> 18:19.350
+So now going down the list I'm going to just change this to four and let's say that these steps are
+
+18:19.350 --> 18:20.020
+complete here.
+
+18:20.020 --> 18:27.690
+So I'm just going to mark this is complete and the first few steps we'll just say are complete here.
+
+18:31.550 --> 18:33.930
+Little Linus here with the top of this text
+
+18:39.540 --> 18:45.660
+and let's say it's all but the last is complete and these are a little bit too many steps.
+
+18:45.870 --> 18:49.770
+So I know if you try to follow this recipe you're probably going to screw up because I'm going to delete
+
+18:49.830 --> 18:51.720
+a bunch of mid text inside of here.
+
+18:51.720 --> 18:54.020
+But this is just for visual representation.
+
+18:54.510 --> 18:59.190
+And I don't want the art board to be that long so I'm just changing this just deleting the little bit
+
+18:59.190 --> 19:00.560
+of these steps.
+
+19:00.660 --> 19:03.990
+So let's just have you know three or four steps here.
+
+19:03.990 --> 19:11.070
+So three of them are completed and this fourth one is not.
+
+19:11.190 --> 19:15.450
+Now I want to make sure things are lined up correctly so I'm going to hold down option b c there's 31
+
+19:15.450 --> 19:16.150
+pixels here.
+
+19:16.170 --> 19:22.230
+I actually want to nudge this so there's only 20 pixels here then I want 10 pixels to be in between
+
+19:22.230 --> 19:27.670
+here and I just want to hold down shift and nudge at once.
+
+19:27.720 --> 19:33.440
+And now we have 10 pixels and then I want this side to be 20 pixels so I'm going to hold down command
+
+19:33.780 --> 19:37.490
+and nudge this one two three four five six.
+
+19:37.560 --> 19:37.820
+OK.
+
+19:37.830 --> 19:39.330
+So everything looks good.
+
+19:40.200 --> 19:42.430
+And we have our steps.
+
+19:43.200 --> 19:47.330
+Now zoom out here and take a look at this.
+
+19:47.370 --> 19:49.840
+This is all looking really good now.
+
+19:50.790 --> 19:54.370
+And to match the lining here this shows 14 by 14.
+
+19:54.420 --> 20:00.990
+I'm just going to line this here with the edge here and then nudge this holding now command left arrow
+
+20:00.990 --> 20:04.800
+left arrow and command shift left arrow once more.
+
+20:04.800 --> 20:09.630
+So we have a 20 by 20 so we can see this is a line really good.
+
+20:10.140 --> 20:11.170
+And go into a line.
+
+20:11.170 --> 20:17.180
+The ease with the edges here.
+
+20:17.460 --> 20:23.310
+So those are components we've now converted all of our icons to components here and they're ready to
+
+20:23.310 --> 20:26.490
+be reused throughout all of the other designs.
+
+20:26.490 --> 20:29.880
+For example I'm just going to hold down option here and I'll just move this over here because I know
+
+20:29.880 --> 20:34.230
+we're going to use the same kind of five star scheme inside of this design in the future.
+
+20:35.990 --> 20:41.780
+Again now if we click on this components panel you can see all of our components here.
+
+20:41.780 --> 20:49.210
+We have six components on our home page and we have three components here under the components background.

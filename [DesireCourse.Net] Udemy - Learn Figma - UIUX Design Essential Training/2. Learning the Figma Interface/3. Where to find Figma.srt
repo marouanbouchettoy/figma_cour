@@ -1,0 +1,28 @@
+﻿1
+00:00:00,170 --> 00:00:04,640
+To get started using figure you'll want to go to Sigma dot com and then you can click sign up here over
+
+2
+00:00:04,640 --> 00:00:09,590
+to the right and just enter in your email address and a password that you want to use.
+
+3
+00:00:09,660 --> 00:00:13,980
+Once you do this it'll ask if your name and then what kind of work you do and then you can click Create
+
+4
+00:00:13,980 --> 00:00:15,650
+Account here.
+
+5
+00:00:15,660 --> 00:00:20,910
+Now Sigma works on almost any modern browser but it works best in the Chrome browser so if you're going
+
+6
+00:00:20,910 --> 00:00:27,180
+to use figment in a browser I highly recommend using chrome and in a later video I'll show you how to
+
+7
+00:00:27,180 --> 00:00:30,120
+use their desktop app which has a little bit more functionality.
+
